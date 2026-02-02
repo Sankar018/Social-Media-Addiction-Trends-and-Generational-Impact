@@ -1,0 +1,1301 @@
+Year,State,City,Avg_Addiction_Score
+2013,Andhra Pradesh,Visakhapatnam,23.0
+2014,Andhra Pradesh,Visakhapatnam,24.99
+2015,Andhra Pradesh,Visakhapatnam,27.02
+2016,Andhra Pradesh,Visakhapatnam,31.44
+2017,Andhra Pradesh,Visakhapatnam,39.12
+2018,Andhra Pradesh,Visakhapatnam,44.93
+2019,Andhra Pradesh,Visakhapatnam,50.6
+2020,Andhra Pradesh,Visakhapatnam,61.81
+2021,Andhra Pradesh,Visakhapatnam,66.17
+2022,Andhra Pradesh,Visakhapatnam,70.06
+2023,Andhra Pradesh,Visakhapatnam,74.71
+2024,Andhra Pradesh,Visakhapatnam,78.1
+2025,Andhra Pradesh,Visakhapatnam,82.11
+2013,Andhra Pradesh,Guntur,16.35
+2014,Andhra Pradesh,Guntur,17.15
+2015,Andhra Pradesh,Guntur,18.77
+2016,Andhra Pradesh,Guntur,23.62
+2017,Andhra Pradesh,Guntur,30.03
+2018,Andhra Pradesh,Guntur,35.02
+2019,Andhra Pradesh,Guntur,42.2
+2020,Andhra Pradesh,Guntur,55.15
+2021,Andhra Pradesh,Guntur,60.3
+2022,Andhra Pradesh,Guntur,65.83
+2023,Andhra Pradesh,Guntur,71.58
+2024,Andhra Pradesh,Guntur,74.29
+2025,Andhra Pradesh,Guntur,77.18
+2013,Andhra Pradesh,Nellore,17.85
+2014,Andhra Pradesh,Nellore,18.18
+2015,Andhra Pradesh,Nellore,20.05
+2016,Andhra Pradesh,Nellore,24.36
+2017,Andhra Pradesh,Nellore,32.32
+2018,Andhra Pradesh,Nellore,40.1
+2019,Andhra Pradesh,Nellore,44.91
+2020,Andhra Pradesh,Nellore,59.07
+2021,Andhra Pradesh,Nellore,64.7
+2022,Andhra Pradesh,Nellore,68.38
+2023,Andhra Pradesh,Nellore,72.6
+2024,Andhra Pradesh,Nellore,78.5
+2025,Andhra Pradesh,Nellore,82.86
+2013,Andhra Pradesh,Kurnool,17.32
+2014,Andhra Pradesh,Kurnool,21.17
+2015,Andhra Pradesh,Kurnool,22.35
+2016,Andhra Pradesh,Kurnool,25.69
+2017,Andhra Pradesh,Kurnool,32.74
+2018,Andhra Pradesh,Kurnool,40.19
+2019,Andhra Pradesh,Kurnool,46.71
+2020,Andhra Pradesh,Kurnool,57.75
+2021,Andhra Pradesh,Kurnool,62.02
+2022,Andhra Pradesh,Kurnool,67.59
+2023,Andhra Pradesh,Kurnool,73.35
+2024,Andhra Pradesh,Kurnool,79.05
+2025,Andhra Pradesh,Kurnool,84.37
+2013,Andhra Pradesh,Vijayawada,20.88
+2014,Andhra Pradesh,Vijayawada,22.37
+2015,Andhra Pradesh,Vijayawada,24.67
+2016,Andhra Pradesh,Vijayawada,29.38
+2017,Andhra Pradesh,Vijayawada,34.88
+2018,Andhra Pradesh,Vijayawada,42.31
+2019,Andhra Pradesh,Vijayawada,49.22
+2020,Andhra Pradesh,Vijayawada,61.12
+2021,Andhra Pradesh,Vijayawada,67.08
+2022,Andhra Pradesh,Vijayawada,70.78
+2023,Andhra Pradesh,Vijayawada,73.9
+2024,Andhra Pradesh,Vijayawada,78.26
+2025,Andhra Pradesh,Vijayawada,81.86
+2013,Arunachal Pradesh,Tawang,14.61
+2014,Arunachal Pradesh,Tawang,17.47
+2015,Arunachal Pradesh,Tawang,19.04
+2016,Arunachal Pradesh,Tawang,23.11
+2017,Arunachal Pradesh,Tawang,30.7
+2018,Arunachal Pradesh,Tawang,37.16
+2019,Arunachal Pradesh,Tawang,44.71
+2020,Arunachal Pradesh,Tawang,57.16
+2021,Arunachal Pradesh,Tawang,61.65
+2022,Arunachal Pradesh,Tawang,66.26
+2023,Arunachal Pradesh,Tawang,69.08
+2024,Arunachal Pradesh,Tawang,74.12
+2025,Arunachal Pradesh,Tawang,77.38
+2013,Arunachal Pradesh,Pasighat,15.28
+2014,Arunachal Pradesh,Pasighat,16.89
+2015,Arunachal Pradesh,Pasighat,17.92
+2016,Arunachal Pradesh,Pasighat,22.2
+2017,Arunachal Pradesh,Pasighat,30.02
+2018,Arunachal Pradesh,Pasighat,36.43
+2019,Arunachal Pradesh,Pasighat,42.74
+2020,Arunachal Pradesh,Pasighat,57.32
+2021,Arunachal Pradesh,Pasighat,63.32
+2022,Arunachal Pradesh,Pasighat,66.84
+2023,Arunachal Pradesh,Pasighat,72.24
+2024,Arunachal Pradesh,Pasighat,74.89
+2025,Arunachal Pradesh,Pasighat,79.23
+2013,Arunachal Pradesh,Ziro,16.83
+2014,Arunachal Pradesh,Ziro,18.53
+2015,Arunachal Pradesh,Ziro,20.08
+2016,Arunachal Pradesh,Ziro,25.59
+2017,Arunachal Pradesh,Ziro,32.77
+2018,Arunachal Pradesh,Ziro,37.36
+2019,Arunachal Pradesh,Ziro,42.71
+2020,Arunachal Pradesh,Ziro,58.01
+2021,Arunachal Pradesh,Ziro,63.79
+2022,Arunachal Pradesh,Ziro,70.14
+2023,Arunachal Pradesh,Ziro,74.42
+2024,Arunachal Pradesh,Ziro,77.43
+2025,Arunachal Pradesh,Ziro,80.98
+2013,Arunachal Pradesh,Itanagar,16.38
+2014,Arunachal Pradesh,Itanagar,17.76
+2015,Arunachal Pradesh,Itanagar,20.39
+2016,Arunachal Pradesh,Itanagar,26.28
+2017,Arunachal Pradesh,Itanagar,33.42
+2018,Arunachal Pradesh,Itanagar,40.21
+2019,Arunachal Pradesh,Itanagar,46.27
+2020,Arunachal Pradesh,Itanagar,60.33
+2021,Arunachal Pradesh,Itanagar,65.97
+2022,Arunachal Pradesh,Itanagar,70.59
+2023,Arunachal Pradesh,Itanagar,76.09
+2024,Arunachal Pradesh,Itanagar,80.72
+2025,Arunachal Pradesh,Itanagar,86.11
+2013,Arunachal Pradesh,Bomdila,15.76
+2014,Arunachal Pradesh,Bomdila,18.13
+2015,Arunachal Pradesh,Bomdila,20.63
+2016,Arunachal Pradesh,Bomdila,26.37
+2017,Arunachal Pradesh,Bomdila,33.32
+2018,Arunachal Pradesh,Bomdila,40.55
+2019,Arunachal Pradesh,Bomdila,46.65
+2020,Arunachal Pradesh,Bomdila,58.61
+2021,Arunachal Pradesh,Bomdila,62.29
+2022,Arunachal Pradesh,Bomdila,65.56
+2023,Arunachal Pradesh,Bomdila,70.21
+2024,Arunachal Pradesh,Bomdila,72.84
+2025,Arunachal Pradesh,Bomdila,76.98
+2013,Assam,Guwahati,16.81
+2014,Assam,Guwahati,17.99
+2015,Assam,Guwahati,20.86
+2016,Assam,Guwahati,26.63
+2017,Assam,Guwahati,33.55
+2018,Assam,Guwahati,41.03
+2019,Assam,Guwahati,46.44
+2020,Assam,Guwahati,56.51
+2021,Assam,Guwahati,63.65
+2022,Assam,Guwahati,68.11
+2023,Assam,Guwahati,71.3
+2024,Assam,Guwahati,75.35
+2025,Assam,Guwahati,79.51
+2013,Assam,Dibrugarh,19.34
+2014,Assam,Dibrugarh,20.51
+2015,Assam,Dibrugarh,22.8
+2016,Assam,Dibrugarh,27.39
+2017,Assam,Dibrugarh,33.62
+2018,Assam,Dibrugarh,39.45
+2019,Assam,Dibrugarh,45.7
+2020,Assam,Dibrugarh,58.46
+2021,Assam,Dibrugarh,63.26
+2022,Assam,Dibrugarh,67.23
+2023,Assam,Dibrugarh,73.54
+2024,Assam,Dibrugarh,78.09
+2025,Assam,Dibrugarh,82.58
+2013,Assam,Jorhat,19.36
+2014,Assam,Jorhat,20.43
+2015,Assam,Jorhat,22.17
+2016,Assam,Jorhat,28.38
+2017,Assam,Jorhat,36.24
+2018,Assam,Jorhat,41.14
+2019,Assam,Jorhat,46.81
+2020,Assam,Jorhat,57.82
+2021,Assam,Jorhat,64.36
+2022,Assam,Jorhat,69.35
+2023,Assam,Jorhat,73.95
+2024,Assam,Jorhat,78.54
+2025,Assam,Jorhat,83.55
+2013,Assam,Silchar,16.08
+2014,Assam,Silchar,18.37
+2015,Assam,Silchar,20.28
+2016,Assam,Silchar,24.5
+2017,Assam,Silchar,32.44
+2018,Assam,Silchar,38.28
+2019,Assam,Silchar,43.74
+2020,Assam,Silchar,58.13
+2021,Assam,Silchar,64.68
+2022,Assam,Silchar,71.01
+2023,Assam,Silchar,75.66
+2024,Assam,Silchar,80.0
+2025,Assam,Silchar,84.28
+2013,Assam,Tezpur,18.14
+2014,Assam,Tezpur,18.77
+2015,Assam,Tezpur,21.09
+2016,Assam,Tezpur,25.71
+2017,Assam,Tezpur,31.27
+2018,Assam,Tezpur,37.84
+2019,Assam,Tezpur,43.27
+2020,Assam,Tezpur,53.38
+2021,Assam,Tezpur,59.61
+2022,Assam,Tezpur,62.94
+2023,Assam,Tezpur,67.68
+2024,Assam,Tezpur,72.01
+2025,Assam,Tezpur,77.02
+2013,Bihar,Muzaffarpur,17.62
+2014,Bihar,Muzaffarpur,19.1
+2015,Bihar,Muzaffarpur,20.8
+2016,Bihar,Muzaffarpur,25.55
+2017,Bihar,Muzaffarpur,32.69
+2018,Bihar,Muzaffarpur,39.85
+2019,Bihar,Muzaffarpur,47.03
+2020,Bihar,Muzaffarpur,58.19
+2021,Bihar,Muzaffarpur,65.66
+2022,Bihar,Muzaffarpur,69.08
+2023,Bihar,Muzaffarpur,73.41
+2024,Bihar,Muzaffarpur,77.77
+2025,Bihar,Muzaffarpur,83.27
+2013,Bihar,Bhagalpur,18.37
+2014,Bihar,Bhagalpur,19.38
+2015,Bihar,Bhagalpur,19.6
+2016,Bihar,Bhagalpur,24.5
+2017,Bihar,Bhagalpur,29.91
+2018,Bihar,Bhagalpur,36.78
+2019,Bihar,Bhagalpur,43.77
+2020,Bihar,Bhagalpur,58.57
+2021,Bihar,Bhagalpur,64.38
+2022,Bihar,Bhagalpur,70.62
+2023,Bihar,Bhagalpur,76.38
+2024,Bihar,Bhagalpur,81.61
+2025,Bihar,Bhagalpur,84.13
+2013,Bihar,Gaya,19.79
+2014,Bihar,Gaya,20.82
+2015,Bihar,Gaya,21.78
+2016,Bihar,Gaya,26.02
+2017,Bihar,Gaya,34.17
+2018,Bihar,Gaya,42.92
+2019,Bihar,Gaya,50.91
+2020,Bihar,Gaya,65.0
+2021,Bihar,Gaya,68.59
+2022,Bihar,Gaya,73.29
+2023,Bihar,Gaya,78.24
+2024,Bihar,Gaya,82.37
+2025,Bihar,Gaya,86.9
+2013,Bihar,Purnia,17.35
+2014,Bihar,Purnia,19.21
+2015,Bihar,Purnia,20.93
+2016,Bihar,Purnia,25.68
+2017,Bihar,Purnia,31.09
+2018,Bihar,Purnia,38.89
+2019,Bihar,Purnia,45.06
+2020,Bihar,Purnia,56.14
+2021,Bihar,Purnia,61.32
+2022,Bihar,Purnia,65.96
+2023,Bihar,Purnia,71.73
+2024,Bihar,Purnia,76.2
+2025,Bihar,Purnia,80.72
+2013,Bihar,Patna,16.74
+2014,Bihar,Patna,19.04
+2015,Bihar,Patna,19.68
+2016,Bihar,Patna,23.28
+2017,Bihar,Patna,29.56
+2018,Bihar,Patna,38.28
+2019,Bihar,Patna,43.63
+2020,Bihar,Patna,54.19
+2021,Bihar,Patna,58.18
+2022,Bihar,Patna,60.76
+2023,Bihar,Patna,64.57
+2024,Bihar,Patna,68.78
+2025,Bihar,Patna,73.8
+2013,Chhattisgarh,Rajnandgaon,16.21
+2014,Chhattisgarh,Rajnandgaon,18.3
+2015,Chhattisgarh,Rajnandgaon,20.16
+2016,Chhattisgarh,Rajnandgaon,24.61
+2017,Chhattisgarh,Rajnandgaon,30.31
+2018,Chhattisgarh,Rajnandgaon,37.38
+2019,Chhattisgarh,Rajnandgaon,44.91
+2020,Chhattisgarh,Rajnandgaon,57.63
+2021,Chhattisgarh,Rajnandgaon,63.16
+2022,Chhattisgarh,Rajnandgaon,67.01
+2023,Chhattisgarh,Rajnandgaon,70.24
+2024,Chhattisgarh,Rajnandgaon,72.58
+2025,Chhattisgarh,Rajnandgaon,76.06
+2013,Chhattisgarh,Raipur,14.39
+2014,Chhattisgarh,Raipur,16.81
+2015,Chhattisgarh,Raipur,18.89
+2016,Chhattisgarh,Raipur,24.25
+2017,Chhattisgarh,Raipur,31.99
+2018,Chhattisgarh,Raipur,38.09
+2019,Chhattisgarh,Raipur,43.85
+2020,Chhattisgarh,Raipur,56.12
+2021,Chhattisgarh,Raipur,63.55
+2022,Chhattisgarh,Raipur,67.88
+2023,Chhattisgarh,Raipur,71.15
+2024,Chhattisgarh,Raipur,74.57
+2025,Chhattisgarh,Raipur,78.08
+2013,Chhattisgarh,Durg,15.24
+2014,Chhattisgarh,Durg,16.44
+2015,Chhattisgarh,Durg,18.79
+2016,Chhattisgarh,Durg,24.28
+2017,Chhattisgarh,Durg,31.58
+2018,Chhattisgarh,Durg,37.47
+2019,Chhattisgarh,Durg,44.53
+2020,Chhattisgarh,Durg,57.76
+2021,Chhattisgarh,Durg,62.27
+2022,Chhattisgarh,Durg,66.37
+2023,Chhattisgarh,Durg,69.62
+2024,Chhattisgarh,Durg,72.93
+2025,Chhattisgarh,Durg,77.77
+2013,Chhattisgarh,Korba,13.66
+2014,Chhattisgarh,Korba,15.39
+2015,Chhattisgarh,Korba,16.39
+2016,Chhattisgarh,Korba,20.21
+2017,Chhattisgarh,Korba,27.64
+2018,Chhattisgarh,Korba,34.55
+2019,Chhattisgarh,Korba,42.01
+2020,Chhattisgarh,Korba,53.84
+2021,Chhattisgarh,Korba,58.42
+2022,Chhattisgarh,Korba,61.83
+2023,Chhattisgarh,Korba,67.73
+2024,Chhattisgarh,Korba,70.78
+2025,Chhattisgarh,Korba,74.49
+2013,Chhattisgarh,Bilaspur,15.19
+2014,Chhattisgarh,Bilaspur,17.76
+2015,Chhattisgarh,Bilaspur,20.68
+2016,Chhattisgarh,Bilaspur,25.35
+2017,Chhattisgarh,Bilaspur,30.55
+2018,Chhattisgarh,Bilaspur,37.62
+2019,Chhattisgarh,Bilaspur,44.29
+2020,Chhattisgarh,Bilaspur,56.1
+2021,Chhattisgarh,Bilaspur,61.85
+2022,Chhattisgarh,Bilaspur,65.52
+2023,Chhattisgarh,Bilaspur,70.14
+2024,Chhattisgarh,Bilaspur,74.06
+2025,Chhattisgarh,Bilaspur,79.36
+2013,Gujarat,Rajkot,19.79
+2014,Gujarat,Rajkot,20.47
+2015,Gujarat,Rajkot,22.18
+2016,Gujarat,Rajkot,27.0
+2017,Gujarat,Rajkot,34.83
+2018,Gujarat,Rajkot,41.5
+2019,Gujarat,Rajkot,46.73
+2020,Gujarat,Rajkot,58.36
+2021,Gujarat,Rajkot,64.77
+2022,Gujarat,Rajkot,68.68
+2023,Gujarat,Rajkot,72.69
+2024,Gujarat,Rajkot,76.23
+2025,Gujarat,Rajkot,80.65
+2013,Gujarat,Vadodara,16.87
+2014,Gujarat,Vadodara,18.07
+2015,Gujarat,Vadodara,20.04
+2016,Gujarat,Vadodara,25.8
+2017,Gujarat,Vadodara,33.17
+2018,Gujarat,Vadodara,40.13
+2019,Gujarat,Vadodara,47.75
+2020,Gujarat,Vadodara,62.16
+2021,Gujarat,Vadodara,68.45
+2022,Gujarat,Vadodara,73.85
+2023,Gujarat,Vadodara,78.97
+2024,Gujarat,Vadodara,84.0
+2025,Gujarat,Vadodara,87.91
+2013,Gujarat,Bhavnagar,16.81
+2014,Gujarat,Bhavnagar,18.73
+2015,Gujarat,Bhavnagar,19.95
+2016,Gujarat,Bhavnagar,25.28
+2017,Gujarat,Bhavnagar,31.23
+2018,Gujarat,Bhavnagar,36.34
+2019,Gujarat,Bhavnagar,41.79
+2020,Gujarat,Bhavnagar,54.69
+2021,Gujarat,Bhavnagar,59.7
+2022,Gujarat,Bhavnagar,63.64
+2023,Gujarat,Bhavnagar,69.3
+2024,Gujarat,Bhavnagar,72.27
+2025,Gujarat,Bhavnagar,77.68
+2013,Gujarat,Ahmedabad,22.91
+2014,Gujarat,Ahmedabad,24.22
+2015,Gujarat,Ahmedabad,26.28
+2016,Gujarat,Ahmedabad,30.08
+2017,Gujarat,Ahmedabad,36.14
+2018,Gujarat,Ahmedabad,43.52
+2019,Gujarat,Ahmedabad,48.55
+2020,Gujarat,Ahmedabad,61.1
+2021,Gujarat,Ahmedabad,66.61
+2022,Gujarat,Ahmedabad,71.58
+2023,Gujarat,Ahmedabad,76.24
+2024,Gujarat,Ahmedabad,80.46
+2025,Gujarat,Ahmedabad,84.95
+2013,Gujarat,Surat,14.1
+2014,Gujarat,Surat,15.5
+2015,Gujarat,Surat,16.7
+2016,Gujarat,Surat,21.83
+2017,Gujarat,Surat,27.45
+2018,Gujarat,Surat,34.73
+2019,Gujarat,Surat,41.05
+2020,Gujarat,Surat,54.06
+2021,Gujarat,Surat,60.28
+2022,Gujarat,Surat,62.48
+2023,Gujarat,Surat,68.59
+2024,Gujarat,Surat,73.02
+2025,Gujarat,Surat,76.56
+2013,Haryana,Panipat,15.71
+2014,Haryana,Panipat,18.42
+2015,Haryana,Panipat,20.18
+2016,Haryana,Panipat,25.66
+2017,Haryana,Panipat,31.06
+2018,Haryana,Panipat,39.29
+2019,Haryana,Panipat,46.51
+2020,Haryana,Panipat,57.83
+2021,Haryana,Panipat,62.78
+2022,Haryana,Panipat,66.5
+2023,Haryana,Panipat,71.59
+2024,Haryana,Panipat,75.2
+2025,Haryana,Panipat,78.98
+2013,Haryana,Faridabad,14.71
+2014,Haryana,Faridabad,16.45
+2015,Haryana,Faridabad,17.73
+2016,Haryana,Faridabad,22.82
+2017,Haryana,Faridabad,30.6
+2018,Haryana,Faridabad,36.05
+2019,Haryana,Faridabad,42.6
+2020,Haryana,Faridabad,55.02
+2021,Haryana,Faridabad,60.93
+2022,Haryana,Faridabad,63.78
+2023,Haryana,Faridabad,67.27
+2024,Haryana,Faridabad,72.35
+2025,Haryana,Faridabad,75.67
+2013,Haryana,Gurugram,17.29
+2014,Haryana,Gurugram,18.69
+2015,Haryana,Gurugram,19.8
+2016,Haryana,Gurugram,24.85
+2017,Haryana,Gurugram,32.22
+2018,Haryana,Gurugram,37.18
+2019,Haryana,Gurugram,42.39
+2020,Haryana,Gurugram,56.72
+2021,Haryana,Gurugram,62.38
+2022,Haryana,Gurugram,67.1
+2023,Haryana,Gurugram,72.14
+2024,Haryana,Gurugram,75.26
+2025,Haryana,Gurugram,78.45
+2013,Haryana,Ambala,15.05
+2014,Haryana,Ambala,17.77
+2015,Haryana,Ambala,20.06
+2016,Haryana,Ambala,25.22
+2017,Haryana,Ambala,32.01
+2018,Haryana,Ambala,38.08
+2019,Haryana,Ambala,43.25
+2020,Haryana,Ambala,56.96
+2021,Haryana,Ambala,63.77
+2022,Haryana,Ambala,69.69
+2023,Haryana,Ambala,74.76
+2024,Haryana,Ambala,77.86
+2025,Haryana,Ambala,81.41
+2013,Haryana,Hisar,15.06
+2014,Haryana,Hisar,15.71
+2015,Haryana,Hisar,17.9
+2016,Haryana,Hisar,22.64
+2017,Haryana,Hisar,29.65
+2018,Haryana,Hisar,35.79
+2019,Haryana,Hisar,40.91
+2020,Haryana,Hisar,56.14
+2021,Haryana,Hisar,62.28
+2022,Haryana,Hisar,67.18
+2023,Haryana,Hisar,71.53
+2024,Haryana,Hisar,76.31
+2025,Haryana,Hisar,80.94
+2013,Himachal Pradesh,Kullu,15.06
+2014,Himachal Pradesh,Kullu,15.54
+2015,Himachal Pradesh,Kullu,16.96
+2016,Himachal Pradesh,Kullu,21.31
+2017,Himachal Pradesh,Kullu,28.53
+2018,Himachal Pradesh,Kullu,37.52
+2019,Himachal Pradesh,Kullu,42.69
+2020,Himachal Pradesh,Kullu,58.23
+2021,Himachal Pradesh,Kullu,64.58
+2022,Himachal Pradesh,Kullu,67.9
+2023,Himachal Pradesh,Kullu,71.07
+2024,Himachal Pradesh,Kullu,75.77
+2025,Himachal Pradesh,Kullu,81.11
+2013,Himachal Pradesh,Solan,19.52
+2014,Himachal Pradesh,Solan,21.28
+2015,Himachal Pradesh,Solan,22.23
+2016,Himachal Pradesh,Solan,27.0
+2017,Himachal Pradesh,Solan,34.38
+2018,Himachal Pradesh,Solan,40.56
+2019,Himachal Pradesh,Solan,47.88
+2020,Himachal Pradesh,Solan,62.13
+2021,Himachal Pradesh,Solan,69.14
+2022,Himachal Pradesh,Solan,73.95
+2023,Himachal Pradesh,Solan,78.24
+2024,Himachal Pradesh,Solan,81.77
+2025,Himachal Pradesh,Solan,85.4
+2013,Himachal Pradesh,Mandi,14.63
+2014,Himachal Pradesh,Mandi,14.92
+2015,Himachal Pradesh,Mandi,16.37
+2016,Himachal Pradesh,Mandi,22.68
+2017,Himachal Pradesh,Mandi,28.81
+2018,Himachal Pradesh,Mandi,34.73
+2019,Himachal Pradesh,Mandi,41.86
+2020,Himachal Pradesh,Mandi,56.32
+2021,Himachal Pradesh,Mandi,63.19
+2022,Himachal Pradesh,Mandi,68.43
+2023,Himachal Pradesh,Mandi,74.08
+2024,Himachal Pradesh,Mandi,77.29
+2025,Himachal Pradesh,Mandi,81.74
+2013,Himachal Pradesh,Dharamshala,15.05
+2014,Himachal Pradesh,Dharamshala,16.69
+2015,Himachal Pradesh,Dharamshala,18.22
+2016,Himachal Pradesh,Dharamshala,23.51
+2017,Himachal Pradesh,Dharamshala,29.61
+2018,Himachal Pradesh,Dharamshala,38.03
+2019,Himachal Pradesh,Dharamshala,43.48
+2020,Himachal Pradesh,Dharamshala,59.08
+2021,Himachal Pradesh,Dharamshala,64.41
+2022,Himachal Pradesh,Dharamshala,67.76
+2023,Himachal Pradesh,Dharamshala,72.88
+2024,Himachal Pradesh,Dharamshala,76.73
+2025,Himachal Pradesh,Dharamshala,81.56
+2013,Himachal Pradesh,Shimla,15.31
+2014,Himachal Pradesh,Shimla,16.56
+2015,Himachal Pradesh,Shimla,17.34
+2016,Himachal Pradesh,Shimla,21.32
+2017,Himachal Pradesh,Shimla,27.61
+2018,Himachal Pradesh,Shimla,33.81
+2019,Himachal Pradesh,Shimla,41.6
+2020,Himachal Pradesh,Shimla,53.11
+2021,Himachal Pradesh,Shimla,59.41
+2022,Himachal Pradesh,Shimla,64.7
+2023,Himachal Pradesh,Shimla,69.04
+2024,Himachal Pradesh,Shimla,74.31
+2025,Himachal Pradesh,Shimla,79.09
+2013,Jharkhand,Ranchi,15.29
+2014,Jharkhand,Ranchi,17.42
+2015,Jharkhand,Ranchi,18.92
+2016,Jharkhand,Ranchi,23.52
+2017,Jharkhand,Ranchi,27.99
+2018,Jharkhand,Ranchi,36.3
+2019,Jharkhand,Ranchi,42.89
+2020,Jharkhand,Ranchi,56.98
+2021,Jharkhand,Ranchi,63.83
+2022,Jharkhand,Ranchi,67.82
+2023,Jharkhand,Ranchi,71.0
+2024,Jharkhand,Ranchi,76.35
+2025,Jharkhand,Ranchi,80.22
+2013,Jharkhand,Jamshedpur,15.64
+2014,Jharkhand,Jamshedpur,15.94
+2015,Jharkhand,Jamshedpur,18.42
+2016,Jharkhand,Jamshedpur,22.9
+2017,Jharkhand,Jamshedpur,28.11
+2018,Jharkhand,Jamshedpur,35.52
+2019,Jharkhand,Jamshedpur,41.15
+2020,Jharkhand,Jamshedpur,54.81
+2021,Jharkhand,Jamshedpur,59.17
+2022,Jharkhand,Jamshedpur,63.24
+2023,Jharkhand,Jamshedpur,68.5
+2024,Jharkhand,Jamshedpur,73.06
+2025,Jharkhand,Jamshedpur,77.8
+2013,Jharkhand,Dhanbad,15.92
+2014,Jharkhand,Dhanbad,16.03
+2015,Jharkhand,Dhanbad,17.05
+2016,Jharkhand,Dhanbad,22.05
+2017,Jharkhand,Dhanbad,28.83
+2018,Jharkhand,Dhanbad,34.62
+2019,Jharkhand,Dhanbad,40.63
+2020,Jharkhand,Dhanbad,51.25
+2021,Jharkhand,Dhanbad,58.09
+2022,Jharkhand,Dhanbad,62.54
+2023,Jharkhand,Dhanbad,68.17
+2024,Jharkhand,Dhanbad,72.33
+2025,Jharkhand,Dhanbad,78.03
+2013,Jharkhand,Hazaribagh,16.33
+2014,Jharkhand,Hazaribagh,17.93
+2015,Jharkhand,Hazaribagh,19.12
+2016,Jharkhand,Hazaribagh,23.1
+2017,Jharkhand,Hazaribagh,30.21
+2018,Jharkhand,Hazaribagh,38.66
+2019,Jharkhand,Hazaribagh,45.77
+2020,Jharkhand,Hazaribagh,56.35
+2021,Jharkhand,Hazaribagh,62.68
+2022,Jharkhand,Hazaribagh,66.4
+2023,Jharkhand,Hazaribagh,71.16
+2024,Jharkhand,Hazaribagh,75.09
+2025,Jharkhand,Hazaribagh,78.57
+2013,Jharkhand,Bokaro,18.11
+2014,Jharkhand,Bokaro,20.29
+2015,Jharkhand,Bokaro,22.92
+2016,Jharkhand,Bokaro,28.7
+2017,Jharkhand,Bokaro,35.29
+2018,Jharkhand,Bokaro,42.24
+2019,Jharkhand,Bokaro,48.61
+2020,Jharkhand,Bokaro,62.97
+2021,Jharkhand,Bokaro,67.61
+2022,Jharkhand,Bokaro,71.19
+2023,Jharkhand,Bokaro,74.77
+2024,Jharkhand,Bokaro,78.97
+2025,Jharkhand,Bokaro,84.54
+2013,Karnataka,Mysuru,14.26
+2014,Karnataka,Mysuru,15.69
+2015,Karnataka,Mysuru,17.04
+2016,Karnataka,Mysuru,22.9
+2017,Karnataka,Mysuru,27.94
+2018,Karnataka,Mysuru,35.07
+2019,Karnataka,Mysuru,40.16
+2020,Karnataka,Mysuru,49.96
+2021,Karnataka,Mysuru,56.57
+2022,Karnataka,Mysuru,60.98
+2023,Karnataka,Mysuru,65.05
+2024,Karnataka,Mysuru,68.89
+2025,Karnataka,Mysuru,73.69
+2013,Karnataka,Bengaluru,25.79
+2014,Karnataka,Bengaluru,27.22
+2015,Karnataka,Bengaluru,28.35
+2016,Karnataka,Bengaluru,33.39
+2017,Karnataka,Bengaluru,41.57
+2018,Karnataka,Bengaluru,47.48
+2019,Karnataka,Bengaluru,54.46
+2020,Karnataka,Bengaluru,66.9
+2021,Karnataka,Bengaluru,73.49
+2022,Karnataka,Bengaluru,76.77
+2023,Karnataka,Bengaluru,80.4
+2024,Karnataka,Bengaluru,83.39
+2025,Karnataka,Bengaluru,87.76
+2013,Karnataka,Belagavi,18.56
+2014,Karnataka,Belagavi,20.59
+2015,Karnataka,Belagavi,23.52
+2016,Karnataka,Belagavi,29.03
+2017,Karnataka,Belagavi,36.86
+2018,Karnataka,Belagavi,43.39
+2019,Karnataka,Belagavi,50.7
+2020,Karnataka,Belagavi,62.28
+2021,Karnataka,Belagavi,68.4
+2022,Karnataka,Belagavi,74.4
+2023,Karnataka,Belagavi,79.23
+2024,Karnataka,Belagavi,83.93
+2025,Karnataka,Belagavi,88.12
+2013,Karnataka,Hubli,15.94
+2014,Karnataka,Hubli,18.48
+2015,Karnataka,Hubli,20.06
+2016,Karnataka,Hubli,25.21
+2017,Karnataka,Hubli,29.68
+2018,Karnataka,Hubli,35.15
+2019,Karnataka,Hubli,41.74
+2020,Karnataka,Hubli,51.85
+2021,Karnataka,Hubli,57.79
+2022,Karnataka,Hubli,62.85
+2023,Karnataka,Hubli,67.5
+2024,Karnataka,Hubli,71.63
+2025,Karnataka,Hubli,75.13
+2013,Karnataka,Mangaluru,15.88
+2014,Karnataka,Mangaluru,18.13
+2015,Karnataka,Mangaluru,20.5
+2016,Karnataka,Mangaluru,26.28
+2017,Karnataka,Mangaluru,34.26
+2018,Karnataka,Mangaluru,39.34
+2019,Karnataka,Mangaluru,44.92
+2020,Karnataka,Mangaluru,56.92
+2021,Karnataka,Mangaluru,61.35
+2022,Karnataka,Mangaluru,65.4
+2023,Karnataka,Mangaluru,70.12
+2024,Karnataka,Mangaluru,74.61
+2025,Karnataka,Mangaluru,77.12
+2013,Kerala,Thrissur,14.98
+2014,Kerala,Thrissur,16.38
+2015,Kerala,Thrissur,16.74
+2016,Kerala,Thrissur,22.89
+2017,Kerala,Thrissur,29.45
+2018,Kerala,Thrissur,35.26
+2019,Kerala,Thrissur,42.22
+2020,Kerala,Thrissur,56.59
+2021,Kerala,Thrissur,62.89
+2022,Kerala,Thrissur,67.09
+2023,Kerala,Thrissur,70.49
+2024,Kerala,Thrissur,75.1
+2025,Kerala,Thrissur,78.64
+2013,Kerala,Kozhikode,17.1
+2014,Kerala,Kozhikode,20.15
+2015,Kerala,Kozhikode,20.79
+2016,Kerala,Kozhikode,26.08
+2017,Kerala,Kozhikode,31.6
+2018,Kerala,Kozhikode,37.28
+2019,Kerala,Kozhikode,44.73
+2020,Kerala,Kozhikode,56.62
+2021,Kerala,Kozhikode,61.27
+2022,Kerala,Kozhikode,66.94
+2023,Kerala,Kozhikode,70.57
+2024,Kerala,Kozhikode,75.13
+2025,Kerala,Kozhikode,81.16
+2013,Kerala,Thiruvananthapuram,14.08
+2014,Kerala,Thiruvananthapuram,16.31
+2015,Kerala,Thiruvananthapuram,17.14
+2016,Kerala,Thiruvananthapuram,21.08
+2017,Kerala,Thiruvananthapuram,27.16
+2018,Kerala,Thiruvananthapuram,31.98
+2019,Kerala,Thiruvananthapuram,39.5
+2020,Kerala,Thiruvananthapuram,53.12
+2021,Kerala,Thiruvananthapuram,58.08
+2022,Kerala,Thiruvananthapuram,62.1
+2023,Kerala,Thiruvananthapuram,67.61
+2024,Kerala,Thiruvananthapuram,71.98
+2025,Kerala,Thiruvananthapuram,75.41
+2013,Kerala,Kannur,14.95
+2014,Kerala,Kannur,15.79
+2015,Kerala,Kannur,17.51
+2016,Kerala,Kannur,23.68
+2017,Kerala,Kannur,30.46
+2018,Kerala,Kannur,37.97
+2019,Kerala,Kannur,42.73
+2020,Kerala,Kannur,57.73
+2021,Kerala,Kannur,64.64
+2022,Kerala,Kannur,68.57
+2023,Kerala,Kannur,73.57
+2024,Kerala,Kannur,77.14
+2025,Kerala,Kannur,82.2
+2013,Kerala,Kochi,13.24
+2014,Kerala,Kochi,13.71
+2015,Kerala,Kochi,15.2
+2016,Kerala,Kochi,20.24
+2017,Kerala,Kochi,26.78
+2018,Kerala,Kochi,35.78
+2019,Kerala,Kochi,42.32
+2020,Kerala,Kochi,54.17
+2021,Kerala,Kochi,60.94
+2022,Kerala,Kochi,66.07
+2023,Kerala,Kochi,69.75
+2024,Kerala,Kochi,72.8
+2025,Kerala,Kochi,77.55
+2013,Madhya Pradesh,Indore,17.43
+2014,Madhya Pradesh,Indore,19.87
+2015,Madhya Pradesh,Indore,21.86
+2016,Madhya Pradesh,Indore,24.95
+2017,Madhya Pradesh,Indore,30.42
+2018,Madhya Pradesh,Indore,36.78
+2019,Madhya Pradesh,Indore,43.1
+2020,Madhya Pradesh,Indore,53.22
+2021,Madhya Pradesh,Indore,57.68
+2022,Madhya Pradesh,Indore,62.55
+2023,Madhya Pradesh,Indore,66.54
+2024,Madhya Pradesh,Indore,69.57
+2025,Madhya Pradesh,Indore,75.03
+2013,Madhya Pradesh,Jabalpur,14.02
+2014,Madhya Pradesh,Jabalpur,15.91
+2015,Madhya Pradesh,Jabalpur,17.09
+2016,Madhya Pradesh,Jabalpur,22.71
+2017,Madhya Pradesh,Jabalpur,30.04
+2018,Madhya Pradesh,Jabalpur,35.87
+2019,Madhya Pradesh,Jabalpur,41.47
+2020,Madhya Pradesh,Jabalpur,53.2
+2021,Madhya Pradesh,Jabalpur,58.71
+2022,Madhya Pradesh,Jabalpur,64.01
+2023,Madhya Pradesh,Jabalpur,66.75
+2024,Madhya Pradesh,Jabalpur,68.5
+2025,Madhya Pradesh,Jabalpur,71.88
+2013,Madhya Pradesh,Bhopal,16.2
+2014,Madhya Pradesh,Bhopal,16.72
+2015,Madhya Pradesh,Bhopal,18.52
+2016,Madhya Pradesh,Bhopal,22.84
+2017,Madhya Pradesh,Bhopal,28.79
+2018,Madhya Pradesh,Bhopal,34.85
+2019,Madhya Pradesh,Bhopal,40.81
+2020,Madhya Pradesh,Bhopal,53.25
+2021,Madhya Pradesh,Bhopal,60.22
+2022,Madhya Pradesh,Bhopal,65.76
+2023,Madhya Pradesh,Bhopal,69.29
+2024,Madhya Pradesh,Bhopal,72.88
+2025,Madhya Pradesh,Bhopal,77.94
+2013,Madhya Pradesh,Gwalior,18.29
+2014,Madhya Pradesh,Gwalior,20.17
+2015,Madhya Pradesh,Gwalior,22.18
+2016,Madhya Pradesh,Gwalior,26.86
+2017,Madhya Pradesh,Gwalior,33.72
+2018,Madhya Pradesh,Gwalior,39.03
+2019,Madhya Pradesh,Gwalior,43.39
+2020,Madhya Pradesh,Gwalior,54.65
+2021,Madhya Pradesh,Gwalior,60.45
+2022,Madhya Pradesh,Gwalior,64.16
+2023,Madhya Pradesh,Gwalior,68.0
+2024,Madhya Pradesh,Gwalior,72.02
+2025,Madhya Pradesh,Gwalior,75.57
+2013,Madhya Pradesh,Ujjain,16.32
+2014,Madhya Pradesh,Ujjain,17.77
+2015,Madhya Pradesh,Ujjain,19.47
+2016,Madhya Pradesh,Ujjain,24.46
+2017,Madhya Pradesh,Ujjain,32.39
+2018,Madhya Pradesh,Ujjain,40.51
+2019,Madhya Pradesh,Ujjain,48.65
+2020,Madhya Pradesh,Ujjain,62.29
+2021,Madhya Pradesh,Ujjain,67.48
+2022,Madhya Pradesh,Ujjain,72.5
+2023,Madhya Pradesh,Ujjain,75.94
+2024,Madhya Pradesh,Ujjain,80.33
+2025,Madhya Pradesh,Ujjain,84.01
+2013,Maharashtra,Pune,20.18
+2014,Maharashtra,Pune,22.02
+2015,Maharashtra,Pune,24.16
+2016,Maharashtra,Pune,29.81
+2017,Maharashtra,Pune,36.43
+2018,Maharashtra,Pune,44.13
+2019,Maharashtra,Pune,51.19
+2020,Maharashtra,Pune,65.47
+2021,Maharashtra,Pune,72.48
+2022,Maharashtra,Pune,77.2
+2023,Maharashtra,Pune,81.35
+2024,Maharashtra,Pune,86.19
+2025,Maharashtra,Pune,90.67
+2013,Maharashtra,Nagpur,16.64
+2014,Maharashtra,Nagpur,18.83
+2015,Maharashtra,Nagpur,21.43
+2016,Maharashtra,Nagpur,25.62
+2017,Maharashtra,Nagpur,31.35
+2018,Maharashtra,Nagpur,39.17
+2019,Maharashtra,Nagpur,44.57
+2020,Maharashtra,Nagpur,57.71
+2021,Maharashtra,Nagpur,63.0
+2022,Maharashtra,Nagpur,67.02
+2023,Maharashtra,Nagpur,70.77
+2024,Maharashtra,Nagpur,74.94
+2025,Maharashtra,Nagpur,77.76
+2013,Maharashtra,Nashik,16.71
+2014,Maharashtra,Nashik,18.84
+2015,Maharashtra,Nashik,20.02
+2016,Maharashtra,Nashik,24.53
+2017,Maharashtra,Nashik,28.77
+2018,Maharashtra,Nashik,36.79
+2019,Maharashtra,Nashik,41.79
+2020,Maharashtra,Nashik,56.28
+2021,Maharashtra,Nashik,61.25
+2022,Maharashtra,Nashik,66.65
+2023,Maharashtra,Nashik,71.67
+2024,Maharashtra,Nashik,75.64
+2025,Maharashtra,Nashik,80.3
+2013,Maharashtra,Mumbai,19.85
+2014,Maharashtra,Mumbai,22.5
+2015,Maharashtra,Mumbai,24.62
+2016,Maharashtra,Mumbai,29.28
+2017,Maharashtra,Mumbai,35.14
+2018,Maharashtra,Mumbai,40.65
+2019,Maharashtra,Mumbai,47.17
+2020,Maharashtra,Mumbai,62.26
+2021,Maharashtra,Mumbai,67.81
+2022,Maharashtra,Mumbai,72.23
+2023,Maharashtra,Mumbai,76.38
+2024,Maharashtra,Mumbai,82.08
+2025,Maharashtra,Mumbai,85.58
+2013,Maharashtra,Aurangabad,14.54
+2014,Maharashtra,Aurangabad,15.1
+2015,Maharashtra,Aurangabad,17.28
+2016,Maharashtra,Aurangabad,22.23
+2017,Maharashtra,Aurangabad,30.01
+2018,Maharashtra,Aurangabad,36.12
+2019,Maharashtra,Aurangabad,42.55
+2020,Maharashtra,Aurangabad,55.62
+2021,Maharashtra,Aurangabad,61.51
+2022,Maharashtra,Aurangabad,66.27
+2023,Maharashtra,Aurangabad,69.99
+2024,Maharashtra,Aurangabad,76.0
+2025,Maharashtra,Aurangabad,79.12
+2013,Odisha,Bhubaneswar,14.58
+2014,Odisha,Bhubaneswar,16.52
+2015,Odisha,Bhubaneswar,18.19
+2016,Odisha,Bhubaneswar,22.83
+2017,Odisha,Bhubaneswar,28.01
+2018,Odisha,Bhubaneswar,35.78
+2019,Odisha,Bhubaneswar,41.45
+2020,Odisha,Bhubaneswar,53.31
+2021,Odisha,Bhubaneswar,59.03
+2022,Odisha,Bhubaneswar,64.32
+2023,Odisha,Bhubaneswar,67.67
+2024,Odisha,Bhubaneswar,71.94
+2025,Odisha,Bhubaneswar,76.64
+2013,Odisha,Cuttack,15.97
+2014,Odisha,Cuttack,17.72
+2015,Odisha,Cuttack,18.58
+2016,Odisha,Cuttack,23.88
+2017,Odisha,Cuttack,30.06
+2018,Odisha,Cuttack,37.67
+2019,Odisha,Cuttack,44.92
+2020,Odisha,Cuttack,57.46
+2021,Odisha,Cuttack,61.17
+2022,Odisha,Cuttack,63.12
+2023,Odisha,Cuttack,68.7
+2024,Odisha,Cuttack,73.31
+2025,Odisha,Cuttack,77.65
+2013,Odisha,Rourkela,15.11
+2014,Odisha,Rourkela,16.99
+2015,Odisha,Rourkela,19.14
+2016,Odisha,Rourkela,23.19
+2017,Odisha,Rourkela,28.93
+2018,Odisha,Rourkela,35.48
+2019,Odisha,Rourkela,43.16
+2020,Odisha,Rourkela,57.37
+2021,Odisha,Rourkela,62.98
+2022,Odisha,Rourkela,68.42
+2023,Odisha,Rourkela,73.32
+2024,Odisha,Rourkela,77.18
+2025,Odisha,Rourkela,81.82
+2013,Odisha,Sambalpur,17.74
+2014,Odisha,Sambalpur,18.45
+2015,Odisha,Sambalpur,21.58
+2016,Odisha,Sambalpur,27.71
+2017,Odisha,Sambalpur,33.93
+2018,Odisha,Sambalpur,39.83
+2019,Odisha,Sambalpur,46.6
+2020,Odisha,Sambalpur,61.4
+2021,Odisha,Sambalpur,67.95
+2022,Odisha,Sambalpur,71.21
+2023,Odisha,Sambalpur,75.97
+2024,Odisha,Sambalpur,80.28
+2025,Odisha,Sambalpur,84.83
+2013,Odisha,Berhampur,19.17
+2014,Odisha,Berhampur,22.22
+2015,Odisha,Berhampur,24.18
+2016,Odisha,Berhampur,29.35
+2017,Odisha,Berhampur,34.26
+2018,Odisha,Berhampur,41.84
+2019,Odisha,Berhampur,49.62
+2020,Odisha,Berhampur,59.62
+2021,Odisha,Berhampur,66.49
+2022,Odisha,Berhampur,72.44
+2023,Odisha,Berhampur,76.4
+2024,Odisha,Berhampur,80.5
+2025,Odisha,Berhampur,85.04
+2013,Punjab,Amritsar,16.21
+2014,Punjab,Amritsar,18.03
+2015,Punjab,Amritsar,20.15
+2016,Punjab,Amritsar,24.25
+2017,Punjab,Amritsar,31.1
+2018,Punjab,Amritsar,37.89
+2019,Punjab,Amritsar,45.26
+2020,Punjab,Amritsar,57.4
+2021,Punjab,Amritsar,63.88
+2022,Punjab,Amritsar,68.73
+2023,Punjab,Amritsar,72.31
+2024,Punjab,Amritsar,75.85
+2025,Punjab,Amritsar,81.28
+2013,Punjab,Jalandhar,15.12
+2014,Punjab,Jalandhar,16.2
+2015,Punjab,Jalandhar,17.58
+2016,Punjab,Jalandhar,22.16
+2017,Punjab,Jalandhar,29.32
+2018,Punjab,Jalandhar,37.29
+2019,Punjab,Jalandhar,44.62
+2020,Punjab,Jalandhar,56.06
+2021,Punjab,Jalandhar,62.06
+2022,Punjab,Jalandhar,64.49
+2023,Punjab,Jalandhar,68.51
+2024,Punjab,Jalandhar,73.01
+2025,Punjab,Jalandhar,76.25
+2013,Punjab,Bathinda,15.34
+2014,Punjab,Bathinda,16.86
+2015,Punjab,Bathinda,19.4
+2016,Punjab,Bathinda,24.78
+2017,Punjab,Bathinda,31.73
+2018,Punjab,Bathinda,39.76
+2019,Punjab,Bathinda,45.79
+2020,Punjab,Bathinda,57.19
+2021,Punjab,Bathinda,61.9
+2022,Punjab,Bathinda,65.5
+2023,Punjab,Bathinda,69.47
+2024,Punjab,Bathinda,73.8
+2025,Punjab,Bathinda,77.39
+2013,Punjab,Patiala,18.59
+2014,Punjab,Patiala,20.08
+2015,Punjab,Patiala,20.81
+2016,Punjab,Patiala,25.61
+2017,Punjab,Patiala,33.12
+2018,Punjab,Patiala,40.05
+2019,Punjab,Patiala,47.86
+2020,Punjab,Patiala,62.58
+2021,Punjab,Patiala,69.21
+2022,Punjab,Patiala,73.74
+2023,Punjab,Patiala,78.07
+2024,Punjab,Patiala,84.36
+2025,Punjab,Patiala,88.38
+2013,Punjab,Ludhiana,17.05
+2014,Punjab,Ludhiana,17.41
+2015,Punjab,Ludhiana,20.07
+2016,Punjab,Ludhiana,25.88
+2017,Punjab,Ludhiana,32.7
+2018,Punjab,Ludhiana,40.45
+2019,Punjab,Ludhiana,45.3
+2020,Punjab,Ludhiana,57.0
+2021,Punjab,Ludhiana,60.92
+2022,Punjab,Ludhiana,66.0
+2023,Punjab,Ludhiana,69.13
+2024,Punjab,Ludhiana,73.61
+2025,Punjab,Ludhiana,77.36
+2013,Rajasthan,Kota,12.31
+2014,Rajasthan,Kota,14.18
+2015,Rajasthan,Kota,15.75
+2016,Rajasthan,Kota,20.96
+2017,Rajasthan,Kota,27.07
+2018,Rajasthan,Kota,31.88
+2019,Rajasthan,Kota,38.05
+2020,Rajasthan,Kota,50.58
+2021,Rajasthan,Kota,57.23
+2022,Rajasthan,Kota,62.51
+2023,Rajasthan,Kota,66.17
+2024,Rajasthan,Kota,70.64
+2025,Rajasthan,Kota,75.33
+2013,Rajasthan,Ajmer,16.26
+2014,Rajasthan,Ajmer,17.72
+2015,Rajasthan,Ajmer,19.62
+2016,Rajasthan,Ajmer,24.29
+2017,Rajasthan,Ajmer,29.37
+2018,Rajasthan,Ajmer,34.37
+2019,Rajasthan,Ajmer,40.56
+2020,Rajasthan,Ajmer,51.0
+2021,Rajasthan,Ajmer,56.15
+2022,Rajasthan,Ajmer,61.07
+2023,Rajasthan,Ajmer,64.93
+2024,Rajasthan,Ajmer,69.53
+2025,Rajasthan,Ajmer,75.29
+2013,Rajasthan,Jodhpur,16.94
+2014,Rajasthan,Jodhpur,19.33
+2015,Rajasthan,Jodhpur,20.17
+2016,Rajasthan,Jodhpur,23.34
+2017,Rajasthan,Jodhpur,29.48
+2018,Rajasthan,Jodhpur,35.23
+2019,Rajasthan,Jodhpur,42.78
+2020,Rajasthan,Jodhpur,56.28
+2021,Rajasthan,Jodhpur,61.99
+2022,Rajasthan,Jodhpur,66.2
+2023,Rajasthan,Jodhpur,70.63
+2024,Rajasthan,Jodhpur,75.01
+2025,Rajasthan,Jodhpur,80.4
+2013,Rajasthan,Udaipur,18.63
+2014,Rajasthan,Udaipur,19.31
+2015,Rajasthan,Udaipur,21.73
+2016,Rajasthan,Udaipur,27.04
+2017,Rajasthan,Udaipur,31.99
+2018,Rajasthan,Udaipur,39.55
+2019,Rajasthan,Udaipur,46.24
+2020,Rajasthan,Udaipur,58.64
+2021,Rajasthan,Udaipur,62.02
+2022,Rajasthan,Udaipur,66.31
+2023,Rajasthan,Udaipur,70.2
+2024,Rajasthan,Udaipur,75.38
+2025,Rajasthan,Udaipur,79.11
+2013,Rajasthan,Jaipur,15.68
+2014,Rajasthan,Jaipur,17.39
+2015,Rajasthan,Jaipur,18.65
+2016,Rajasthan,Jaipur,22.16
+2017,Rajasthan,Jaipur,27.05
+2018,Rajasthan,Jaipur,33.42
+2019,Rajasthan,Jaipur,40.94
+2020,Rajasthan,Jaipur,51.48
+2021,Rajasthan,Jaipur,58.26
+2022,Rajasthan,Jaipur,61.99
+2023,Rajasthan,Jaipur,65.1
+2024,Rajasthan,Jaipur,69.55
+2025,Rajasthan,Jaipur,73.31
+2013,Tamil Nadu,Coimbatore,17.16
+2014,Tamil Nadu,Coimbatore,18.28
+2015,Tamil Nadu,Coimbatore,19.48
+2016,Tamil Nadu,Coimbatore,23.79
+2017,Tamil Nadu,Coimbatore,30.7
+2018,Tamil Nadu,Coimbatore,37.81
+2019,Tamil Nadu,Coimbatore,44.27
+2020,Tamil Nadu,Coimbatore,56.25
+2021,Tamil Nadu,Coimbatore,62.01
+2022,Tamil Nadu,Coimbatore,67.54
+2023,Tamil Nadu,Coimbatore,70.81
+2024,Tamil Nadu,Coimbatore,74.95
+2025,Tamil Nadu,Coimbatore,79.43
+2013,Tamil Nadu,Madurai,17.21
+2014,Tamil Nadu,Madurai,18.22
+2015,Tamil Nadu,Madurai,20.55
+2016,Tamil Nadu,Madurai,25.04
+2017,Tamil Nadu,Madurai,32.4
+2018,Tamil Nadu,Madurai,38.98
+2019,Tamil Nadu,Madurai,45.62
+2020,Tamil Nadu,Madurai,57.37
+2021,Tamil Nadu,Madurai,62.17
+2022,Tamil Nadu,Madurai,67.81
+2023,Tamil Nadu,Madurai,72.84
+2024,Tamil Nadu,Madurai,78.88
+2025,Tamil Nadu,Madurai,83.63
+2013,Tamil Nadu,Salem,17.2
+2014,Tamil Nadu,Salem,19.41
+2015,Tamil Nadu,Salem,21.36
+2016,Tamil Nadu,Salem,25.15
+2017,Tamil Nadu,Salem,32.92
+2018,Tamil Nadu,Salem,39.79
+2019,Tamil Nadu,Salem,46.57
+2020,Tamil Nadu,Salem,58.27
+2021,Tamil Nadu,Salem,63.03
+2022,Tamil Nadu,Salem,66.99
+2023,Tamil Nadu,Salem,72.86
+2024,Tamil Nadu,Salem,76.85
+2025,Tamil Nadu,Salem,80.25
+2013,Tamil Nadu,Tiruchirappalli,17.17
+2014,Tamil Nadu,Tiruchirappalli,19.65
+2015,Tamil Nadu,Tiruchirappalli,22.39
+2016,Tamil Nadu,Tiruchirappalli,27.7
+2017,Tamil Nadu,Tiruchirappalli,34.27
+2018,Tamil Nadu,Tiruchirappalli,38.68
+2019,Tamil Nadu,Tiruchirappalli,43.07
+2020,Tamil Nadu,Tiruchirappalli,54.86
+2021,Tamil Nadu,Tiruchirappalli,61.64
+2022,Tamil Nadu,Tiruchirappalli,64.83
+2023,Tamil Nadu,Tiruchirappalli,68.89
+2024,Tamil Nadu,Tiruchirappalli,72.81
+2025,Tamil Nadu,Tiruchirappalli,77.58
+2013,Tamil Nadu,Chennai,18.61
+2014,Tamil Nadu,Chennai,19.57
+2015,Tamil Nadu,Chennai,21.41
+2016,Tamil Nadu,Chennai,25.96
+2017,Tamil Nadu,Chennai,32.7
+2018,Tamil Nadu,Chennai,40.02
+2019,Tamil Nadu,Chennai,47.51
+2020,Tamil Nadu,Chennai,57.47
+2021,Tamil Nadu,Chennai,62.63
+2022,Tamil Nadu,Chennai,67.18
+2023,Tamil Nadu,Chennai,71.85
+2024,Tamil Nadu,Chennai,75.21
+2025,Tamil Nadu,Chennai,80.23
+2013,Telangana,Khammam,16.8
+2014,Telangana,Khammam,17.64
+2015,Telangana,Khammam,19.83
+2016,Telangana,Khammam,24.57
+2017,Telangana,Khammam,29.26
+2018,Telangana,Khammam,36.19
+2019,Telangana,Khammam,42.02
+2020,Telangana,Khammam,55.13
+2021,Telangana,Khammam,60.0
+2022,Telangana,Khammam,64.26
+2023,Telangana,Khammam,67.8
+2024,Telangana,Khammam,72.7
+2025,Telangana,Khammam,78.44
+2013,Telangana,Karimnagar,16.47
+2014,Telangana,Karimnagar,17.91
+2015,Telangana,Karimnagar,20.21
+2016,Telangana,Karimnagar,24.68
+2017,Telangana,Karimnagar,30.66
+2018,Telangana,Karimnagar,39.18
+2019,Telangana,Karimnagar,46.51
+2020,Telangana,Karimnagar,58.1
+2021,Telangana,Karimnagar,62.72
+2022,Telangana,Karimnagar,66.44
+2023,Telangana,Karimnagar,70.34
+2024,Telangana,Karimnagar,74.72
+2025,Telangana,Karimnagar,78.59
+2013,Telangana,Hyderabad,20.69
+2014,Telangana,Hyderabad,23.46
+2015,Telangana,Hyderabad,25.57
+2016,Telangana,Hyderabad,29.81
+2017,Telangana,Hyderabad,38.5
+2018,Telangana,Hyderabad,44.64
+2019,Telangana,Hyderabad,51.32
+2020,Telangana,Hyderabad,62.64
+2021,Telangana,Hyderabad,67.99
+2022,Telangana,Hyderabad,73.38
+2023,Telangana,Hyderabad,76.5
+2024,Telangana,Hyderabad,81.28
+2025,Telangana,Hyderabad,83.72
+2013,Telangana,Warangal,14.7
+2014,Telangana,Warangal,15.47
+2015,Telangana,Warangal,16.92
+2016,Telangana,Warangal,21.41
+2017,Telangana,Warangal,28.83
+2018,Telangana,Warangal,34.25
+2019,Telangana,Warangal,40.65
+2020,Telangana,Warangal,54.32
+2021,Telangana,Warangal,59.61
+2022,Telangana,Warangal,64.27
+2023,Telangana,Warangal,70.05
+2024,Telangana,Warangal,73.64
+2025,Telangana,Warangal,77.36
+2013,Telangana,Nizamabad,16.07
+2014,Telangana,Nizamabad,17.57
+2015,Telangana,Nizamabad,19.35
+2016,Telangana,Nizamabad,25.38
+2017,Telangana,Nizamabad,32.1
+2018,Telangana,Nizamabad,38.09
+2019,Telangana,Nizamabad,43.69
+2020,Telangana,Nizamabad,55.76
+2021,Telangana,Nizamabad,61.12
+2022,Telangana,Nizamabad,64.54
+2023,Telangana,Nizamabad,67.75
+2024,Telangana,Nizamabad,71.33
+2025,Telangana,Nizamabad,74.39
+2013,Uttar Pradesh,Kanpur,16.73
+2014,Uttar Pradesh,Kanpur,19.07
+2015,Uttar Pradesh,Kanpur,21.81
+2016,Uttar Pradesh,Kanpur,25.82
+2017,Uttar Pradesh,Kanpur,31.74
+2018,Uttar Pradesh,Kanpur,38.39
+2019,Uttar Pradesh,Kanpur,45.9
+2020,Uttar Pradesh,Kanpur,56.71
+2021,Uttar Pradesh,Kanpur,60.32
+2022,Uttar Pradesh,Kanpur,64.7
+2023,Uttar Pradesh,Kanpur,69.29
+2024,Uttar Pradesh,Kanpur,73.63
+2025,Uttar Pradesh,Kanpur,78.23
+2013,Uttar Pradesh,Agra,17.55
+2014,Uttar Pradesh,Agra,19.08
+2015,Uttar Pradesh,Agra,20.29
+2016,Uttar Pradesh,Agra,25.41
+2017,Uttar Pradesh,Agra,31.32
+2018,Uttar Pradesh,Agra,39.22
+2019,Uttar Pradesh,Agra,45.17
+2020,Uttar Pradesh,Agra,56.99
+2021,Uttar Pradesh,Agra,62.94
+2022,Uttar Pradesh,Agra,68.67
+2023,Uttar Pradesh,Agra,73.65
+2024,Uttar Pradesh,Agra,79.02
+2025,Uttar Pradesh,Agra,84.75
+2013,Uttar Pradesh,Varanasi,17.93
+2014,Uttar Pradesh,Varanasi,19.21
+2015,Uttar Pradesh,Varanasi,20.69
+2016,Uttar Pradesh,Varanasi,26.06
+2017,Uttar Pradesh,Varanasi,33.21
+2018,Uttar Pradesh,Varanasi,38.24
+2019,Uttar Pradesh,Varanasi,43.69
+2020,Uttar Pradesh,Varanasi,55.6
+2021,Uttar Pradesh,Varanasi,61.91
+2022,Uttar Pradesh,Varanasi,66.11
+2023,Uttar Pradesh,Varanasi,70.23
+2024,Uttar Pradesh,Varanasi,73.41
+2025,Uttar Pradesh,Varanasi,77.5
+2013,Uttar Pradesh,Lucknow,17.94
+2014,Uttar Pradesh,Lucknow,19.41
+2015,Uttar Pradesh,Lucknow,20.74
+2016,Uttar Pradesh,Lucknow,26.63
+2017,Uttar Pradesh,Lucknow,32.99
+2018,Uttar Pradesh,Lucknow,40.56
+2019,Uttar Pradesh,Lucknow,45.85
+2020,Uttar Pradesh,Lucknow,58.77
+2021,Uttar Pradesh,Lucknow,65.23
+2022,Uttar Pradesh,Lucknow,67.72
+2023,Uttar Pradesh,Lucknow,70.84
+2024,Uttar Pradesh,Lucknow,74.03
+2025,Uttar Pradesh,Lucknow,77.64
+2013,Uttar Pradesh,Meerut,19.61
+2014,Uttar Pradesh,Meerut,20.61
+2015,Uttar Pradesh,Meerut,22.29
+2016,Uttar Pradesh,Meerut,27.42
+2017,Uttar Pradesh,Meerut,35.16
+2018,Uttar Pradesh,Meerut,42.96
+2019,Uttar Pradesh,Meerut,48.67
+2020,Uttar Pradesh,Meerut,61.62
+2021,Uttar Pradesh,Meerut,66.62
+2022,Uttar Pradesh,Meerut,69.93
+2023,Uttar Pradesh,Meerut,71.8
+2024,Uttar Pradesh,Meerut,76.93
+2025,Uttar Pradesh,Meerut,82.64
+2013,West Bengal,Siliguri,17.3
+2014,West Bengal,Siliguri,18.58
+2015,West Bengal,Siliguri,20.53
+2016,West Bengal,Siliguri,25.73
+2017,West Bengal,Siliguri,29.61
+2018,West Bengal,Siliguri,37.17
+2019,West Bengal,Siliguri,42.57
+2020,West Bengal,Siliguri,54.33
+2021,West Bengal,Siliguri,61.28
+2022,West Bengal,Siliguri,64.81
+2023,West Bengal,Siliguri,68.99
+2024,West Bengal,Siliguri,73.8
+2025,West Bengal,Siliguri,78.49
+2013,West Bengal,Durgapur,18.21
+2014,West Bengal,Durgapur,20.81
+2015,West Bengal,Durgapur,22.84
+2016,West Bengal,Durgapur,27.86
+2017,West Bengal,Durgapur,33.57
+2018,West Bengal,Durgapur,42.13
+2019,West Bengal,Durgapur,47.58
+2020,West Bengal,Durgapur,58.31
+2021,West Bengal,Durgapur,64.26
+2022,West Bengal,Durgapur,68.67
+2023,West Bengal,Durgapur,73.25
+2024,West Bengal,Durgapur,78.22
+2025,West Bengal,Durgapur,82.81
+2013,West Bengal,Asansol,19.54
+2014,West Bengal,Asansol,21.43
+2015,West Bengal,Asansol,23.98
+2016,West Bengal,Asansol,27.72
+2017,West Bengal,Asansol,35.04
+2018,West Bengal,Asansol,43.14
+2019,West Bengal,Asansol,50.29
+2020,West Bengal,Asansol,63.83
+2021,West Bengal,Asansol,68.29
+2022,West Bengal,Asansol,72.9
+2023,West Bengal,Asansol,76.68
+2024,West Bengal,Asansol,81.75
+2025,West Bengal,Asansol,85.56
+2013,West Bengal,Howrah,18.0
+2014,West Bengal,Howrah,19.1
+2015,West Bengal,Howrah,21.21
+2016,West Bengal,Howrah,25.78
+2017,West Bengal,Howrah,32.1
+2018,West Bengal,Howrah,38.05
+2019,West Bengal,Howrah,45.4
+2020,West Bengal,Howrah,56.42
+2021,West Bengal,Howrah,63.56
+2022,West Bengal,Howrah,67.5
+2023,West Bengal,Howrah,72.67
+2024,West Bengal,Howrah,78.06
+2025,West Bengal,Howrah,80.91
+2013,West Bengal,Kolkata,22.8
+2014,West Bengal,Kolkata,24.88
+2015,West Bengal,Kolkata,25.62
+2016,West Bengal,Kolkata,30.75
+2017,West Bengal,Kolkata,38.02
+2018,West Bengal,Kolkata,44.79
+2019,West Bengal,Kolkata,50.46
+2020,West Bengal,Kolkata,61.01
+2021,West Bengal,Kolkata,66.86
+2022,West Bengal,Kolkata,70.94
+2023,West Bengal,Kolkata,75.25
+2024,West Bengal,Kolkata,79.98
+2025,West Bengal,Kolkata,83.41

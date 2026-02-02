@@ -1,0 +1,1001 @@
+State,City,Year,Predicted_Avg_Addiction_Score,Lower_Bound,Upper_Bound,Confidence_Interval_Width
+Andhra Pradesh,Guntur,2026,80.03,74.66,85.41,10.76
+Andhra Pradesh,Guntur,2027,81.83,74.23,89.44,15.21
+Andhra Pradesh,Guntur,2028,84.22,74.9,93.53,18.63
+Andhra Pradesh,Guntur,2029,87.33,76.57,98.08,21.51
+Andhra Pradesh,Guntur,2030,88.27,76.24,100.0,23.76
+Andhra Pradesh,Guntur,2031,89.02,75.85,100.0,24.15
+Andhra Pradesh,Guntur,2032,91.65,77.42,100.0,22.58
+Andhra Pradesh,Guntur,2033,93.24,78.03,100.0,21.97
+Andhra Pradesh,Guntur,2034,93.35,77.21,100.0,22.79
+Andhra Pradesh,Guntur,2035,94.48,77.48,100.0,22.52
+Andhra Pradesh,Kurnool,2026,89.38,84.83,93.92,9.08
+Andhra Pradesh,Kurnool,2027,93.06,86.63,99.48,12.85
+Andhra Pradesh,Kurnool,2028,97.05,89.19,100.0,10.81
+Andhra Pradesh,Kurnool,2029,100.0,92.47,100.0,7.53
+Andhra Pradesh,Kurnool,2030,100.0,93.49,100.0,6.51
+Andhra Pradesh,Kurnool,2031,100.0,94.26,100.0,5.74
+Andhra Pradesh,Kurnool,2032,100.0,96.86,100.0,3.14
+Andhra Pradesh,Kurnool,2033,100.0,98.35,100.0,1.65
+Andhra Pradesh,Kurnool,2034,100.0,98.27,100.0,1.73
+Andhra Pradesh,Kurnool,2035,100.0,99.2,100.0,0.8
+Andhra Pradesh,Nellore,2026,87.34,80.98,93.7,12.72
+Andhra Pradesh,Nellore,2027,90.55,81.55,99.54,17.99
+Andhra Pradesh,Nellore,2028,94.17,83.15,100.0,16.85
+Andhra Pradesh,Nellore,2029,98.37,85.65,100.0,14.35
+Andhra Pradesh,Nellore,2030,100.0,85.95,100.0,14.05
+Andhra Pradesh,Nellore,2031,100.0,86.08,100.0,13.92
+Andhra Pradesh,Nellore,2032,100.0,88.16,100.0,11.84
+Andhra Pradesh,Nellore,2033,100.0,89.17,100.0,10.83
+Andhra Pradesh,Nellore,2034,100.0,88.61,100.0,11.39
+Andhra Pradesh,Nellore,2035,100.0,89.13,100.0,10.87
+Andhra Pradesh,Vijayawada,2026,85.5,81.05,89.95,8.9
+Andhra Pradesh,Vijayawada,2027,87.98,81.69,94.27,12.58
+Andhra Pradesh,Vijayawada,2028,90.92,83.22,98.63,15.41
+Andhra Pradesh,Vijayawada,2029,94.49,85.59,100.0,14.41
+Andhra Pradesh,Vijayawada,2030,95.85,85.9,100.0,14.1
+Andhra Pradesh,Vijayawada,2031,96.97,86.07,100.0,13.93
+Andhra Pradesh,Vijayawada,2032,99.86,88.09,100.0,11.91
+Andhra Pradesh,Vijayawada,2033,100.0,89.11,100.0,10.89
+Andhra Pradesh,Vijayawada,2034,100.0,88.67,100.0,11.33
+Andhra Pradesh,Vijayawada,2035,100.0,89.26,100.0,10.74
+Andhra Pradesh,Visakhapatnam,2026,85.69,81.01,90.36,9.35
+Andhra Pradesh,Visakhapatnam,2027,88.26,81.65,94.87,13.22
+Andhra Pradesh,Visakhapatnam,2028,91.24,83.14,99.34,16.2
+Andhra Pradesh,Visakhapatnam,2029,94.78,85.43,100.0,14.57
+Andhra Pradesh,Visakhapatnam,2030,96.21,85.75,100.0,14.25
+Andhra Pradesh,Visakhapatnam,2031,97.39,85.93,100.0,14.07
+Andhra Pradesh,Visakhapatnam,2032,100.0,87.85,100.0,12.15
+Andhra Pradesh,Visakhapatnam,2033,100.0,88.82,100.0,11.18
+Andhra Pradesh,Visakhapatnam,2034,100.0,88.4,100.0,11.6
+Andhra Pradesh,Visakhapatnam,2035,100.0,88.94,100.0,11.06
+Arunachal Pradesh,Bomdila,2026,80.39,75.31,85.48,10.17
+Arunachal Pradesh,Bomdila,2027,82.88,75.69,90.07,14.38
+Arunachal Pradesh,Bomdila,2028,85.82,77.01,94.63,17.61
+Arunachal Pradesh,Bomdila,2029,89.36,79.19,99.53,20.34
+Arunachal Pradesh,Bomdila,2030,90.73,79.36,100.0,20.64
+Arunachal Pradesh,Bomdila,2031,91.85,79.4,100.0,20.6
+Arunachal Pradesh,Bomdila,2032,94.72,81.27,100.0,18.73
+Arunachal Pradesh,Bomdila,2033,96.54,82.15,100.0,17.85
+Arunachal Pradesh,Bomdila,2034,96.88,81.62,100.0,18.38
+Arunachal Pradesh,Bomdila,2035,98.18,82.1,100.0,17.9
+Arunachal Pradesh,Itanagar,2026,90.84,85.16,96.53,11.37
+Arunachal Pradesh,Itanagar,2027,94.36,86.31,100.0,13.69
+Arunachal Pradesh,Itanagar,2028,98.27,88.42,100.0,11.58
+Arunachal Pradesh,Itanagar,2029,100.0,91.41,100.0,8.59
+Arunachal Pradesh,Itanagar,2030,100.0,92.05,100.0,7.95
+Arunachal Pradesh,Itanagar,2031,100.0,92.47,100.0,7.53
+Arunachal Pradesh,Itanagar,2032,100.0,94.91,100.0,5.09
+Arunachal Pradesh,Itanagar,2033,100.0,96.19,100.0,3.81
+Arunachal Pradesh,Itanagar,2034,100.0,95.82,100.0,4.18
+Arunachal Pradesh,Itanagar,2035,100.0,96.56,100.0,3.44
+Arunachal Pradesh,Pasighat,2026,82.81,76.36,89.25,12.9
+Arunachal Pradesh,Pasighat,2027,85.38,76.27,94.5,18.24
+Arunachal Pradesh,Pasighat,2028,88.46,77.29,99.63,22.34
+Arunachal Pradesh,Pasighat,2029,92.21,79.31,100.0,20.69
+Arunachal Pradesh,Pasighat,2030,93.62,79.2,100.0,20.8
+Arunachal Pradesh,Pasighat,2031,94.77,78.98,100.0,21.02
+Arunachal Pradesh,Pasighat,2032,97.82,80.76,100.0,19.24
+Arunachal Pradesh,Pasighat,2033,99.74,81.51,100.0,18.49
+Arunachal Pradesh,Pasighat,2034,100.0,80.73,100.0,19.27
+Arunachal Pradesh,Pasighat,2035,100.0,81.06,100.0,18.94
+Arunachal Pradesh,Tawang,2026,80.99,75.7,86.28,10.58
+Arunachal Pradesh,Tawang,2027,83.41,75.93,90.89,14.96
+Arunachal Pradesh,Tawang,2028,86.32,77.16,95.48,18.32
+Arunachal Pradesh,Tawang,2029,89.87,79.29,100.0,20.71
+Arunachal Pradesh,Tawang,2030,91.19,79.36,100.0,20.64
+Arunachal Pradesh,Tawang,2031,92.27,79.32,100.0,20.68
+Arunachal Pradesh,Tawang,2032,95.17,81.18,100.0,18.82
+Arunachal Pradesh,Tawang,2033,97.0,82.04,100.0,17.96
+Arunachal Pradesh,Tawang,2034,97.3,81.43,100.0,18.57
+Arunachal Pradesh,Tawang,2035,98.61,81.88,100.0,18.12
+Arunachal Pradesh,Ziro,2026,84.08,77.35,90.81,13.45
+Arunachal Pradesh,Ziro,2027,86.18,76.66,95.69,19.03
+Arunachal Pradesh,Ziro,2028,88.84,77.19,100.0,22.81
+Arunachal Pradesh,Ziro,2029,92.24,78.79,100.0,21.21
+Arunachal Pradesh,Ziro,2030,93.35,78.31,100.0,21.69
+Arunachal Pradesh,Ziro,2031,94.26,77.78,100.0,22.22
+Arunachal Pradesh,Ziro,2032,97.09,79.29,100.0,20.71
+Arunachal Pradesh,Ziro,2033,98.83,79.81,100.0,20.19
+Arunachal Pradesh,Ziro,2034,99.01,78.83,100.0,21.17
+Arunachal Pradesh,Ziro,2035,100.0,78.98,100.0,21.02
+Assam,Dibrugarh,2026,86.83,81.63,92.03,10.39
+Assam,Dibrugarh,2027,89.87,82.52,97.22,14.7
+Assam,Dibrugarh,2028,93.31,84.31,100.0,15.69
+Assam,Dibrugarh,2029,97.3,86.91,100.0,13.09
+Assam,Dibrugarh,2030,99.01,87.39,100.0,12.61
+Assam,Dibrugarh,2031,100.0,87.69,100.0,12.31
+Assam,Dibrugarh,2032,100.0,89.83,100.0,10.17
+Assam,Dibrugarh,2033,100.0,90.94,100.0,9.06
+Assam,Dibrugarh,2034,100.0,90.55,100.0,9.45
+Assam,Dibrugarh,2035,100.0,91.18,100.0,8.82
+Assam,Guwahati,2026,83.59,79.8,87.39,7.58
+Assam,Guwahati,2027,86.45,81.08,91.81,10.73
+Assam,Guwahati,2028,89.72,83.15,96.28,13.14
+Assam,Guwahati,2029,93.57,85.98,100.0,14.02
+Assam,Guwahati,2030,95.16,86.68,100.0,13.32
+Assam,Guwahati,2031,96.47,87.18,100.0,12.82
+Assam,Guwahati,2032,99.54,89.51,100.0,10.49
+Assam,Guwahati,2033,100.0,90.8,100.0,9.2
+Assam,Guwahati,2034,100.0,90.59,100.0,9.41
+Assam,Guwahati,2035,100.0,91.39,100.0,8.61
+Assam,Jorhat,2026,88.36,83.78,92.94,9.16
+Assam,Jorhat,2027,91.83,85.35,98.3,12.95
+Assam,Jorhat,2028,95.63,87.7,100.0,12.3
+Assam,Jorhat,2029,99.94,90.79,100.0,9.21
+Assam,Jorhat,2030,100.0,91.67,100.0,8.33
+Assam,Jorhat,2031,100.0,92.32,100.0,7.68
+Assam,Jorhat,2032,100.0,94.79,100.0,5.21
+Assam,Jorhat,2033,100.0,96.17,100.0,3.83
+Assam,Jorhat,2034,100.0,96.03,100.0,3.97
+Assam,Jorhat,2035,100.0,96.87,100.0,3.13
+Assam,Silchar,2026,88.23,82.33,94.13,11.79
+Assam,Silchar,2027,91.01,82.68,99.35,16.68
+Assam,Silchar,2028,94.3,84.09,100.0,15.91
+Assam,Silchar,2029,98.28,86.48,100.0,13.52
+Assam,Silchar,2030,99.8,86.62,100.0,13.38
+Assam,Silchar,2031,100.0,86.62,100.0,13.38
+Assam,Silchar,2032,100.0,88.68,100.0,11.32
+Assam,Silchar,2033,100.0,89.64,100.0,10.36
+Assam,Silchar,2034,100.0,89.01,100.0,10.99
+Assam,Silchar,2035,100.0,89.51,100.0,10.49
+Assam,Tezpur,2026,81.75,77.95,85.56,7.61
+Assam,Tezpur,2027,85.21,79.83,90.59,10.76
+Assam,Tezpur,2028,88.94,82.35,95.53,13.18
+Assam,Tezpur,2029,93.1,85.49,100.0,14.51
+Assam,Tezpur,2030,95.07,86.56,100.0,13.44
+Assam,Tezpur,2031,96.71,87.39,100.0,12.61
+Assam,Tezpur,2032,99.93,89.86,100.0,10.14
+Assam,Tezpur,2033,100.0,91.31,100.0,8.69
+Assam,Tezpur,2034,100.0,91.33,100.0,8.67
+Assam,Tezpur,2035,100.0,92.25,100.0,7.75
+Bihar,Bhagalpur,2026,87.53,81.45,93.61,12.15
+Bihar,Bhagalpur,2027,89.54,80.95,98.14,17.19
+Bihar,Bhagalpur,2028,92.19,81.66,100.0,18.34
+Bihar,Bhagalpur,2029,95.61,83.46,100.0,16.54
+Bihar,Bhagalpur,2030,96.67,83.08,100.0,16.92
+Bihar,Bhagalpur,2031,97.53,82.64,100.0,17.36
+Bihar,Bhagalpur,2032,100.0,84.33,100.0,15.67
+Bihar,Bhagalpur,2033,100.0,84.98,100.0,15.02
+Bihar,Bhagalpur,2034,100.0,84.07,100.0,15.93
+Bihar,Bhagalpur,2035,100.0,84.33,100.0,15.67
+Bihar,Gaya,2026,91.11,84.9,97.31,12.41
+Bihar,Gaya,2027,94.09,85.32,100.0,14.68
+Bihar,Gaya,2028,97.56,86.81,100.0,13.19
+Bihar,Gaya,2029,100.0,89.29,100.0,10.71
+Bihar,Gaya,2030,100.0,89.47,100.0,10.53
+Bihar,Gaya,2031,100.0,89.51,100.0,10.49
+Bihar,Gaya,2032,100.0,91.61,100.0,8.39
+Bihar,Gaya,2033,100.0,92.6,100.0,7.4
+Bihar,Gaya,2034,100.0,91.98,100.0,8.02
+Bihar,Gaya,2035,100.0,92.49,100.0,7.51
+Bihar,Muzaffarpur,2026,88.52,84.53,92.51,7.99
+Bihar,Muzaffarpur,2027,92.33,86.68,97.98,11.3
+Bihar,Muzaffarpur,2028,96.46,89.54,100.0,10.46
+Bihar,Muzaffarpur,2029,100.0,93.1,100.0,6.9
+Bihar,Muzaffarpur,2030,100.0,94.33,100.0,5.67
+Bihar,Muzaffarpur,2031,100.0,95.28,100.0,4.72
+Bihar,Muzaffarpur,2032,100.0,98.08,100.0,1.92
+Bihar,Muzaffarpur,2033,100.0,99.74,100.0,0.26
+Bihar,Muzaffarpur,2034,100.0,99.79,100.0,0.21
+Bihar,Muzaffarpur,2035,100.0,100.0,100.0,0.0
+Bihar,Patna,2026,78.26,73.28,83.23,9.95
+Bihar,Patna,2027,81.63,74.59,88.66,14.07
+Bihar,Patna,2028,85.25,76.63,93.87,17.24
+Bihar,Patna,2029,89.3,79.35,99.25,19.9
+Bihar,Patna,2030,91.22,80.09,100.0,19.91
+Bihar,Patna,2031,92.82,80.63,100.0,19.37
+Bihar,Patna,2032,95.94,82.78,100.0,17.22
+Bihar,Patna,2033,98.03,83.95,100.0,16.05
+Bihar,Patna,2034,98.68,83.76,100.0,16.24
+Bihar,Patna,2035,100.0,84.44,100.0,15.56
+Bihar,Purnia,2026,84.97,80.86,89.08,8.22
+Bihar,Purnia,2027,88.01,82.19,93.82,11.63
+Bihar,Purnia,2028,91.44,84.32,98.56,14.24
+Bihar,Purnia,2029,95.43,87.2,100.0,12.8
+Bihar,Purnia,2030,97.13,87.94,100.0,12.06
+Bihar,Purnia,2031,98.54,88.47,100.0,11.53
+Bihar,Purnia,2032,100.0,90.82,100.0,9.18
+Bihar,Purnia,2033,100.0,92.12,100.0,7.88
+Bihar,Purnia,2034,100.0,91.92,100.0,8.08
+Bihar,Purnia,2035,100.0,92.73,100.0,7.27
+Chhattisgarh,Bilaspur,2026,84.15,79.8,88.5,8.7
+Chhattisgarh,Bilaspur,2027,87.69,81.54,93.85,12.3
+Chhattisgarh,Bilaspur,2028,91.55,84.02,99.09,15.07
+Chhattisgarh,Bilaspur,2029,95.9,87.2,100.0,12.8
+Chhattisgarh,Bilaspur,2030,97.91,88.18,100.0,11.82
+Chhattisgarh,Bilaspur,2031,99.58,88.93,100.0,11.07
+Chhattisgarh,Bilaspur,2032,100.0,91.46,100.0,8.54
+Chhattisgarh,Bilaspur,2033,100.0,92.9,100.0,7.1
+Chhattisgarh,Bilaspur,2034,100.0,92.82,100.0,7.18
+Chhattisgarh,Bilaspur,2035,100.0,93.72,100.0,6.28
+Chhattisgarh,Durg,2026,82.01,76.38,87.64,11.27
+Chhattisgarh,Durg,2027,85.05,77.08,93.01,15.93
+Chhattisgarh,Durg,2028,88.48,78.72,98.24,19.51
+Chhattisgarh,Durg,2029,92.48,81.21,100.0,18.79
+Chhattisgarh,Durg,2030,94.18,81.58,100.0,18.42
+Chhattisgarh,Durg,2031,95.58,81.78,100.0,18.22
+Chhattisgarh,Durg,2032,98.75,83.85,100.0,16.15
+Chhattisgarh,Durg,2033,100.0,84.88,100.0,15.12
+Chhattisgarh,Durg,2034,100.0,84.41,100.0,15.59
+Chhattisgarh,Durg,2035,100.0,84.97,100.0,15.03
+Chhattisgarh,Korba,2026,78.06,72.89,83.22,10.33
+Chhattisgarh,Korba,2027,80.47,73.17,87.78,14.61
+Chhattisgarh,Korba,2028,83.37,74.42,92.31,17.89
+Chhattisgarh,Korba,2029,86.89,76.56,97.22,20.66
+Chhattisgarh,Korba,2030,88.21,76.67,99.76,23.09
+Chhattisgarh,Korba,2031,89.3,76.65,100.0,23.35
+Chhattisgarh,Korba,2032,92.17,78.51,100.0,21.49
+Chhattisgarh,Korba,2033,93.98,79.37,100.0,20.63
+Chhattisgarh,Korba,2034,94.29,78.8,100.0,21.2
+Chhattisgarh,Korba,2035,95.58,79.25,100.0,20.75
+Chhattisgarh,Raipur,2026,81.61,76.64,86.58,9.94
+Chhattisgarh,Raipur,2027,83.98,76.95,91.01,14.06
+Chhattisgarh,Raipur,2028,86.86,78.25,95.47,17.22
+Chhattisgarh,Raipur,2029,90.41,80.47,100.0,19.53
+Chhattisgarh,Raipur,2030,91.69,80.58,100.0,19.42
+Chhattisgarh,Raipur,2031,92.74,80.57,100.0,19.43
+Chhattisgarh,Raipur,2032,95.66,82.51,100.0,17.49
+Chhattisgarh,Raipur,2033,97.48,83.42,100.0,16.58
+Chhattisgarh,Raipur,2034,97.75,82.84,100.0,17.16
+Chhattisgarh,Raipur,2035,99.06,83.34,100.0,16.66
+Chhattisgarh,Rajnandgaon,2026,79.42,74.53,84.3,9.77
+Chhattisgarh,Rajnandgaon,2027,81.7,74.79,88.61,13.82
+Chhattisgarh,Rajnandgaon,2028,84.47,76.01,92.94,16.93
+Chhattisgarh,Rajnandgaon,2029,87.89,78.12,97.67,19.55
+Chhattisgarh,Rajnandgaon,2030,89.13,78.2,100.0,21.8
+Chhattisgarh,Rajnandgaon,2031,90.15,78.18,100.0,21.82
+Chhattisgarh,Rajnandgaon,2032,92.95,80.02,100.0,19.98
+Chhattisgarh,Rajnandgaon,2033,94.7,80.88,100.0,19.12
+Chhattisgarh,Rajnandgaon,2034,94.97,80.31,100.0,19.69
+Chhattisgarh,Rajnandgaon,2035,96.23,80.77,100.0,19.23
+Gujarat,Ahmedabad,2026,88.99,84.11,93.87,9.76
+Gujarat,Ahmedabad,2027,91.93,85.03,98.83,13.8
+Gujarat,Ahmedabad,2028,95.27,86.83,100.0,13.17
+Gujarat,Ahmedabad,2029,99.18,89.43,100.0,10.57
+Gujarat,Ahmedabad,2030,100.0,89.92,100.0,10.08
+Gujarat,Ahmedabad,2031,100.0,90.24,100.0,9.76
+Gujarat,Ahmedabad,2032,100.0,92.38,100.0,7.62
+Gujarat,Ahmedabad,2033,100.0,93.5,100.0,6.5
+Gujarat,Ahmedabad,2034,100.0,93.14,100.0,6.86
+Gujarat,Ahmedabad,2035,100.0,93.79,100.0,6.21
+Gujarat,Bhavnagar,2026,81.62,76.09,87.16,11.07
+Gujarat,Bhavnagar,2027,84.74,76.91,92.56,15.65
+Gujarat,Bhavnagar,2028,88.19,78.61,97.78,19.17
+Gujarat,Bhavnagar,2029,92.16,81.1,100.0,18.9
+Gujarat,Bhavnagar,2030,93.92,81.54,100.0,18.46
+Gujarat,Bhavnagar,2031,95.37,81.82,100.0,18.18
+Gujarat,Bhavnagar,2032,98.49,83.85,100.0,16.15
+Gujarat,Bhavnagar,2033,100.0,84.88,100.0,15.12
+Gujarat,Bhavnagar,2034,100.0,84.48,100.0,15.52
+Gujarat,Bhavnagar,2035,100.0,85.04,100.0,14.96
+Gujarat,Rajkot,2026,84.82,79.92,89.73,9.81
+Gujarat,Rajkot,2027,87.76,80.82,94.69,13.87
+Gujarat,Rajkot,2028,91.09,82.59,99.58,16.99
+Gujarat,Rajkot,2029,94.97,85.16,100.0,14.84
+Gujarat,Rajkot,2030,96.61,85.65,100.0,14.35
+Gujarat,Rajkot,2031,97.97,85.96,100.0,14.04
+Gujarat,Rajkot,2032,100.0,88.08,100.0,11.92
+Gujarat,Rajkot,2033,100.0,89.18,100.0,10.82
+Gujarat,Rajkot,2034,100.0,88.82,100.0,11.18
+Gujarat,Rajkot,2035,100.0,89.46,100.0,10.54
+Gujarat,Surat,2026,80.21,74.45,85.98,11.53
+Gujarat,Surat,2027,82.68,74.53,90.83,16.3
+Gujarat,Surat,2028,85.63,75.65,95.61,19.96
+Gujarat,Surat,2029,89.23,77.7,100.0,22.3
+Gujarat,Surat,2030,90.57,77.69,100.0,22.31
+Gujarat,Surat,2031,91.68,77.56,100.0,22.44
+Gujarat,Surat,2032,94.61,79.36,100.0,20.64
+Gujarat,Surat,2033,96.46,80.16,100.0,19.84
+Gujarat,Surat,2034,96.77,79.48,100.0,20.52
+Gujarat,Surat,2035,98.09,79.87,100.0,20.13
+Gujarat,Vadodara,2026,91.95,86.32,97.59,11.27
+Gujarat,Vadodara,2027,94.66,86.69,100.0,13.31
+Gujarat,Vadodara,2028,97.94,88.18,100.0,11.82
+Gujarat,Vadodara,2029,100.0,90.7,100.0,9.3
+Gujarat,Vadodara,2030,100.0,90.84,100.0,9.16
+Gujarat,Vadodara,2031,100.0,90.84,100.0,9.16
+Gujarat,Vadodara,2032,100.0,93.03,100.0,6.97
+Gujarat,Vadodara,2033,100.0,94.07,100.0,5.93
+Gujarat,Vadodara,2034,100.0,93.43,100.0,6.57
+Gujarat,Vadodara,2035,100.0,93.99,100.0,6.01
+Haryana,Ambala,2026,84.68,79.21,90.15,10.94
+Haryana,Ambala,2027,86.87,79.14,94.61,15.47
+Haryana,Ambala,2028,89.63,80.16,99.11,18.95
+Haryana,Ambala,2029,93.12,82.18,100.0,17.82
+Haryana,Ambala,2030,94.29,82.06,100.0,17.94
+Haryana,Ambala,2031,95.24,81.84,100.0,18.16
+Haryana,Ambala,2032,98.14,83.67,100.0,16.33
+Haryana,Ambala,2033,99.93,84.46,100.0,15.54
+Haryana,Ambala,2034,100.0,83.72,100.0,16.28
+Haryana,Ambala,2035,100.0,84.11,100.0,15.89
+Haryana,Faridabad,2026,79.11,73.61,84.61,11.0
+Haryana,Faridabad,2027,81.42,73.64,89.2,15.56
+Haryana,Faridabad,2028,84.22,74.69,93.75,19.06
+Haryana,Faridabad,2029,87.66,76.65,98.66,22.01
+Haryana,Faridabad,2030,88.92,76.61,100.0,23.39
+Haryana,Faridabad,2031,89.95,76.47,100.0,23.53
+Haryana,Faridabad,2032,92.76,78.2,100.0,21.8
+Haryana,Faridabad,2033,94.52,78.96,100.0,21.04
+Haryana,Faridabad,2034,94.8,78.3,100.0,21.7
+Haryana,Faridabad,2035,96.06,78.66,100.0,21.34
+Haryana,Gurugram,2026,81.52,75.2,87.85,12.65
+Haryana,Gurugram,2027,83.54,74.59,92.48,17.89
+Haryana,Gurugram,2028,86.1,75.15,97.06,21.91
+Haryana,Gurugram,2029,89.36,76.71,100.0,23.29
+Haryana,Gurugram,2030,90.43,76.29,100.0,23.71
+Haryana,Gurugram,2031,91.31,75.81,100.0,24.19
+Haryana,Gurugram,2032,94.02,77.29,100.0,22.71
+Haryana,Gurugram,2033,95.69,77.8,100.0,22.2
+Haryana,Gurugram,2034,95.87,76.89,100.0,23.11
+Haryana,Gurugram,2035,97.06,77.06,100.0,22.94
+Haryana,Hisar,2026,85.17,78.71,91.63,12.92
+Haryana,Hisar,2027,88.26,79.12,97.39,18.27
+Haryana,Hisar,2028,91.78,80.59,100.0,19.41
+Haryana,Hisar,2029,95.92,83.0,100.0,17.0
+Haryana,Hisar,2030,97.64,83.19,100.0,16.81
+Haryana,Hisar,2031,99.06,83.23,100.0,16.77
+Haryana,Hisar,2032,100.0,85.27,100.0,14.73
+Haryana,Hisar,2033,100.0,86.21,100.0,13.79
+Haryana,Hisar,2034,100.0,85.59,100.0,14.41
+Haryana,Hisar,2035,100.0,86.07,100.0,13.93
+Haryana,Panipat,2026,82.61,78.16,87.07,8.92
+Haryana,Panipat,2027,85.12,78.81,91.42,12.61
+Haryana,Panipat,2028,88.1,80.37,95.82,15.44
+Haryana,Panipat,2029,91.71,82.8,100.0,17.2
+Haryana,Panipat,2030,93.08,83.11,100.0,16.89
+Haryana,Panipat,2031,94.21,83.29,100.0,16.71
+Haryana,Panipat,2032,97.15,85.35,100.0,14.65
+Haryana,Panipat,2033,99.0,86.4,100.0,13.6
+Haryana,Panipat,2034,99.33,85.96,100.0,14.04
+Haryana,Panipat,2035,100.0,86.56,100.0,13.44
+Himachal Pradesh,Dharamshala,2026,85.58,78.75,92.41,13.67
+Himachal Pradesh,Dharamshala,2027,88.58,78.92,98.25,19.33
+Himachal Pradesh,Dharamshala,2028,92.04,80.21,100.0,19.79
+Himachal Pradesh,Dharamshala,2029,96.14,82.48,100.0,17.52
+Himachal Pradesh,Dharamshala,2030,97.81,82.53,100.0,17.47
+Himachal Pradesh,Dharamshala,2031,99.18,82.45,100.0,17.55
+Himachal Pradesh,Dharamshala,2032,100.0,84.39,100.0,15.61
+Himachal Pradesh,Dharamshala,2033,100.0,85.25,100.0,14.75
+Himachal Pradesh,Dharamshala,2034,100.0,84.53,100.0,15.47
+Himachal Pradesh,Dharamshala,2035,100.0,84.93,100.0,15.07
+Himachal Pradesh,Kullu,2026,85.75,78.64,92.85,14.21
+Himachal Pradesh,Kullu,2027,89.26,79.21,99.31,20.1
+Himachal Pradesh,Kullu,2028,93.17,80.86,100.0,19.14
+Himachal Pradesh,Kullu,2029,97.65,83.44,100.0,16.56
+Himachal Pradesh,Kullu,2030,99.63,83.74,100.0,16.26
+Himachal Pradesh,Kullu,2031,100.0,83.86,100.0,16.14
+Himachal Pradesh,Kullu,2032,100.0,85.99,100.0,14.01
+Himachal Pradesh,Kullu,2033,100.0,87.0,100.0,13.0
+Himachal Pradesh,Kullu,2034,100.0,86.4,100.0,13.6
+Himachal Pradesh,Kullu,2035,100.0,86.9,100.0,13.1
+Himachal Pradesh,Mandi,2026,85.9,79.96,91.85,11.89
+Himachal Pradesh,Mandi,2027,88.77,80.36,97.17,16.82
+Himachal Pradesh,Mandi,2028,92.14,81.84,100.0,18.16
+Himachal Pradesh,Mandi,2029,96.19,84.3,100.0,15.7
+Himachal Pradesh,Mandi,2030,97.76,84.47,100.0,15.53
+Himachal Pradesh,Mandi,2031,99.06,84.5,100.0,15.5
+Himachal Pradesh,Mandi,2032,100.0,86.61,100.0,13.39
+Himachal Pradesh,Mandi,2033,100.0,87.6,100.0,12.4
+Himachal Pradesh,Mandi,2034,100.0,86.98,100.0,13.02
+Himachal Pradesh,Mandi,2035,100.0,87.51,100.0,12.49
+Himachal Pradesh,Shimla,2026,83.72,79.74,87.69,7.95
+Himachal Pradesh,Shimla,2027,87.01,81.39,92.64,11.24
+Himachal Pradesh,Shimla,2028,90.68,83.8,97.57,13.77
+Himachal Pradesh,Shimla,2029,94.91,86.96,100.0,13.04
+Himachal Pradesh,Shimla,2030,96.76,87.88,100.0,12.12
+Himachal Pradesh,Shimla,2031,98.3,88.56,100.0,11.44
+Himachal Pradesh,Shimla,2032,100.0,91.11,100.0,8.89
+Himachal Pradesh,Shimla,2033,100.0,92.56,100.0,7.44
+Himachal Pradesh,Shimla,2034,100.0,92.45,100.0,7.55
+Himachal Pradesh,Shimla,2035,100.0,93.36,100.0,6.64
+Himachal Pradesh,Solan,2026,89.03,83.29,94.77,11.48
+Himachal Pradesh,Solan,2027,91.44,83.33,99.56,16.23
+Himachal Pradesh,Solan,2028,94.41,84.47,100.0,15.53
+Himachal Pradesh,Solan,2029,98.11,86.63,100.0,13.37
+Himachal Pradesh,Solan,2030,99.41,86.58,100.0,13.42
+Himachal Pradesh,Solan,2031,100.0,86.42,100.0,13.58
+Himachal Pradesh,Solan,2032,100.0,88.34,100.0,11.66
+Himachal Pradesh,Solan,2033,100.0,89.18,100.0,10.82
+Himachal Pradesh,Solan,2034,100.0,88.46,100.0,11.54
+Himachal Pradesh,Solan,2035,100.0,88.88,100.0,11.12
+Jharkhand,Bokaro,2026,89.17,83.03,95.32,12.29
+Jharkhand,Bokaro,2027,92.66,83.97,100.0,16.03
+Jharkhand,Bokaro,2028,96.5,85.86,100.0,14.14
+Jharkhand,Bokaro,2029,100.0,88.6,100.0,11.4
+Jharkhand,Bokaro,2030,100.0,89.12,100.0,10.88
+Jharkhand,Bokaro,2031,100.0,89.43,100.0,10.57
+Jharkhand,Bokaro,2032,100.0,91.67,100.0,8.33
+Jharkhand,Bokaro,2033,100.0,92.81,100.0,7.19
+Jharkhand,Bokaro,2034,100.0,92.38,100.0,7.62
+Jharkhand,Bokaro,2035,100.0,93.0,100.0,7.0
+Jharkhand,Dhanbad,2026,83.42,79.36,87.48,8.12
+Jharkhand,Dhanbad,2027,87.39,81.64,93.13,11.49
+Jharkhand,Dhanbad,2028,91.6,84.56,98.63,14.07
+Jharkhand,Dhanbad,2029,96.24,88.12,100.0,11.88
+Jharkhand,Dhanbad,2030,98.51,89.43,100.0,10.57
+Jharkhand,Dhanbad,2031,100.0,90.46,100.0,9.54
+Jharkhand,Dhanbad,2032,100.0,93.22,100.0,6.78
+Jharkhand,Dhanbad,2033,100.0,94.87,100.0,5.13
+Jharkhand,Dhanbad,2034,100.0,94.98,100.0,5.02
+Jharkhand,Dhanbad,2035,100.0,96.03,100.0,3.97
+Jharkhand,Hazaribagh,2026,82.09,78.14,86.03,7.9
+Jharkhand,Hazaribagh,2027,84.44,78.86,90.03,11.17
+Jharkhand,Hazaribagh,2028,87.31,80.47,94.15,13.68
+Jharkhand,Hazaribagh,2029,90.84,82.94,98.73,15.79
+Jharkhand,Hazaribagh,2030,92.12,83.29,100.0,16.71
+Jharkhand,Hazaribagh,2031,93.17,83.5,100.0,16.5
+Jharkhand,Hazaribagh,2032,96.06,85.61,100.0,14.39
+Jharkhand,Hazaribagh,2033,97.87,86.7,100.0,13.3
+Jharkhand,Hazaribagh,2034,98.15,86.3,100.0,13.7
+Jharkhand,Hazaribagh,2035,99.44,86.96,100.0,13.04
+Jharkhand,Jamshedpur,2026,82.07,76.4,87.73,11.33
+Jharkhand,Jamshedpur,2027,85.23,77.21,93.24,16.02
+Jharkhand,Jamshedpur,2028,88.75,78.94,98.56,19.62
+Jharkhand,Jamshedpur,2029,92.82,81.49,100.0,18.51
+Jharkhand,Jamshedpur,2030,94.6,81.93,100.0,18.07
+Jharkhand,Jamshedpur,2031,96.06,82.19,100.0,17.81
+Jharkhand,Jamshedpur,2032,99.27,84.29,100.0,15.71
+Jharkhand,Jamshedpur,2033,100.0,85.35,100.0,14.65
+Jharkhand,Jamshedpur,2034,100.0,84.92,100.0,15.08
+Jharkhand,Jamshedpur,2035,100.0,85.5,100.0,14.5
+Jharkhand,Ranchi,2026,84.29,78.42,90.16,11.74
+Jharkhand,Ranchi,2027,87.1,78.8,95.4,16.6
+Jharkhand,Ranchi,2028,90.38,80.21,100.0,19.79
+Jharkhand,Ranchi,2029,94.3,82.56,100.0,17.44
+Jharkhand,Ranchi,2030,95.85,82.73,100.0,17.27
+Jharkhand,Ranchi,2031,97.13,82.75,100.0,17.25
+Jharkhand,Ranchi,2032,100.0,84.76,100.0,15.24
+Jharkhand,Ranchi,2033,100.0,85.7,100.0,14.3
+Jharkhand,Ranchi,2034,100.0,85.1,100.0,14.9
+Jharkhand,Ranchi,2035,100.0,85.59,100.0,14.41
+Karnataka,Belagavi,2026,92.28,88.24,96.32,8.08
+Karnataka,Belagavi,2027,95.14,89.43,100.0,10.57
+Karnataka,Belagavi,2028,98.51,91.51,100.0,8.49
+Karnataka,Belagavi,2029,100.0,94.47,100.0,5.53
+Karnataka,Belagavi,2030,100.0,95.09,100.0,4.91
+Karnataka,Belagavi,2031,100.0,95.53,100.0,4.47
+Karnataka,Belagavi,2032,100.0,98.0,100.0,2.0
+Karnataka,Belagavi,2033,100.0,99.34,100.0,0.66
+Karnataka,Belagavi,2034,100.0,99.04,100.0,0.96
+Karnataka,Belagavi,2035,100.0,99.87,100.0,0.13
+Karnataka,Bengaluru,2026,92.03,86.76,97.3,10.55
+Karnataka,Bengaluru,2027,95.03,87.58,100.0,12.42
+Karnataka,Bengaluru,2028,98.44,89.31,100.0,10.69
+Karnataka,Bengaluru,2029,100.0,91.88,100.0,8.12
+Karnataka,Bengaluru,2030,100.0,92.31,100.0,7.69
+Karnataka,Bengaluru,2031,100.0,92.57,100.0,7.43
+Karnataka,Bengaluru,2032,100.0,94.71,100.0,5.29
+Karnataka,Bengaluru,2033,100.0,95.79,100.0,4.21
+Karnataka,Bengaluru,2034,100.0,95.37,100.0,4.63
+Karnataka,Bengaluru,2035,100.0,95.99,100.0,4.01
+Karnataka,Hubli,2026,78.62,75.14,82.11,6.97
+Karnataka,Hubli,2027,81.01,76.08,85.94,9.86
+Karnataka,Hubli,2028,83.83,77.8,89.87,12.08
+Karnataka,Hubli,2029,87.24,80.26,94.21,13.95
+Karnataka,Hubli,2030,88.55,80.75,96.35,15.59
+Karnataka,Hubli,2031,89.63,81.09,98.17,17.08
+Karnataka,Hubli,2032,92.39,83.16,100.0,16.84
+Karnataka,Hubli,2033,94.13,84.27,100.0,15.73
+Karnataka,Hubli,2034,94.46,84.0,100.0,16.0
+Karnataka,Hubli,2035,95.71,84.69,100.0,15.31
+Karnataka,Mangaluru,2026,80.37,75.12,85.62,10.5
+Karnataka,Mangaluru,2027,82.4,74.97,89.82,14.85
+Karnataka,Mangaluru,2028,84.94,75.84,94.03,18.19
+Karnataka,Mangaluru,2029,88.14,77.64,98.64,21.0
+Karnataka,Mangaluru,2030,89.23,77.49,100.0,22.51
+Karnataka,Mangaluru,2031,90.11,77.25,100.0,22.75
+Karnataka,Mangaluru,2032,92.77,78.88,100.0,21.12
+Karnataka,Mangaluru,2033,94.41,79.56,100.0,20.44
+Karnataka,Mangaluru,2034,94.6,78.85,100.0,21.15
+Karnataka,Mangaluru,2035,95.78,79.18,100.0,20.82
+Karnataka,Mysuru,2026,77.99,74.12,81.87,7.74
+Karnataka,Mysuru,2027,81.18,75.7,86.65,10.95
+Karnataka,Mysuru,2028,84.67,77.97,91.38,13.41
+Karnataka,Mysuru,2029,88.66,80.91,96.4,15.49
+Karnataka,Mysuru,2030,90.46,81.8,99.11,17.32
+Karnataka,Mysuru,2031,91.95,82.46,100.0,17.54
+Karnataka,Mysuru,2032,95.06,84.82,100.0,15.18
+Karnataka,Mysuru,2033,97.11,86.16,100.0,13.84
+Karnataka,Mysuru,2034,97.69,86.07,100.0,13.93
+Karnataka,Mysuru,2035,99.16,86.92,100.0,13.08
+Kerala,Kannur,2026,86.3,79.69,92.91,13.22
+Kerala,Kannur,2027,89.37,80.03,98.72,18.69
+Kerala,Kannur,2028,92.9,81.46,100.0,18.54
+Kerala,Kannur,2029,97.08,83.86,100.0,16.14
+Kerala,Kannur,2030,98.78,84.01,100.0,15.99
+Kerala,Kannur,2031,100.0,84.01,100.0,15.99
+Kerala,Kannur,2032,100.0,86.05,100.0,13.95
+Kerala,Kannur,2033,100.0,86.99,100.0,13.01
+Kerala,Kannur,2034,100.0,86.33,100.0,13.67
+Kerala,Kannur,2035,100.0,86.79,100.0,13.21
+Kerala,Kochi,2026,81.88,77.29,86.47,9.18
+Kerala,Kochi,2027,84.99,78.5,91.48,12.98
+Kerala,Kochi,2028,88.53,80.58,96.48,15.9
+Kerala,Kochi,2029,92.68,83.5,100.0,16.5
+Kerala,Kochi,2030,94.42,84.16,100.0,15.84
+Kerala,Kochi,2031,95.85,84.61,100.0,15.39
+Kerala,Kochi,2032,99.16,87.01,100.0,12.99
+Kerala,Kochi,2033,100.0,88.31,100.0,11.69
+Kerala,Kochi,2034,100.0,88.02,100.0,11.98
+Kerala,Kochi,2035,100.0,88.81,100.0,11.19
+Kerala,Kozhikode,2026,86.24,81.29,91.18,9.89
+Kerala,Kozhikode,2027,90.17,83.17,97.16,13.99
+Kerala,Kozhikode,2028,94.35,85.78,100.0,14.22
+Kerala,Kozhikode,2029,98.97,89.08,100.0,10.92
+Kerala,Kozhikode,2030,100.0,90.16,100.0,9.84
+Kerala,Kozhikode,2031,100.0,90.98,100.0,9.02
+Kerala,Kozhikode,2032,100.0,93.56,100.0,6.44
+Kerala,Kozhikode,2033,100.0,95.03,100.0,4.97
+Kerala,Kozhikode,2034,100.0,94.98,100.0,5.02
+Kerala,Kozhikode,2035,100.0,95.88,100.0,4.12
+Kerala,Thiruvananthapuram,2026,78.93,73.12,84.73,11.61
+Kerala,Thiruvananthapuram,2027,81.31,73.1,89.52,16.42
+Kerala,Thiruvananthapuram,2028,84.17,74.11,94.22,20.11
+Kerala,Thiruvananthapuram,2029,87.66,76.05,99.28,23.22
+Kerala,Thiruvananthapuram,2030,88.96,75.98,100.0,24.02
+Kerala,Thiruvananthapuram,2031,90.02,75.8,100.0,24.2
+Kerala,Thiruvananthapuram,2032,92.88,77.52,100.0,22.48
+Kerala,Thiruvananthapuram,2033,94.67,78.25,100.0,21.75
+Kerala,Thiruvananthapuram,2034,94.97,77.55,100.0,22.45
+Kerala,Thiruvananthapuram,2035,96.25,77.9,100.0,22.1
+Kerala,Thrissur,2026,82.24,75.98,88.5,12.53
+Kerala,Thrissur,2027,84.65,75.79,93.5,17.71
+Kerala,Thrissur,2028,87.58,76.73,98.43,21.69
+Kerala,Thrissur,2029,91.2,78.68,100.0,21.32
+Kerala,Thrissur,2030,92.51,78.51,100.0,21.49
+Kerala,Thrissur,2031,93.58,78.24,100.0,21.76
+Kerala,Thrissur,2032,96.55,79.98,100.0,20.02
+Kerala,Thrissur,2033,98.41,80.69,100.0,19.31
+Kerala,Thrissur,2034,98.69,79.9,100.0,20.1
+Kerala,Thrissur,2035,100.0,80.21,100.0,19.79
+Madhya Pradesh,Bhopal,2026,82.64,77.94,87.34,9.4
+Madhya Pradesh,Bhopal,2027,86.06,79.42,92.71,13.29
+Madhya Pradesh,Bhopal,2028,89.82,81.68,97.96,16.27
+Madhya Pradesh,Bhopal,2029,94.09,84.7,100.0,15.3
+Madhya Pradesh,Bhopal,2030,96.03,85.53,100.0,14.47
+Madhya Pradesh,Bhopal,2031,97.64,86.13,100.0,13.87
+Madhya Pradesh,Bhopal,2032,100.0,88.55,100.0,11.45
+Madhya Pradesh,Bhopal,2033,100.0,89.89,100.0,10.11
+Madhya Pradesh,Bhopal,2034,100.0,89.71,100.0,10.29
+Madhya Pradesh,Bhopal,2035,100.0,90.52,100.0,9.48
+Madhya Pradesh,Gwalior,2026,79.01,74.28,83.73,9.45
+Madhya Pradesh,Gwalior,2027,81.37,74.69,88.05,13.37
+Madhya Pradesh,Gwalior,2028,84.14,75.96,92.33,16.37
+Madhya Pradesh,Gwalior,2029,87.47,78.02,96.93,18.9
+Madhya Pradesh,Gwalior,2030,88.77,78.21,99.34,21.13
+Madhya Pradesh,Gwalior,2031,89.84,78.27,100.0,21.73
+Madhya Pradesh,Gwalior,2032,92.54,80.03,100.0,19.97
+Madhya Pradesh,Gwalior,2033,94.25,80.88,100.0,19.12
+Madhya Pradesh,Gwalior,2034,94.58,80.4,100.0,19.6
+Madhya Pradesh,Gwalior,2035,95.8,80.86,100.0,19.14
+Madhya Pradesh,Indore,2026,79.56,75.78,83.35,7.57
+Madhya Pradesh,Indore,2027,83.05,77.69,88.4,10.71
+Madhya Pradesh,Indore,2028,86.77,80.21,93.33,13.12
+Madhya Pradesh,Indore,2029,90.9,83.32,98.47,15.15
+Madhya Pradesh,Indore,2030,92.89,84.42,100.0,15.58
+Madhya Pradesh,Indore,2031,94.55,85.27,100.0,14.73
+Madhya Pradesh,Indore,2032,97.72,87.7,100.0,12.3
+Madhya Pradesh,Indore,2033,99.85,89.14,100.0,10.86
+Madhya Pradesh,Indore,2034,100.0,89.18,100.0,10.82
+Madhya Pradesh,Indore,2035,100.0,90.09,100.0,9.91
+Madhya Pradesh,Jabalpur,2026,74.74,69.62,79.87,10.24
+Madhya Pradesh,Jabalpur,2027,76.74,69.49,83.98,14.49
+Madhya Pradesh,Jabalpur,2028,79.23,70.36,88.11,17.74
+Madhya Pradesh,Jabalpur,2029,82.38,72.13,92.62,20.49
+Madhya Pradesh,Jabalpur,2030,83.44,71.99,94.9,22.91
+Madhya Pradesh,Jabalpur,2031,84.32,71.77,96.86,25.09
+Madhya Pradesh,Jabalpur,2032,86.92,73.37,100.0,26.63
+Madhya Pradesh,Jabalpur,2033,88.53,74.04,100.0,25.96
+Madhya Pradesh,Jabalpur,2034,88.72,73.36,100.0,26.64
+Madhya Pradesh,Jabalpur,2035,89.88,73.68,100.0,26.32
+Madhya Pradesh,Ujjain,2026,87.79,82.33,93.25,10.92
+Madhya Pradesh,Ujjain,2027,90.32,82.6,98.04,15.44
+Madhya Pradesh,Ujjain,2028,93.42,83.96,100.0,16.04
+Madhya Pradesh,Ujjain,2029,97.24,86.33,100.0,13.67
+Madhya Pradesh,Ujjain,2030,98.61,86.41,100.0,13.59
+Madhya Pradesh,Ujjain,2031,99.74,86.37,100.0,13.63
+Madhya Pradesh,Ujjain,2032,100.0,88.44,100.0,11.56
+Madhya Pradesh,Ujjain,2033,100.0,89.4,100.0,10.6
+Madhya Pradesh,Ujjain,2034,100.0,88.76,100.0,11.24
+Madhya Pradesh,Ujjain,2035,100.0,89.28,100.0,10.72
+Maharashtra,Aurangabad,2026,82.81,77.26,88.37,11.11
+Maharashtra,Aurangabad,2027,85.22,77.37,93.08,15.71
+Maharashtra,Aurangabad,2028,88.16,78.54,97.78,19.24
+Maharashtra,Aurangabad,2029,91.78,80.67,100.0,19.33
+Maharashtra,Aurangabad,2030,93.08,80.67,100.0,19.33
+Maharashtra,Aurangabad,2031,94.15,80.55,100.0,19.45
+Maharashtra,Aurangabad,2032,97.13,82.43,100.0,17.57
+Maharashtra,Aurangabad,2033,98.99,83.28,100.0,16.72
+Maharashtra,Aurangabad,2034,99.26,82.6,100.0,17.4
+Maharashtra,Aurangabad,2035,100.0,83.03,100.0,16.97
+Maharashtra,Mumbai,2026,89.37,83.04,95.71,12.67
+Maharashtra,Mumbai,2027,91.93,82.98,100.0,17.02
+Maharashtra,Mumbai,2028,95.0,84.03,100.0,15.97
+Maharashtra,Mumbai,2029,98.73,86.07,100.0,13.93
+Maharashtra,Mumbai,2030,100.0,85.97,100.0,14.03
+Maharashtra,Mumbai,2031,100.0,85.77,100.0,14.23
+Maharashtra,Mumbai,2032,100.0,87.57,100.0,12.43
+Maharashtra,Mumbai,2033,100.0,88.33,100.0,11.67
+Maharashtra,Mumbai,2034,100.0,87.57,100.0,12.43
+Maharashtra,Mumbai,2035,100.0,87.91,100.0,12.09
+Maharashtra,Nagpur,2026,80.94,75.61,86.27,10.66
+Maharashtra,Nagpur,2027,83.0,75.46,90.53,15.07
+Maharashtra,Nagpur,2028,85.58,76.36,94.81,18.46
+Maharashtra,Nagpur,2029,88.84,78.19,99.5,21.31
+Maharashtra,Nagpur,2030,89.95,78.03,100.0,21.97
+Maharashtra,Nagpur,2031,90.85,77.79,100.0,22.21
+Maharashtra,Nagpur,2032,93.55,79.45,100.0,20.55
+Maharashtra,Nagpur,2033,95.22,80.15,100.0,19.85
+Maharashtra,Nagpur,2034,95.42,79.43,100.0,20.57
+Maharashtra,Nagpur,2035,96.61,79.76,100.0,20.24
+Maharashtra,Nashik,2026,84.21,78.23,90.19,11.96
+Maharashtra,Nashik,2027,87.1,78.65,95.56,16.91
+Maharashtra,Nashik,2028,90.43,80.07,100.0,19.93
+Maharashtra,Nashik,2029,94.35,82.39,100.0,17.61
+Maharashtra,Nashik,2030,95.96,82.59,100.0,17.41
+Maharashtra,Nashik,2031,97.29,82.64,100.0,17.36
+Maharashtra,Nashik,2032,100.0,84.6,100.0,15.4
+Maharashtra,Nashik,2033,100.0,85.53,100.0,14.47
+Maharashtra,Nashik,2034,100.0,84.95,100.0,15.05
+Maharashtra,Nashik,2035,100.0,85.42,100.0,14.58
+Maharashtra,Pune,2026,95.08,89.57,100.0,10.43
+Maharashtra,Pune,2027,98.16,90.36,100.0,9.64
+Maharashtra,Pune,2028,100.0,92.18,100.0,7.82
+Maharashtra,Pune,2029,100.0,94.96,100.0,5.04
+Maharashtra,Pune,2030,100.0,95.36,100.0,4.64
+Maharashtra,Pune,2031,100.0,95.59,100.0,4.41
+Maharashtra,Pune,2032,100.0,97.93,100.0,2.07
+Maharashtra,Pune,2033,100.0,99.11,100.0,0.89
+Maharashtra,Pune,2034,100.0,98.61,100.0,1.39
+Maharashtra,Pune,2035,100.0,99.29,100.0,0.71
+Odisha,Berhampur,2026,89.44,86.27,92.62,6.35
+Odisha,Berhampur,2027,92.55,88.07,97.04,8.98
+Odisha,Berhampur,2028,96.08,90.58,100.0,9.42
+Odisha,Berhampur,2029,100.0,93.84,100.0,6.16
+Odisha,Berhampur,2030,100.0,94.83,100.0,5.17
+Odisha,Berhampur,2031,100.0,95.59,100.0,4.41
+Odisha,Berhampur,2032,100.0,98.23,100.0,1.77
+Odisha,Berhampur,2033,100.0,99.76,100.0,0.24
+Odisha,Berhampur,2034,100.0,99.73,100.0,0.27
+Odisha,Berhampur,2035,100.0,100.0,100.0,0.0
+Odisha,Bhubaneswar,2026,80.85,76.31,85.4,9.08
+Odisha,Bhubaneswar,2027,83.97,77.54,90.39,12.84
+Odisha,Bhubaneswar,2028,87.44,79.58,95.31,15.73
+Odisha,Bhubaneswar,2029,91.46,82.38,100.0,17.62
+Odisha,Bhubaneswar,2030,93.21,83.06,100.0,16.94
+Odisha,Bhubaneswar,2031,94.66,83.54,100.0,16.46
+Odisha,Bhubaneswar,2032,97.83,85.82,100.0,14.18
+Odisha,Bhubaneswar,2033,99.9,87.05,100.0,12.95
+Odisha,Bhubaneswar,2034,100.0,86.81,100.0,13.19
+Odisha,Bhubaneswar,2035,100.0,87.55,100.0,12.45
+Odisha,Cuttack,2026,81.76,75.92,87.6,11.68
+Odisha,Cuttack,2027,84.65,76.39,92.91,16.52
+Odisha,Cuttack,2028,87.93,77.81,98.05,20.23
+Odisha,Cuttack,2029,91.78,80.1,100.0,19.9
+Odisha,Cuttack,2030,93.39,80.33,100.0,19.67
+Odisha,Cuttack,2031,94.72,80.41,100.0,19.59
+Odisha,Cuttack,2032,97.79,82.34,100.0,17.66
+Odisha,Cuttack,2033,99.77,83.25,100.0,16.75
+Odisha,Cuttack,2034,100.0,82.71,100.0,17.29
+Odisha,Cuttack,2035,100.0,83.18,100.0,16.82
+Odisha,Rourkela,2026,86.06,80.62,91.49,10.87
+Odisha,Rourkela,2027,89.09,81.4,96.77,15.37
+Odisha,Rourkela,2028,92.57,83.16,100.0,16.84
+Odisha,Rourkela,2029,96.69,85.82,100.0,14.18
+Odisha,Rourkela,2030,98.37,86.22,100.0,13.78
+Odisha,Rourkela,2031,99.76,86.45,100.0,13.55
+Odisha,Rourkela,2032,100.0,88.68,100.0,11.32
+Odisha,Rourkela,2033,100.0,89.8,100.0,10.2
+Odisha,Rourkela,2034,100.0,89.34,100.0,10.66
+Odisha,Rourkela,2035,100.0,89.97,100.0,10.03
+Odisha,Sambalpur,2026,89.13,82.9,95.37,12.47
+Odisha,Sambalpur,2027,92.12,83.31,100.0,16.69
+Odisha,Sambalpur,2028,95.58,84.78,100.0,15.22
+Odisha,Sambalpur,2029,99.67,87.21,100.0,12.79
+Odisha,Sambalpur,2030,100.0,87.39,100.0,12.61
+Odisha,Sambalpur,2031,100.0,87.43,100.0,12.57
+Odisha,Sambalpur,2032,100.0,89.49,100.0,10.51
+Odisha,Sambalpur,2033,100.0,90.46,100.0,9.54
+Odisha,Sambalpur,2034,100.0,89.84,100.0,10.16
+Odisha,Sambalpur,2035,100.0,90.34,100.0,9.66
+Punjab,Amritsar,2026,86.47,82.1,90.83,8.72
+Punjab,Amritsar,2027,90.23,84.06,96.4,12.34
+Punjab,Amritsar,2028,94.31,86.76,100.0,13.24
+Punjab,Amritsar,2029,98.9,90.17,100.0,9.83
+Punjab,Amritsar,2030,100.0,91.28,100.0,8.72
+Punjab,Amritsar,2031,100.0,92.13,100.0,7.87
+Punjab,Amritsar,2032,100.0,94.83,100.0,5.17
+Punjab,Amritsar,2033,100.0,96.4,100.0,3.6
+Punjab,Amritsar,2034,100.0,96.37,100.0,3.63
+Punjab,Amritsar,2035,100.0,97.35,100.0,2.65
+Punjab,Bathinda,2026,81.05,76.46,85.63,9.17
+Punjab,Bathinda,2027,83.55,77.07,90.03,12.97
+Punjab,Bathinda,2028,86.52,78.58,94.46,15.88
+Punjab,Bathinda,2029,90.11,80.94,99.28,18.34
+Punjab,Bathinda,2030,91.48,81.23,100.0,18.77
+Punjab,Bathinda,2031,92.61,81.38,100.0,18.62
+Punjab,Bathinda,2032,95.52,83.39,100.0,16.61
+Punjab,Bathinda,2033,97.36,84.39,100.0,15.61
+Punjab,Bathinda,2034,97.7,83.94,100.0,16.06
+Punjab,Bathinda,2035,99.02,84.52,100.0,15.48
+Punjab,Jalandhar,2026,79.56,74.98,84.13,9.15
+Punjab,Jalandhar,2027,81.74,75.28,88.21,12.94
+Punjab,Jalandhar,2028,84.45,76.53,92.37,15.84
+Punjab,Jalandhar,2029,87.83,78.69,96.98,18.29
+Punjab,Jalandhar,2030,89.01,78.78,99.24,20.45
+Punjab,Jalandhar,2031,89.97,78.77,100.0,21.23
+Punjab,Jalandhar,2032,92.77,80.66,100.0,19.34
+Punjab,Jalandhar,2033,94.5,81.56,100.0,18.44
+Punjab,Jalandhar,2034,94.73,81.01,100.0,18.99
+Punjab,Jalandhar,2035,95.97,81.51,100.0,18.49
+Punjab,Ludhiana,2026,81.02,75.98,86.05,10.06
+Punjab,Ludhiana,2027,83.61,76.49,90.73,14.23
+Punjab,Ludhiana,2028,86.63,77.92,95.35,17.43
+Punjab,Ludhiana,2029,90.25,80.18,100.0,19.82
+Punjab,Ludhiana,2030,91.68,80.43,100.0,19.57
+Punjab,Ludhiana,2031,92.86,80.53,100.0,19.47
+Punjab,Ludhiana,2032,95.77,82.45,100.0,17.55
+Punjab,Ludhiana,2033,97.62,83.39,100.0,16.61
+Punjab,Ludhiana,2034,98.0,82.9,100.0,17.1
+Punjab,Ludhiana,2035,99.33,83.42,100.0,16.58
+Punjab,Patiala,2026,92.54,86.42,98.66,12.24
+Punjab,Patiala,2027,95.36,86.71,100.0,13.29
+Punjab,Patiala,2028,98.73,88.13,100.0,11.87
+Punjab,Patiala,2029,100.0,90.58,100.0,9.42
+Punjab,Patiala,2030,100.0,90.68,100.0,9.32
+Punjab,Patiala,2031,100.0,90.65,100.0,9.35
+Punjab,Patiala,2032,100.0,92.77,100.0,7.23
+Punjab,Patiala,2033,100.0,93.75,100.0,6.25
+Punjab,Patiala,2034,100.0,93.07,100.0,6.93
+Punjab,Patiala,2035,100.0,93.58,100.0,6.42
+Rajasthan,Ajmer,2026,80.61,76.81,84.41,7.6
+Rajasthan,Ajmer,2027,84.59,79.22,89.97,10.74
+Rajasthan,Ajmer,2028,88.75,82.18,95.33,13.16
+Rajasthan,Ajmer,2029,93.27,85.68,100.0,14.32
+Rajasthan,Ajmer,2030,95.57,87.08,100.0,12.92
+Rajasthan,Ajmer,2031,97.49,88.18,100.0,11.82
+Rajasthan,Ajmer,2032,100.0,90.87,100.0,9.13
+Rajasthan,Ajmer,2033,100.0,92.5,100.0,7.5
+Rajasthan,Ajmer,2034,100.0,92.7,100.0,7.3
+Rajasthan,Ajmer,2035,100.0,93.76,100.0,6.24
+Rajasthan,Jaipur,2026,77.02,73.56,80.48,6.91
+Rajasthan,Jaipur,2027,79.59,74.71,84.48,9.77
+Rajasthan,Jaipur,2028,82.57,76.59,88.56,11.97
+Rajasthan,Jaipur,2029,86.11,79.2,93.02,13.82
+Rajasthan,Jaipur,2030,87.54,79.81,95.26,15.45
+Rajasthan,Jaipur,2031,88.71,80.25,97.18,16.93
+Rajasthan,Jaipur,2032,91.55,82.41,100.0,17.59
+Rajasthan,Jaipur,2033,93.37,83.59,100.0,16.41
+Rajasthan,Jaipur,2034,93.75,83.38,100.0,16.62
+Rajasthan,Jaipur,2035,95.05,84.13,100.0,15.87
+Rajasthan,Jodhpur,2026,85.37,79.92,90.83,10.92
+Rajasthan,Jodhpur,2027,88.98,81.25,96.7,15.44
+Rajasthan,Jodhpur,2028,92.89,83.44,100.0,16.56
+Rajasthan,Jodhpur,2029,97.31,86.39,100.0,13.61
+Rajasthan,Jodhpur,2030,99.36,87.15,100.0,12.85
+Rajasthan,Jodhpur,2031,100.0,87.68,100.0,12.32
+Rajasthan,Jodhpur,2032,100.0,90.05,100.0,9.95
+Rajasthan,Jodhpur,2033,100.0,91.33,100.0,8.67
+Rajasthan,Jodhpur,2034,100.0,91.07,100.0,8.93
+Rajasthan,Jodhpur,2035,100.0,91.81,100.0,8.19
+Rajasthan,Kota,2026,79.77,74.85,84.69,9.84
+Rajasthan,Kota,2027,82.93,75.97,89.89,13.92
+Rajasthan,Kota,2028,86.46,77.93,94.98,17.05
+Rajasthan,Kota,2029,90.53,80.69,100.0,19.31
+Rajasthan,Kota,2030,92.31,81.3,100.0,18.7
+Rajasthan,Kota,2031,93.78,81.72,100.0,18.28
+Rajasthan,Kota,2032,96.99,83.97,100.0,16.03
+Rajasthan,Kota,2033,99.09,85.17,100.0,14.83
+Rajasthan,Kota,2034,99.63,84.87,100.0,15.13
+Rajasthan,Kota,2035,100.0,85.57,100.0,14.43
+Rajasthan,Udaipur,2026,83.05,77.79,88.31,10.51
+Rajasthan,Udaipur,2027,85.8,78.36,93.23,14.87
+Rajasthan,Udaipur,2028,88.95,79.85,98.06,18.21
+Rajasthan,Udaipur,2029,92.68,82.17,100.0,17.83
+Rajasthan,Udaipur,2030,94.21,82.45,100.0,17.55
+Rajasthan,Udaipur,2031,95.47,82.59,100.0,17.41
+Rajasthan,Udaipur,2032,98.45,84.54,100.0,15.46
+Rajasthan,Udaipur,2033,100.0,85.5,100.0,14.5
+Rajasthan,Udaipur,2034,100.0,85.02,100.0,14.98
+Rajasthan,Udaipur,2035,100.0,85.54,100.0,14.46
+Tamil Nadu,Chennai,2026,85.04,81.61,88.47,6.86
+Tamil Nadu,Chennai,2027,88.51,83.66,93.37,9.7
+Tamil Nadu,Chennai,2028,92.3,86.36,98.24,11.88
+Tamil Nadu,Chennai,2029,96.58,89.73,100.0,10.27
+Tamil Nadu,Chennai,2030,98.56,90.89,100.0,9.11
+Tamil Nadu,Chennai,2031,100.0,91.79,100.0,8.21
+Tamil Nadu,Chennai,2032,100.0,94.45,100.0,5.55
+Tamil Nadu,Chennai,2033,100.0,96.03,100.0,3.97
+Tamil Nadu,Chennai,2034,100.0,96.09,100.0,3.91
+Tamil Nadu,Chennai,2035,100.0,97.12,100.0,2.88
+Tamil Nadu,Coimbatore,2026,83.65,79.03,88.27,9.24
+Tamil Nadu,Coimbatore,2027,86.67,80.14,93.2,13.06
+Tamil Nadu,Coimbatore,2028,90.1,82.1,98.1,16.0
+Tamil Nadu,Coimbatore,2029,94.1,84.86,100.0,15.14
+Tamil Nadu,Coimbatore,2030,95.79,85.46,100.0,14.54
+Tamil Nadu,Coimbatore,2031,97.19,85.87,100.0,14.13
+Tamil Nadu,Coimbatore,2032,100.0,88.14,100.0,11.86
+Tamil Nadu,Coimbatore,2033,100.0,89.35,100.0,10.65
+Tamil Nadu,Coimbatore,2034,100.0,89.06,100.0,10.94
+Tamil Nadu,Coimbatore,2035,100.0,89.78,100.0,10.22
+Tamil Nadu,Madurai,2026,88.38,83.9,92.87,8.97
+Tamil Nadu,Madurai,2027,91.77,85.43,98.12,12.68
+Tamil Nadu,Madurai,2028,95.54,87.78,100.0,12.22
+Tamil Nadu,Madurai,2029,99.87,90.9,100.0,9.1
+Tamil Nadu,Madurai,2030,100.0,91.76,100.0,8.24
+Tamil Nadu,Madurai,2031,100.0,92.38,100.0,7.62
+Tamil Nadu,Madurai,2032,100.0,94.91,100.0,5.09
+Tamil Nadu,Madurai,2033,100.0,96.31,100.0,3.69
+Tamil Nadu,Madurai,2034,100.0,96.14,100.0,3.86
+Tamil Nadu,Madurai,2035,100.0,97.01,100.0,2.99
+Tamil Nadu,Salem,2026,83.74,78.88,88.6,9.71
+Tamil Nadu,Salem,2027,86.06,79.19,92.93,13.74
+Tamil Nadu,Salem,2028,88.89,80.47,97.3,16.82
+Tamil Nadu,Salem,2029,92.37,82.66,100.0,17.34
+Tamil Nadu,Salem,2030,93.63,82.77,100.0,17.23
+Tamil Nadu,Salem,2031,94.66,82.77,100.0,17.23
+Tamil Nadu,Salem,2032,97.52,84.67,100.0,15.33
+Tamil Nadu,Salem,2033,99.31,85.57,100.0,14.43
+Tamil Nadu,Salem,2034,99.58,85.01,100.0,14.99
+Tamil Nadu,Salem,2035,100.0,85.5,100.0,14.5
+Tamil Nadu,Tiruchirappalli,2026,81.77,76.74,86.8,10.07
+Tamil Nadu,Tiruchirappalli,2027,84.75,77.63,91.87,14.24
+Tamil Nadu,Tiruchirappalli,2028,88.08,79.36,96.8,17.44
+Tamil Nadu,Tiruchirappalli,2029,91.91,81.84,100.0,18.16
+Tamil Nadu,Tiruchirappalli,2030,93.58,82.33,100.0,17.67
+Tamil Nadu,Tiruchirappalli,2031,94.98,82.65,100.0,17.35
+Tamil Nadu,Tiruchirappalli,2032,97.99,84.67,100.0,15.33
+Tamil Nadu,Tiruchirappalli,2033,99.96,85.73,100.0,14.27
+Tamil Nadu,Tiruchirappalli,2034,100.0,85.38,100.0,14.62
+Tamil Nadu,Tiruchirappalli,2035,100.0,85.97,100.0,14.03
+Telangana,Hyderabad,2026,86.81,82.02,91.6,9.58
+Telangana,Hyderabad,2027,88.71,81.94,95.49,13.55
+Telangana,Hyderabad,2028,91.19,82.89,99.49,16.6
+Telangana,Hyderabad,2029,94.38,84.8,100.0,15.2
+Telangana,Hyderabad,2030,95.39,84.67,100.0,15.33
+Telangana,Hyderabad,2031,96.2,84.46,100.0,15.54
+Telangana,Hyderabad,2032,98.88,86.2,100.0,13.8
+Telangana,Hyderabad,2033,100.0,86.97,100.0,13.03
+Telangana,Hyderabad,2034,100.0,86.28,100.0,13.72
+Telangana,Hyderabad,2035,100.0,86.67,100.0,13.33
+Telangana,Karimnagar,2026,82.44,77.96,86.93,8.97
+Telangana,Karimnagar,2027,85.11,78.77,91.45,12.68
+Telangana,Karimnagar,2028,88.23,80.46,95.99,15.53
+Telangana,Karimnagar,2029,91.95,82.98,100.0,17.02
+Telangana,Karimnagar,2030,93.43,83.4,100.0,16.6
+Telangana,Karimnagar,2031,94.64,83.65,100.0,16.35
+Telangana,Karimnagar,2032,97.64,85.78,100.0,14.22
+Telangana,Karimnagar,2033,99.55,86.87,100.0,13.13
+Telangana,Karimnagar,2034,99.94,86.49,100.0,13.51
+Telangana,Karimnagar,2035,100.0,87.13,100.0,12.87
+Telangana,Khammam,2026,83.41,78.02,88.8,10.78
+Telangana,Khammam,2027,87.24,79.62,94.86,15.24
+Telangana,Khammam,2028,91.32,81.98,100.0,18.02
+Telangana,Khammam,2029,95.83,85.05,100.0,14.95
+Telangana,Khammam,2030,98.02,85.97,100.0,14.03
+Telangana,Khammam,2031,99.85,86.65,100.0,13.35
+Telangana,Khammam,2032,100.0,89.05,100.0,10.95
+Telangana,Khammam,2033,100.0,90.4,100.0,9.6
+Telangana,Khammam,2034,100.0,90.24,100.0,9.76
+Telangana,Khammam,2035,100.0,91.03,100.0,8.97
+Telangana,Nizamabad,2026,77.48,72.34,82.62,10.28
+Telangana,Nizamabad,2027,79.52,72.25,86.78,14.53
+Telangana,Nizamabad,2028,82.05,73.15,90.95,17.8
+Telangana,Nizamabad,2029,85.22,74.94,95.5,20.55
+Telangana,Nizamabad,2030,86.32,74.82,97.81,22.98
+Telangana,Nizamabad,2031,87.21,74.62,99.8,25.17
+Telangana,Nizamabad,2032,89.83,76.23,100.0,23.77
+Telangana,Nizamabad,2033,91.46,76.92,100.0,23.08
+Telangana,Nizamabad,2034,91.66,76.25,100.0,23.75
+Telangana,Nizamabad,2035,92.83,76.58,100.0,23.42
+Telangana,Warangal,2026,80.91,75.12,86.7,11.58
+Telangana,Warangal,2027,83.34,75.15,91.52,16.38
+Telangana,Warangal,2028,86.26,76.23,96.29,20.06
+Telangana,Warangal,2029,89.85,78.27,100.0,21.73
+Telangana,Warangal,2030,91.17,78.22,100.0,21.78
+Telangana,Warangal,2031,92.25,78.06,100.0,21.94
+Telangana,Warangal,2032,95.18,79.86,100.0,20.14
+Telangana,Warangal,2033,97.02,80.65,100.0,19.35
+Telangana,Warangal,2034,97.32,79.95,100.0,20.05
+Telangana,Warangal,2035,98.63,80.32,100.0,19.68
+Uttar Pradesh,Agra,2026,89.94,85.56,94.32,8.76
+Uttar Pradesh,Agra,2027,93.81,87.62,100.0,12.38
+Uttar Pradesh,Agra,2028,98.0,90.41,100.0,9.59
+Uttar Pradesh,Agra,2029,100.0,93.93,100.0,6.07
+Uttar Pradesh,Agra,2030,100.0,95.1,100.0,4.9
+Uttar Pradesh,Agra,2031,100.0,96.0,100.0,4.0
+Uttar Pradesh,Agra,2032,100.0,98.78,100.0,1.22
+Uttar Pradesh,Agra,2033,100.0,100.0,100.0,0.0
+Uttar Pradesh,Agra,2034,100.0,100.0,100.0,0.0
+Uttar Pradesh,Agra,2035,100.0,100.0,100.0,0.0
+Uttar Pradesh,Kanpur,2026,82.55,78.44,86.66,8.21
+Uttar Pradesh,Kanpur,2027,85.67,79.87,91.48,11.62
+Uttar Pradesh,Kanpur,2028,89.14,82.03,96.26,14.23
+Uttar Pradesh,Kanpur,2029,93.12,84.91,100.0,15.09
+Uttar Pradesh,Kanpur,2030,94.88,85.7,100.0,14.3
+Uttar Pradesh,Kanpur,2031,96.34,86.28,100.0,13.72
+Uttar Pradesh,Kanpur,2032,99.47,88.6,100.0,11.4
+Uttar Pradesh,Kanpur,2033,100.0,89.9,100.0,10.1
+Uttar Pradesh,Kanpur,2034,100.0,89.74,100.0,10.26
+Uttar Pradesh,Kanpur,2035,100.0,90.54,100.0,9.46
+Uttar Pradesh,Lucknow,2026,81.03,75.23,86.83,11.6
+Uttar Pradesh,Lucknow,2027,83.34,75.14,91.55,16.4
+Uttar Pradesh,Lucknow,2028,86.14,76.1,96.19,20.09
+Uttar Pradesh,Lucknow,2029,89.57,77.97,100.0,22.03
+Uttar Pradesh,Lucknow,2030,90.83,77.87,100.0,22.13
+Uttar Pradesh,Lucknow,2031,91.87,77.66,100.0,22.34
+Uttar Pradesh,Lucknow,2032,94.67,79.33,100.0,20.67
+Uttar Pradesh,Lucknow,2033,96.43,80.03,100.0,19.97
+Uttar Pradesh,Lucknow,2034,96.71,79.31,100.0,20.69
+Uttar Pradesh,Lucknow,2035,97.97,79.63,100.0,20.37
+Uttar Pradesh,Meerut,2026,87.84,81.85,93.84,11.99
+Uttar Pradesh,Meerut,2027,91.78,83.3,100.0,16.7
+Uttar Pradesh,Meerut,2028,95.97,85.58,100.0,14.42
+Uttar Pradesh,Meerut,2029,100.0,88.62,100.0,11.38
+Uttar Pradesh,Meerut,2030,100.0,89.45,100.0,10.55
+Uttar Pradesh,Meerut,2031,100.0,90.05,100.0,9.95
+Uttar Pradesh,Meerut,2032,100.0,92.44,100.0,7.56
+Uttar Pradesh,Meerut,2033,100.0,93.73,100.0,6.27
+Uttar Pradesh,Meerut,2034,100.0,93.49,100.0,6.51
+Uttar Pradesh,Meerut,2035,100.0,94.24,100.0,5.76
+Uttar Pradesh,Varanasi,2026,81.33,76.33,86.33,10.0
+Uttar Pradesh,Varanasi,2027,84.0,76.93,91.07,14.14
+Uttar Pradesh,Varanasi,2028,87.07,78.42,95.73,17.32
+Uttar Pradesh,Varanasi,2029,90.72,80.72,100.0,19.28
+Uttar Pradesh,Varanasi,2030,92.2,81.02,100.0,18.98
+Uttar Pradesh,Varanasi,2031,93.42,81.17,100.0,18.83
+Uttar Pradesh,Varanasi,2032,96.34,83.11,100.0,16.89
+Uttar Pradesh,Varanasi,2033,98.21,84.07,100.0,15.93
+Uttar Pradesh,Varanasi,2034,98.62,83.62,100.0,16.38
+Uttar Pradesh,Varanasi,2035,99.96,84.15,100.0,15.85
+West Bengal,Asansol,2026,89.55,84.0,95.1,11.1
+West Bengal,Asansol,2027,92.28,84.44,100.0,15.56
+West Bengal,Asansol,2028,95.51,85.9,100.0,14.1
+West Bengal,Asansol,2029,99.4,88.3,100.0,11.7
+West Bengal,Asansol,2030,100.0,88.5,100.0,11.5
+West Bengal,Asansol,2031,100.0,88.55,100.0,11.45
+West Bengal,Asansol,2032,100.0,90.6,100.0,9.4
+West Bengal,Asansol,2033,100.0,91.59,100.0,8.41
+West Bengal,Asansol,2034,100.0,91.01,100.0,8.99
+West Bengal,Asansol,2035,100.0,91.54,100.0,8.46
+West Bengal,Durgapur,2026,87.2,83.11,91.29,8.18
+West Bengal,Durgapur,2027,90.36,84.58,96.15,11.57
+West Bengal,Durgapur,2028,93.91,86.83,100.0,13.17
+West Bengal,Durgapur,2029,98.0,89.83,100.0,10.17
+West Bengal,Durgapur,2030,99.78,90.64,100.0,9.36
+West Bengal,Durgapur,2031,100.0,91.24,100.0,8.76
+West Bengal,Durgapur,2032,100.0,93.67,100.0,6.33
+West Bengal,Durgapur,2033,100.0,95.03,100.0,4.97
+West Bengal,Durgapur,2034,100.0,94.87,100.0,5.13
+West Bengal,Durgapur,2035,100.0,95.72,100.0,4.28
+West Bengal,Howrah,2026,83.89,80.0,87.78,7.79
+West Bengal,Howrah,2027,85.8,80.29,91.3,11.01
+West Bengal,Howrah,2028,88.27,81.53,95.02,13.49
+West Bengal,Howrah,2029,91.48,83.69,99.26,15.57
+West Bengal,Howrah,2030,92.48,83.77,100.0,16.23
+West Bengal,Howrah,2031,93.29,83.75,100.0,16.25
+West Bengal,Howrah,2032,95.98,85.68,100.0,14.32
+West Bengal,Howrah,2033,97.62,86.61,100.0,13.39
+West Bengal,Howrah,2034,97.75,86.07,100.0,13.93
+West Bengal,Howrah,2035,98.93,86.62,100.0,13.38
+West Bengal,Kolkata,2026,86.9,82.49,91.31,8.82
+West Bengal,Kolkata,2027,89.27,83.03,95.51,12.48
+West Bengal,Kolkata,2028,92.1,84.46,99.74,15.28
+West Bengal,Kolkata,2029,95.54,86.72,100.0,13.28
+West Bengal,Kolkata,2030,96.84,86.97,100.0,13.03
+West Bengal,Kolkata,2031,97.9,87.09,100.0,12.91
+West Bengal,Kolkata,2032,100.0,89.03,100.0,10.97
+West Bengal,Kolkata,2033,100.0,90.0,100.0,10.0
+West Bengal,Kolkata,2034,100.0,89.54,100.0,10.46
+West Bengal,Kolkata,2035,100.0,90.09,100.0,9.91
+West Bengal,Siliguri,2026,82.9,78.08,87.72,9.64
+West Bengal,Siliguri,2027,86.12,79.31,92.94,13.63
+West Bengal,Siliguri,2028,89.69,81.34,98.03,16.69
+West Bengal,Siliguri,2029,93.76,84.12,100.0,15.88
+West Bengal,Siliguri,2030,95.58,84.81,100.0,15.19
+West Bengal,Siliguri,2031,97.09,85.29,100.0,14.71
+West Bengal,Siliguri,2032,100.0,87.53,100.0,12.47
+West Bengal,Siliguri,2033,100.0,88.75,100.0,11.25
+West Bengal,Siliguri,2034,100.0,88.5,100.0,11.5
+West Bengal,Siliguri,2035,100.0,89.22,100.0,10.78

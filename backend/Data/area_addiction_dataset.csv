@@ -1,0 +1,1001 @@
+State,City,Age,Gender,Education Level,Hours per Day,Anxiety Score,Addiction Level
+Andhra Pradesh,Visakhapatnam,24,Female,Working,1,2,Medium
+Andhra Pradesh,Guntur,37,Female,School,1,4,High
+Andhra Pradesh,Visakhapatnam,27,Male,Graduate,2,4,High
+Andhra Pradesh,Nellore,40,Male,Working,3,2,Medium
+Andhra Pradesh,Kurnool,22,Female,School,3,1,Medium
+Andhra Pradesh,Nellore,18,Female,Working,5,2,Medium
+Andhra Pradesh,Vijayawada,35,Female,School,4,2,Medium
+Andhra Pradesh,Vijayawada,33,Female,Graduate,5,1,Medium
+Andhra Pradesh,Visakhapatnam,20,Female,School,4,3,Medium
+Andhra Pradesh,Nellore,34,Male,Working,8,4,High
+Andhra Pradesh,Nellore,24,Female,Working,5,2,Medium
+Andhra Pradesh,Kurnool,19,Male,Graduate,1,4,High
+Andhra Pradesh,Nellore,30,Female,School,3,4,High
+Andhra Pradesh,Visakhapatnam,35,Female,School,1,1,Low
+Andhra Pradesh,Kurnool,17,Male,Working,8,3,High
+Andhra Pradesh,Kurnool,32,Male,Graduate,5,4,High
+Andhra Pradesh,Nellore,19,Female,Graduate,8,2,High
+Andhra Pradesh,Nellore,29,Male,School,8,3,High
+Andhra Pradesh,Guntur,20,Female,Graduate,5,2,Medium
+Andhra Pradesh,Kurnool,15,Male,Graduate,1,2,Medium
+Andhra Pradesh,Nellore,33,Female,Working,4,4,High
+Andhra Pradesh,Guntur,23,Male,School,8,3,High
+Andhra Pradesh,Vijayawada,38,Female,Working,2,3,High
+Andhra Pradesh,Visakhapatnam,18,Female,Graduate,8,2,High
+Andhra Pradesh,Guntur,15,Male,School,6,2,High
+Andhra Pradesh,Nellore,33,Male,Working,5,1,Medium
+Andhra Pradesh,Visakhapatnam,23,Male,School,4,2,Medium
+Andhra Pradesh,Vijayawada,30,Male,Working,6,2,High
+Andhra Pradesh,Nellore,36,Female,Working,6,4,High
+Andhra Pradesh,Nellore,34,Female,Working,1,4,High
+Andhra Pradesh,Vijayawada,22,Male,Working,8,4,High
+Andhra Pradesh,Vijayawada,21,Male,School,7,2,High
+Andhra Pradesh,Vijayawada,39,Male,Working,4,4,High
+Andhra Pradesh,Visakhapatnam,23,Male,Graduate,6,2,High
+Andhra Pradesh,Kurnool,30,Female,Working,2,1,Low
+Andhra Pradesh,Kurnool,35,Male,Graduate,5,4,High
+Andhra Pradesh,Visakhapatnam,38,Female,Graduate,2,3,Medium
+Andhra Pradesh,Vijayawada,20,Male,School,2,4,High
+Andhra Pradesh,Vijayawada,29,Male,Graduate,7,3,High
+Andhra Pradesh,Visakhapatnam,37,Male,Working,8,4,High
+Andhra Pradesh,Nellore,25,Male,Graduate,8,2,High
+Andhra Pradesh,Visakhapatnam,26,Male,Working,4,4,High
+Andhra Pradesh,Guntur,17,Male,Graduate,5,3,High
+Andhra Pradesh,Kurnool,24,Male,School,8,3,High
+Andhra Pradesh,Visakhapatnam,18,Female,Working,5,3,High
+Andhra Pradesh,Vijayawada,21,Female,Graduate,8,1,High
+Andhra Pradesh,Kurnool,25,Female,Working,8,1,High
+Andhra Pradesh,Nellore,35,Male,Working,2,3,High
+Andhra Pradesh,Vijayawada,15,Female,School,1,1,Low
+Andhra Pradesh,Vijayawada,37,Male,Working,2,3,Medium
+Arunachal Pradesh,Tawang,25,Male,Working,6,2,High
+Arunachal Pradesh,Pasighat,29,Male,Working,8,3,High
+Arunachal Pradesh,Tawang,16,Male,Graduate,1,3,Medium
+Arunachal Pradesh,Pasighat,19,Female,School,2,1,Low
+Arunachal Pradesh,Pasighat,36,Male,Working,2,2,Medium
+Arunachal Pradesh,Ziro,22,Male,Graduate,4,3,High
+Arunachal Pradesh,Itanagar,27,Male,Graduate,4,1,Medium
+Arunachal Pradesh,Pasighat,23,Female,School,6,3,High
+Arunachal Pradesh,Pasighat,35,Female,School,3,4,High
+Arunachal Pradesh,Ziro,22,Male,School,2,4,High
+Arunachal Pradesh,Ziro,25,Female,Working,5,3,Medium
+Arunachal Pradesh,Ziro,23,Male,Graduate,2,1,Low
+Arunachal Pradesh,Itanagar,17,Male,Working,5,2,Medium
+Arunachal Pradesh,Ziro,37,Male,Graduate,5,2,Medium
+Arunachal Pradesh,Bomdila,38,Male,Working,2,2,Medium
+Arunachal Pradesh,Ziro,29,Female,Graduate,6,1,High
+Arunachal Pradesh,Bomdila,25,Female,Working,1,2,Medium
+Arunachal Pradesh,Ziro,17,Female,Graduate,4,3,Medium
+Arunachal Pradesh,Pasighat,34,Male,School,4,4,High
+Arunachal Pradesh,Itanagar,29,Male,Graduate,7,2,High
+Arunachal Pradesh,Tawang,33,Female,Graduate,3,2,Medium
+Arunachal Pradesh,Pasighat,40,Female,Working,5,4,High
+Arunachal Pradesh,Itanagar,31,Male,Graduate,3,3,High
+Arunachal Pradesh,Pasighat,31,Male,School,4,3,Medium
+Arunachal Pradesh,Bomdila,40,Female,School,7,4,High
+Arunachal Pradesh,Ziro,38,Male,Graduate,2,2,Medium
+Arunachal Pradesh,Pasighat,36,Male,School,8,3,High
+Arunachal Pradesh,Pasighat,26,Male,Working,2,4,High
+Arunachal Pradesh,Ziro,24,Female,Working,6,4,High
+Arunachal Pradesh,Tawang,25,Female,Working,6,3,High
+Arunachal Pradesh,Itanagar,30,Male,Graduate,1,4,High
+Arunachal Pradesh,Itanagar,18,Female,School,1,3,High
+Arunachal Pradesh,Ziro,23,Female,School,5,4,High
+Arunachal Pradesh,Ziro,38,Male,Working,1,2,Medium
+Arunachal Pradesh,Pasighat,23,Female,Working,1,1,Low
+Arunachal Pradesh,Ziro,18,Male,Working,7,2,High
+Arunachal Pradesh,Bomdila,19,Male,Working,5,1,Medium
+Arunachal Pradesh,Ziro,30,Male,Working,6,2,High
+Arunachal Pradesh,Tawang,33,Female,School,5,3,High
+Arunachal Pradesh,Bomdila,39,Male,School,6,3,High
+Arunachal Pradesh,Pasighat,36,Male,Working,7,2,High
+Arunachal Pradesh,Itanagar,18,Male,School,5,2,Medium
+Arunachal Pradesh,Pasighat,38,Female,School,1,4,High
+Arunachal Pradesh,Ziro,17,Male,Graduate,7,2,High
+Arunachal Pradesh,Pasighat,27,Male,Working,8,4,High
+Arunachal Pradesh,Ziro,22,Female,School,3,1,Medium
+Arunachal Pradesh,Itanagar,22,Male,School,2,2,Medium
+Arunachal Pradesh,Bomdila,36,Male,Graduate,2,3,High
+Arunachal Pradesh,Tawang,25,Female,Working,4,1,Medium
+Arunachal Pradesh,Itanagar,40,Female,Working,2,3,High
+Assam,Guwahati,16,Female,Working,8,1,High
+Assam,Dibrugarh,18,Female,Graduate,2,2,Medium
+Assam,Jorhat,17,Female,Working,2,4,High
+Assam,Dibrugarh,32,Female,Working,1,1,Low
+Assam,Silchar,18,Male,Graduate,5,3,Medium
+Assam,Tezpur,30,Female,Graduate,6,3,High
+Assam,Dibrugarh,37,Male,Working,4,3,High
+Assam,Guwahati,25,Male,Working,2,1,Low
+Assam,Jorhat,27,Male,Working,1,1,Low
+Assam,Guwahati,28,Female,Working,1,5,High
+Assam,Dibrugarh,17,Male,Working,4,1,Medium
+Assam,Jorhat,39,Female,Graduate,2,3,High
+Assam,Guwahati,16,Female,Working,4,3,High
+Assam,Jorhat,37,Male,Working,1,4,High
+Assam,Guwahati,31,Female,Graduate,4,4,High
+Assam,Jorhat,22,Female,School,1,4,High
+Assam,Guwahati,36,Male,School,8,2,High
+Assam,Jorhat,35,Female,Working,8,1,High
+Assam,Silchar,33,Female,Working,7,1,High
+Assam,Guwahati,17,Male,Working,2,3,Medium
+Assam,Tezpur,27,Male,Working,2,1,Low
+Assam,Dibrugarh,30,Female,School,3,2,Medium
+Assam,Dibrugarh,31,Female,School,7,2,High
+Assam,Guwahati,18,Female,Working,7,2,High
+Assam,Guwahati,35,Female,School,5,1,Medium
+Assam,Silchar,29,Male,Graduate,5,3,Medium
+Assam,Guwahati,31,Male,Working,2,3,High
+Assam,Guwahati,23,Female,School,5,2,Medium
+Assam,Dibrugarh,19,Male,School,2,2,Medium
+Assam,Guwahati,33,Female,Working,1,2,Medium
+Assam,Silchar,23,Male,School,4,3,Medium
+Assam,Silchar,36,Female,School,4,3,High
+Assam,Dibrugarh,40,Male,School,1,5,High
+Assam,Jorhat,27,Female,Working,6,4,High
+Assam,Jorhat,39,Male,Graduate,5,2,Medium
+Assam,Silchar,23,Female,Graduate,3,4,High
+Assam,Silchar,32,Female,Working,2,3,High
+Assam,Tezpur,34,Female,Working,5,3,High
+Assam,Jorhat,17,Female,School,8,1,High
+Assam,Silchar,29,Male,Graduate,5,4,High
+Assam,Silchar,38,Female,Graduate,8,3,High
+Assam,Dibrugarh,32,Female,Working,3,1,Medium
+Assam,Dibrugarh,19,Male,Working,3,2,Medium
+Assam,Tezpur,19,Female,School,2,3,High
+Assam,Tezpur,40,Male,Working,6,5,High
+Assam,Guwahati,23,Male,Working,1,3,High
+Assam,Dibrugarh,16,Female,Working,6,2,High
+Assam,Dibrugarh,31,Female,Graduate,8,1,High
+Assam,Dibrugarh,31,Female,Graduate,6,1,High
+Assam,Dibrugarh,17,Female,Working,2,4,High
+Bihar,Muzaffarpur,29,Male,Graduate,6,2,High
+Bihar,Bhagalpur,34,Female,Graduate,6,1,High
+Bihar,Gaya,36,Female,Working,7,4,High
+Bihar,Gaya,18,Female,School,4,4,High
+Bihar,Purnia,15,Female,Graduate,5,2,Medium
+Bihar,Gaya,34,Female,School,4,4,High
+Bihar,Patna,32,Female,Graduate,6,3,High
+Bihar,Patna,34,Male,Working,4,4,High
+Bihar,Muzaffarpur,36,Female,Graduate,8,2,High
+Bihar,Muzaffarpur,29,Male,Working,2,2,Medium
+Bihar,Gaya,22,Male,Graduate,2,2,Medium
+Bihar,Gaya,25,Female,Graduate,7,4,High
+Bihar,Patna,16,Male,Graduate,7,3,High
+Bihar,Muzaffarpur,19,Male,Working,7,4,High
+Bihar,Muzaffarpur,36,Female,Graduate,7,3,High
+Bihar,Bhagalpur,34,Male,Working,7,3,High
+Bihar,Gaya,29,Female,Graduate,7,3,High
+Bihar,Gaya,19,Male,Graduate,5,4,High
+Bihar,Bhagalpur,19,Female,School,3,5,High
+Bihar,Bhagalpur,39,Female,Graduate,7,1,High
+Bihar,Muzaffarpur,24,Male,Working,4,4,High
+Bihar,Muzaffarpur,40,Female,School,4,2,Medium
+Bihar,Bhagalpur,23,Male,School,4,4,High
+Bihar,Muzaffarpur,35,Female,Working,3,4,High
+Bihar,Muzaffarpur,18,Female,Graduate,2,4,High
+Bihar,Patna,26,Male,School,4,3,Medium
+Bihar,Purnia,31,Female,Working,4,2,Medium
+Bihar,Patna,33,Female,School,8,4,High
+Bihar,Purnia,32,Male,Graduate,6,4,High
+Bihar,Muzaffarpur,34,Male,Graduate,6,1,High
+Bihar,Purnia,19,Female,School,8,5,High
+Bihar,Muzaffarpur,24,Male,Working,8,3,High
+Bihar,Purnia,20,Male,Graduate,6,2,High
+Bihar,Gaya,29,Female,Working,2,4,High
+Bihar,Gaya,29,Male,Graduate,4,1,Medium
+Bihar,Muzaffarpur,16,Female,School,8,4,High
+Bihar,Muzaffarpur,40,Male,Working,5,2,Medium
+Bihar,Bhagalpur,16,Male,Working,3,2,Medium
+Bihar,Bhagalpur,15,Male,Working,8,2,High
+Bihar,Gaya,32,Male,School,6,1,High
+Bihar,Patna,26,Male,Working,8,3,High
+Bihar,Purnia,25,Male,School,4,1,Medium
+Bihar,Muzaffarpur,17,Female,School,3,1,Medium
+Bihar,Muzaffarpur,20,Male,School,5,4,High
+Bihar,Patna,17,Male,Graduate,8,4,High
+Bihar,Gaya,40,Female,Graduate,6,5,High
+Bihar,Purnia,23,Male,School,1,4,High
+Bihar,Purnia,24,Male,Working,2,2,Medium
+Bihar,Purnia,26,Female,School,1,4,High
+Bihar,Purnia,16,Female,Graduate,5,3,Medium
+Chhattisgarh,Rajnandgaon,23,Female,Working,3,2,Medium
+Chhattisgarh,Raipur,26,Female,School,5,4,High
+Chhattisgarh,Raipur,38,Male,School,8,2,High
+Chhattisgarh,Raipur,29,Female,School,1,2,Medium
+Chhattisgarh,Durg,16,Female,Working,8,3,High
+Chhattisgarh,Korba,27,Male,School,3,4,High
+Chhattisgarh,Korba,20,Female,School,8,4,High
+Chhattisgarh,Rajnandgaon,25,Male,Graduate,8,3,High
+Chhattisgarh,Raipur,19,Female,Graduate,8,2,High
+Chhattisgarh,Korba,39,Female,School,5,3,Medium
+Chhattisgarh,Korba,20,Male,School,7,1,High
+Chhattisgarh,Korba,15,Female,Working,2,3,High
+Chhattisgarh,Korba,30,Male,Working,3,4,High
+Chhattisgarh,Durg,34,Male,Working,7,2,High
+Chhattisgarh,Raipur,15,Female,School,5,3,Medium
+Chhattisgarh,Korba,19,Female,Working,8,3,High
+Chhattisgarh,Bilaspur,28,Female,School,8,1,High
+Chhattisgarh,Bilaspur,38,Female,Graduate,8,4,High
+Chhattisgarh,Bilaspur,19,Female,Graduate,3,3,High
+Chhattisgarh,Rajnandgaon,26,Female,Working,3,1,Medium
+Chhattisgarh,Raipur,16,Male,School,2,1,Low
+Chhattisgarh,Raipur,34,Female,School,5,5,High
+Chhattisgarh,Durg,19,Female,Working,6,3,High
+Chhattisgarh,Korba,26,Female,Graduate,2,2,Medium
+Chhattisgarh,Bilaspur,34,Female,Working,5,2,Medium
+Chhattisgarh,Korba,34,Female,School,4,1,Medium
+Chhattisgarh,Durg,22,Male,Graduate,2,4,High
+Chhattisgarh,Rajnandgaon,19,Female,School,2,3,High
+Chhattisgarh,Korba,37,Male,School,2,3,Medium
+Chhattisgarh,Rajnandgaon,19,Female,Working,7,3,High
+Chhattisgarh,Bilaspur,16,Male,Graduate,4,2,Medium
+Chhattisgarh,Raipur,38,Male,Working,7,4,High
+Chhattisgarh,Rajnandgaon,22,Female,Working,3,1,Medium
+Chhattisgarh,Bilaspur,27,Male,Graduate,8,3,High
+Chhattisgarh,Korba,22,Male,Working,1,4,High
+Chhattisgarh,Durg,20,Male,Graduate,2,4,High
+Chhattisgarh,Raipur,18,Female,Working,3,4,High
+Chhattisgarh,Bilaspur,27,Male,School,7,2,High
+Chhattisgarh,Korba,28,Female,Working,4,1,Medium
+Chhattisgarh,Rajnandgaon,23,Female,School,8,1,High
+Chhattisgarh,Raipur,35,Female,Graduate,1,2,Medium
+Chhattisgarh,Korba,18,Male,Working,7,1,High
+Chhattisgarh,Bilaspur,28,Female,Working,2,2,Medium
+Chhattisgarh,Rajnandgaon,39,Male,School,1,1,Low
+Chhattisgarh,Raipur,36,Female,Working,3,3,Medium
+Chhattisgarh,Rajnandgaon,31,Male,Working,7,1,High
+Chhattisgarh,Raipur,38,Male,Graduate,8,4,High
+Chhattisgarh,Durg,33,Male,Graduate,8,3,High
+Chhattisgarh,Durg,30,Female,Working,7,2,High
+Chhattisgarh,Bilaspur,18,Male,School,2,4,High
+Gujarat,Rajkot,31,Female,Working,2,4,High
+Gujarat,Vadodara,17,Female,Working,5,4,High
+Gujarat,Bhavnagar,34,Female,Graduate,6,2,High
+Gujarat,Rajkot,15,Female,School,8,4,High
+Gujarat,Ahmedabad,24,Male,Working,5,1,Medium
+Gujarat,Ahmedabad,21,Male,School,1,3,High
+Gujarat,Vadodara,19,Female,Working,3,1,Medium
+Gujarat,Rajkot,26,Female,School,4,4,High
+Gujarat,Surat,21,Female,Working,7,3,High
+Gujarat,Ahmedabad,34,Male,School,8,4,High
+Gujarat,Surat,21,Male,Working,4,4,High
+Gujarat,Rajkot,16,Female,Working,5,4,High
+Gujarat,Vadodara,29,Male,School,4,4,High
+Gujarat,Surat,18,Male,Working,1,4,High
+Gujarat,Bhavnagar,39,Female,Working,2,1,Low
+Gujarat,Bhavnagar,33,Female,Graduate,1,2,Medium
+Gujarat,Vadodara,40,Male,Graduate,2,3,Medium
+Gujarat,Vadodara,19,Male,Working,1,4,High
+Gujarat,Ahmedabad,35,Male,Graduate,6,4,High
+Gujarat,Rajkot,17,Male,Working,5,4,High
+Gujarat,Bhavnagar,24,Male,Working,6,1,High
+Gujarat,Rajkot,29,Male,Graduate,4,1,Medium
+Gujarat,Ahmedabad,39,Female,Graduate,4,1,Medium
+Gujarat,Ahmedabad,39,Male,Working,8,2,High
+Gujarat,Ahmedabad,24,Female,Graduate,3,4,High
+Gujarat,Bhavnagar,39,Female,Working,6,2,High
+Gujarat,Vadodara,39,Male,Graduate,7,4,High
+Gujarat,Bhavnagar,24,Male,Working,8,1,High
+Gujarat,Vadodara,30,Male,Graduate,4,4,High
+Gujarat,Surat,21,Male,School,4,3,Medium
+Gujarat,Bhavnagar,39,Female,Graduate,7,2,High
+Gujarat,Bhavnagar,20,Female,School,4,2,Medium
+Gujarat,Bhavnagar,27,Female,School,5,3,High
+Gujarat,Ahmedabad,16,Female,Graduate,3,3,High
+Gujarat,Surat,21,Female,Graduate,5,4,High
+Gujarat,Ahmedabad,17,Male,School,8,2,High
+Gujarat,Bhavnagar,22,Male,School,6,1,High
+Gujarat,Ahmedabad,21,Female,Working,3,2,Medium
+Gujarat,Surat,21,Female,Graduate,6,2,High
+Gujarat,Ahmedabad,24,Male,Graduate,5,4,High
+Gujarat,Vadodara,28,Male,Working,5,2,Medium
+Gujarat,Vadodara,33,Male,Graduate,3,3,High
+Gujarat,Surat,31,Male,Graduate,4,4,High
+Gujarat,Surat,21,Male,Working,5,3,Medium
+Gujarat,Vadodara,16,Male,Graduate,8,2,High
+Gujarat,Bhavnagar,15,Female,School,3,2,Medium
+Gujarat,Bhavnagar,26,Male,School,2,4,High
+Gujarat,Vadodara,33,Male,Working,2,2,Medium
+Gujarat,Vadodara,20,Male,Working,7,3,High
+Gujarat,Bhavnagar,35,Female,Working,2,1,Low
+Haryana,Panipat,21,Female,Working,5,2,Medium
+Haryana,Faridabad,22,Male,Working,1,4,High
+Haryana,Gurugram,35,Female,Working,8,1,High
+Haryana,Ambala,19,Male,School,1,2,Medium
+Haryana,Hisar,39,Male,School,2,1,Low
+Haryana,Panipat,16,Male,School,4,4,High
+Haryana,Faridabad,36,Male,Working,3,2,Medium
+Haryana,Hisar,22,Male,School,3,5,High
+Haryana,Gurugram,18,Male,School,4,5,High
+Haryana,Gurugram,37,Male,Working,8,2,High
+Haryana,Faridabad,19,Male,Graduate,5,2,Medium
+Haryana,Hisar,20,Male,Graduate,6,4,High
+Haryana,Faridabad,38,Female,Graduate,3,4,High
+Haryana,Gurugram,27,Male,Working,3,4,High
+Haryana,Faridabad,24,Male,School,1,3,High
+Haryana,Hisar,28,Female,Graduate,4,1,Medium
+Haryana,Faridabad,40,Male,Working,3,4,High
+Haryana,Panipat,26,Female,Graduate,3,2,Medium
+Haryana,Ambala,32,Female,Graduate,4,4,High
+Haryana,Panipat,17,Male,Graduate,8,3,High
+Haryana,Ambala,24,Female,Working,8,3,High
+Haryana,Hisar,29,Male,Working,2,2,Medium
+Haryana,Gurugram,34,Female,Graduate,8,2,High
+Haryana,Ambala,18,Female,Working,5,2,Medium
+Haryana,Panipat,31,Female,School,3,4,High
+Haryana,Hisar,33,Female,School,3,1,Medium
+Haryana,Ambala,24,Female,Working,4,2,Medium
+Haryana,Panipat,40,Female,Graduate,3,4,High
+Haryana,Faridabad,36,Male,School,1,3,High
+Haryana,Hisar,25,Male,School,4,3,High
+Haryana,Ambala,34,Female,Working,3,2,Medium
+Haryana,Gurugram,20,Male,School,2,2,Medium
+Haryana,Hisar,32,Male,School,2,3,High
+Haryana,Ambala,22,Female,Graduate,4,2,Medium
+Haryana,Gurugram,28,Male,School,2,4,High
+Haryana,Ambala,18,Male,School,7,4,High
+Haryana,Ambala,35,Female,School,8,2,High
+Haryana,Gurugram,27,Male,Working,3,4,High
+Haryana,Hisar,34,Male,Working,8,2,High
+Haryana,Panipat,25,Female,Graduate,3,3,Medium
+Haryana,Gurugram,16,Female,Graduate,2,5,High
+Haryana,Ambala,23,Male,Working,4,1,Medium
+Haryana,Hisar,31,Female,School,1,3,Medium
+Haryana,Faridabad,16,Male,Working,5,3,Medium
+Haryana,Faridabad,30,Male,Graduate,1,1,Low
+Haryana,Hisar,24,Male,Working,5,2,Medium
+Haryana,Gurugram,37,Male,Graduate,6,2,High
+Haryana,Ambala,32,Female,Working,2,1,Low
+Haryana,Hisar,28,Female,School,3,4,High
+Haryana,Gurugram,16,Male,Graduate,3,4,High
+Himachal Pradesh,Kullu,34,Female,School,1,4,High
+Himachal Pradesh,Solan,22,Female,Graduate,3,3,High
+Himachal Pradesh,Solan,26,Male,Graduate,1,3,Medium
+Himachal Pradesh,Kullu,30,Female,Graduate,3,1,Medium
+Himachal Pradesh,Mandi,15,Female,Working,4,4,High
+Himachal Pradesh,Dharamshala,15,Male,Graduate,3,3,High
+Himachal Pradesh,Dharamshala,28,Female,School,3,1,Medium
+Himachal Pradesh,Dharamshala,25,Male,Working,4,2,Medium
+Himachal Pradesh,Mandi,33,Male,School,5,3,Medium
+Himachal Pradesh,Dharamshala,29,Female,Graduate,2,2,Medium
+Himachal Pradesh,Solan,37,Male,School,2,3,Medium
+Himachal Pradesh,Solan,15,Female,Graduate,6,3,High
+Himachal Pradesh,Solan,39,Male,Graduate,2,3,Medium
+Himachal Pradesh,Mandi,35,Male,Working,3,2,Medium
+Himachal Pradesh,Kullu,39,Male,Graduate,5,4,High
+Himachal Pradesh,Dharamshala,34,Female,Graduate,3,3,High
+Himachal Pradesh,Solan,23,Male,School,6,1,High
+Himachal Pradesh,Dharamshala,34,Female,School,5,4,High
+Himachal Pradesh,Dharamshala,32,Male,Working,1,2,Medium
+Himachal Pradesh,Kullu,34,Male,Working,6,1,High
+Himachal Pradesh,Mandi,24,Female,School,3,3,Medium
+Himachal Pradesh,Shimla,36,Male,Graduate,2,1,Low
+Himachal Pradesh,Mandi,15,Male,School,2,3,High
+Himachal Pradesh,Shimla,20,Female,Working,4,3,High
+Himachal Pradesh,Dharamshala,29,Male,Graduate,2,4,High
+Himachal Pradesh,Mandi,36,Female,Working,1,2,Medium
+Himachal Pradesh,Shimla,26,Male,Graduate,7,2,High
+Himachal Pradesh,Mandi,29,Male,School,8,3,High
+Himachal Pradesh,Solan,25,Female,Working,5,2,Medium
+Himachal Pradesh,Dharamshala,29,Male,Graduate,6,3,High
+Himachal Pradesh,Dharamshala,19,Female,Working,6,3,High
+Himachal Pradesh,Kullu,33,Female,Working,8,3,High
+Himachal Pradesh,Kullu,36,Female,Graduate,1,1,Low
+Himachal Pradesh,Dharamshala,39,Male,Graduate,6,4,High
+Himachal Pradesh,Shimla,40,Male,Graduate,3,1,Medium
+Himachal Pradesh,Kullu,17,Female,School,4,1,Medium
+Himachal Pradesh,Mandi,21,Male,School,7,1,High
+Himachal Pradesh,Shimla,20,Female,School,5,3,High
+Himachal Pradesh,Kullu,32,Female,Working,4,3,Medium
+Himachal Pradesh,Solan,18,Female,Working,6,3,High
+Himachal Pradesh,Kullu,20,Female,Graduate,2,4,High
+Himachal Pradesh,Mandi,26,Female,School,8,1,High
+Himachal Pradesh,Dharamshala,35,Male,Graduate,1,1,Low
+Himachal Pradesh,Kullu,16,Female,Working,5,1,Medium
+Himachal Pradesh,Mandi,32,Male,Working,4,2,Medium
+Himachal Pradesh,Mandi,25,Female,Graduate,2,1,Low
+Himachal Pradesh,Solan,29,Female,School,6,3,High
+Himachal Pradesh,Kullu,16,Male,School,6,1,High
+Himachal Pradesh,Shimla,26,Male,Graduate,8,4,High
+Himachal Pradesh,Shimla,32,Female,Graduate,4,3,Medium
+Jharkhand,Ranchi,19,Female,Working,5,4,High
+Jharkhand,Jamshedpur,26,Male,Graduate,6,2,High
+Jharkhand,Jamshedpur,27,Female,School,1,4,High
+Jharkhand,Jamshedpur,38,Male,Working,8,3,High
+Jharkhand,Dhanbad,29,Female,Graduate,1,1,Low
+Jharkhand,Dhanbad,25,Female,Graduate,5,2,Medium
+Jharkhand,Dhanbad,38,Male,Working,2,3,Medium
+Jharkhand,Ranchi,16,Female,Working,5,3,Medium
+Jharkhand,Jamshedpur,37,Female,Graduate,6,3,High
+Jharkhand,Hazaribagh,19,Female,School,6,2,High
+Jharkhand,Hazaribagh,18,Male,Working,2,2,Medium
+Jharkhand,Ranchi,35,Female,Graduate,5,4,High
+Jharkhand,Jamshedpur,40,Male,School,8,4,High
+Jharkhand,Jamshedpur,21,Male,Graduate,5,3,High
+Jharkhand,Hazaribagh,40,Male,School,8,3,High
+Jharkhand,Hazaribagh,25,Male,Working,5,2,Medium
+Jharkhand,Bokaro,22,Male,Graduate,7,3,High
+Jharkhand,Ranchi,23,Male,Graduate,4,3,High
+Jharkhand,Ranchi,21,Male,Working,6,1,High
+Jharkhand,Dhanbad,39,Male,Working,2,2,Medium
+Jharkhand,Hazaribagh,35,Male,School,8,2,High
+Jharkhand,Hazaribagh,21,Male,Working,4,1,Medium
+Jharkhand,Jamshedpur,24,Male,Graduate,7,1,High
+Jharkhand,Ranchi,20,Male,Graduate,3,2,Medium
+Jharkhand,Dhanbad,36,Male,Graduate,8,4,High
+Jharkhand,Bokaro,28,Male,Graduate,2,2,Medium
+Jharkhand,Bokaro,35,Female,School,4,1,Medium
+Jharkhand,Ranchi,19,Male,Graduate,3,3,Medium
+Jharkhand,Bokaro,29,Male,Graduate,8,3,High
+Jharkhand,Dhanbad,40,Male,Working,4,4,High
+Jharkhand,Ranchi,16,Female,Graduate,4,1,Medium
+Jharkhand,Dhanbad,32,Female,Graduate,8,1,High
+Jharkhand,Jamshedpur,23,Female,School,8,2,High
+Jharkhand,Dhanbad,35,Male,Graduate,6,4,High
+Jharkhand,Jamshedpur,29,Male,Working,7,3,High
+Jharkhand,Hazaribagh,21,Male,Graduate,3,2,Medium
+Jharkhand,Dhanbad,30,Male,School,7,2,High
+Jharkhand,Bokaro,39,Male,Graduate,4,2,Medium
+Jharkhand,Hazaribagh,20,Female,Graduate,5,4,High
+Jharkhand,Ranchi,34,Male,Graduate,7,2,High
+Jharkhand,Ranchi,36,Male,Graduate,6,1,High
+Jharkhand,Hazaribagh,37,Female,Graduate,2,3,High
+Jharkhand,Jamshedpur,36,Male,Working,1,2,Medium
+Jharkhand,Dhanbad,31,Male,Graduate,4,3,Medium
+Jharkhand,Bokaro,28,Male,Graduate,4,2,Medium
+Jharkhand,Jamshedpur,40,Male,Graduate,4,2,Medium
+Jharkhand,Bokaro,36,Male,Graduate,3,2,Medium
+Jharkhand,Ranchi,17,Male,School,5,4,High
+Jharkhand,Hazaribagh,33,Male,Graduate,1,4,High
+Jharkhand,Bokaro,21,Female,Working,1,2,Medium
+Karnataka,Mysuru,16,Female,Working,1,2,Medium
+Karnataka,Bengaluru,28,Female,Working,3,3,High
+Karnataka,Belagavi,15,Female,Graduate,3,4,High
+Karnataka,Bengaluru,36,Male,Working,2,3,High
+Karnataka,Bengaluru,35,Female,Working,3,1,Medium
+Karnataka,Hubli,38,Male,Graduate,3,4,High
+Karnataka,Belagavi,15,Male,Working,7,3,High
+Karnataka,Bengaluru,26,Female,School,2,1,Low
+Karnataka,Belagavi,15,Male,School,5,4,High
+Karnataka,Mysuru,19,Male,Working,2,1,Low
+Karnataka,Bengaluru,19,Female,Working,4,4,High
+Karnataka,Hubli,28,Male,School,6,4,High
+Karnataka,Mysuru,31,Female,Graduate,6,3,High
+Karnataka,Hubli,35,Female,School,2,4,High
+Karnataka,Belagavi,38,Male,School,1,3,Medium
+Karnataka,Hubli,16,Female,Graduate,5,5,High
+Karnataka,Mysuru,15,Male,Working,2,1,Low
+Karnataka,Mangaluru,16,Male,Working,3,3,Medium
+Karnataka,Bengaluru,38,Female,Working,1,2,Medium
+Karnataka,Hubli,18,Female,Working,3,4,High
+Karnataka,Mangaluru,25,Male,Graduate,4,1,Medium
+Karnataka,Mangaluru,37,Male,Graduate,2,3,High
+Karnataka,Mysuru,33,Female,School,4,3,Medium
+Karnataka,Hubli,21,Female,Working,8,4,High
+Karnataka,Hubli,39,Male,Working,4,4,High
+Karnataka,Belagavi,36,Male,School,5,1,Medium
+Karnataka,Mangaluru,39,Female,Working,1,2,Medium
+Karnataka,Bengaluru,33,Male,Graduate,7,2,High
+Karnataka,Mysuru,38,Female,School,4,4,High
+Karnataka,Bengaluru,24,Male,Graduate,4,2,Medium
+Karnataka,Bengaluru,35,Female,Working,6,1,High
+Karnataka,Mangaluru,24,Male,Working,4,1,Medium
+Karnataka,Bengaluru,18,Male,Graduate,4,3,Medium
+Karnataka,Belagavi,37,Male,School,7,3,High
+Karnataka,Mangaluru,29,Male,School,1,2,Medium
+Karnataka,Mysuru,37,Male,Working,5,4,High
+Karnataka,Hubli,20,Female,School,6,3,High
+Karnataka,Mysuru,37,Male,School,4,2,Medium
+Karnataka,Mangaluru,32,Female,Working,1,1,Low
+Karnataka,Belagavi,34,Female,Working,5,4,High
+Karnataka,Mangaluru,20,Female,Working,5,1,Medium
+Karnataka,Mysuru,15,Male,Graduate,2,2,Medium
+Karnataka,Hubli,34,Male,Graduate,1,4,High
+Karnataka,Belagavi,17,Male,School,5,1,Medium
+Karnataka,Bengaluru,32,Male,School,1,3,High
+Karnataka,Bengaluru,23,Male,Graduate,2,2,Medium
+Karnataka,Bengaluru,16,Female,Graduate,8,3,High
+Karnataka,Hubli,35,Male,School,8,1,High
+Karnataka,Bengaluru,18,Female,Graduate,1,4,High
+Karnataka,Belagavi,29,Female,Working,3,3,Medium
+Kerala,Thrissur,25,Female,School,3,2,Medium
+Kerala,Kozhikode,16,Male,Graduate,3,4,High
+Kerala,Thiruvananthapuram,22,Female,Graduate,8,3,High
+Kerala,Kannur,36,Female,Working,3,2,Medium
+Kerala,Kannur,20,Male,Working,5,3,High
+Kerala,Kochi,16,Female,School,1,2,Medium
+Kerala,Kochi,17,Female,Working,4,4,High
+Kerala,Thrissur,21,Male,School,6,1,High
+Kerala,Thiruvananthapuram,23,Male,Graduate,3,2,Medium
+Kerala,Kannur,32,Male,Working,3,1,Medium
+Kerala,Thrissur,38,Female,Working,5,5,High
+Kerala,Kozhikode,29,Male,Working,3,2,Medium
+Kerala,Thrissur,38,Male,Graduate,2,3,Medium
+Kerala,Kochi,40,Female,Graduate,4,3,High
+Kerala,Thiruvananthapuram,22,Male,School,2,4,High
+Kerala,Kochi,25,Female,Graduate,4,1,Medium
+Kerala,Thrissur,15,Male,School,8,3,High
+Kerala,Thiruvananthapuram,31,Male,Working,2,2,Medium
+Kerala,Thiruvananthapuram,37,Male,Graduate,3,1,Medium
+Kerala,Kochi,32,Male,Working,6,3,High
+Kerala,Thiruvananthapuram,37,Male,Working,2,1,Low
+Kerala,Thiruvananthapuram,19,Female,Working,2,4,High
+Kerala,Kochi,23,Female,Working,5,1,Medium
+Kerala,Thiruvananthapuram,31,Male,Working,2,4,High
+Kerala,Thrissur,22,Male,Working,3,4,High
+Kerala,Kozhikode,29,Female,Working,3,2,Medium
+Kerala,Kozhikode,20,Male,Graduate,8,2,High
+Kerala,Thiruvananthapuram,20,Female,School,2,3,High
+Kerala,Kannur,30,Male,Working,5,3,High
+Kerala,Kochi,35,Male,Graduate,1,4,High
+Kerala,Thrissur,23,Female,Graduate,1,4,High
+Kerala,Kozhikode,21,Male,Graduate,1,2,Medium
+Kerala,Thiruvananthapuram,30,Male,School,2,4,High
+Kerala,Kozhikode,16,Male,Graduate,1,2,Medium
+Kerala,Thiruvananthapuram,30,Male,Working,6,1,High
+Kerala,Kozhikode,22,Male,Working,8,1,High
+Kerala,Kannur,20,Male,Graduate,7,2,High
+Kerala,Thrissur,18,Male,Graduate,6,3,High
+Kerala,Thrissur,18,Female,Graduate,4,2,Medium
+Kerala,Kozhikode,30,Female,Graduate,1,2,Medium
+Kerala,Kannur,26,Female,Working,4,3,High
+Kerala,Kozhikode,25,Male,Working,3,5,High
+Kerala,Kannur,34,Female,Graduate,7,4,High
+Kerala,Kochi,18,Female,Working,1,3,Medium
+Kerala,Kozhikode,23,Male,Graduate,7,1,High
+Kerala,Kochi,31,Female,Graduate,5,1,Medium
+Kerala,Thrissur,29,Male,Graduate,8,3,High
+Kerala,Kochi,22,Male,School,5,1,Medium
+Kerala,Kozhikode,19,Male,Working,5,2,Medium
+Kerala,Kannur,16,Female,Graduate,6,1,High
+Madhya Pradesh,Indore,38,Female,Working,3,1,Medium
+Madhya Pradesh,Jabalpur,30,Female,School,4,4,High
+Madhya Pradesh,Bhopal,20,Male,Working,2,4,High
+Madhya Pradesh,Gwalior,26,Male,Working,3,1,Medium
+Madhya Pradesh,Gwalior,17,Male,School,7,2,High
+Madhya Pradesh,Indore,36,Female,School,7,5,High
+Madhya Pradesh,Bhopal,26,Female,Graduate,2,3,High
+Madhya Pradesh,Bhopal,39,Female,Graduate,6,4,High
+Madhya Pradesh,Gwalior,23,Female,Graduate,3,1,Medium
+Madhya Pradesh,Jabalpur,15,Male,Working,5,3,Medium
+Madhya Pradesh,Bhopal,40,Male,Graduate,6,3,High
+Madhya Pradesh,Gwalior,26,Male,Working,5,2,Medium
+Madhya Pradesh,Ujjain,38,Male,School,6,3,High
+Madhya Pradesh,Ujjain,20,Male,School,4,2,Medium
+Madhya Pradesh,Ujjain,26,Female,Working,6,4,High
+Madhya Pradesh,Indore,33,Male,School,5,1,Medium
+Madhya Pradesh,Indore,21,Female,Working,6,1,High
+Madhya Pradesh,Gwalior,18,Female,School,2,3,Medium
+Madhya Pradesh,Jabalpur,23,Female,Working,3,3,High
+Madhya Pradesh,Indore,18,Female,Working,6,2,High
+Madhya Pradesh,Bhopal,35,Male,School,5,2,Medium
+Madhya Pradesh,Gwalior,22,Female,School,7,2,High
+Madhya Pradesh,Ujjain,16,Male,School,1,1,Low
+Madhya Pradesh,Gwalior,26,Male,Working,8,1,High
+Madhya Pradesh,Bhopal,26,Male,Working,6,2,High
+Madhya Pradesh,Gwalior,22,Female,Graduate,7,4,High
+Madhya Pradesh,Jabalpur,34,Male,School,6,1,High
+Madhya Pradesh,Bhopal,35,Male,Working,6,3,High
+Madhya Pradesh,Jabalpur,40,Female,Working,5,3,Medium
+Madhya Pradesh,Indore,36,Male,Working,6,3,High
+Madhya Pradesh,Indore,37,Female,Graduate,7,3,High
+Madhya Pradesh,Ujjain,33,Male,School,8,2,High
+Madhya Pradesh,Jabalpur,15,Male,School,7,4,High
+Madhya Pradesh,Gwalior,23,Male,Working,5,3,High
+Madhya Pradesh,Bhopal,28,Female,School,6,1,High
+Madhya Pradesh,Indore,32,Female,School,8,4,High
+Madhya Pradesh,Jabalpur,21,Female,Working,8,1,High
+Madhya Pradesh,Indore,20,Male,School,5,2,Medium
+Madhya Pradesh,Jabalpur,33,Female,Working,1,1,Low
+Madhya Pradesh,Indore,38,Female,Working,7,3,High
+Madhya Pradesh,Indore,31,Female,Graduate,6,2,High
+Madhya Pradesh,Bhopal,36,Male,Graduate,8,4,High
+Madhya Pradesh,Indore,36,Male,Graduate,5,3,High
+Madhya Pradesh,Jabalpur,18,Female,Graduate,3,1,Medium
+Madhya Pradesh,Gwalior,33,Male,School,6,1,High
+Madhya Pradesh,Gwalior,25,Male,Graduate,5,4,High
+Madhya Pradesh,Indore,22,Female,School,3,4,High
+Madhya Pradesh,Gwalior,18,Female,School,7,2,High
+Madhya Pradesh,Indore,28,Female,School,3,5,High
+Madhya Pradesh,Indore,35,Female,School,1,3,High
+Maharashtra,Pune,21,Male,Graduate,4,2,Medium
+Maharashtra,Nagpur,15,Female,Working,2,4,High
+Maharashtra,Nashik,21,Female,Graduate,1,2,Medium
+Maharashtra,Nagpur,39,Male,Working,7,2,High
+Maharashtra,Mumbai,21,Male,Working,8,3,High
+Maharashtra,Pune,32,Male,School,3,2,Medium
+Maharashtra,Nagpur,27,Male,Working,3,3,Medium
+Maharashtra,Nagpur,32,Female,Graduate,1,1,Low
+Maharashtra,Nashik,22,Male,Graduate,1,3,Medium
+Maharashtra,Nagpur,37,Female,Graduate,1,1,Low
+Maharashtra,Pune,35,Male,School,5,4,High
+Maharashtra,Nashik,16,Male,Working,8,2,High
+Maharashtra,Nashik,15,Male,Working,2,1,Low
+Maharashtra,Mumbai,33,Female,Working,7,1,High
+Maharashtra,Pune,25,Male,School,2,1,Low
+Maharashtra,Nashik,37,Female,School,8,4,High
+Maharashtra,Pune,31,Female,School,2,1,Low
+Maharashtra,Pune,21,Female,Graduate,5,1,Medium
+Maharashtra,Mumbai,31,Male,Working,4,4,High
+Maharashtra,Pune,20,Male,Graduate,4,2,Medium
+Maharashtra,Nashik,37,Female,School,2,4,High
+Maharashtra,Mumbai,28,Female,Graduate,2,3,High
+Maharashtra,Aurangabad,25,Male,Graduate,5,2,Medium
+Maharashtra,Nashik,25,Female,Graduate,7,3,High
+Maharashtra,Nashik,33,Male,School,1,4,High
+Maharashtra,Aurangabad,24,Male,Graduate,8,3,High
+Maharashtra,Aurangabad,27,Female,Graduate,8,4,High
+Maharashtra,Nagpur,17,Male,School,1,2,Medium
+Maharashtra,Nagpur,24,Male,School,2,2,Medium
+Maharashtra,Pune,23,Female,Working,8,2,High
+Maharashtra,Aurangabad,23,Male,Graduate,2,4,High
+Maharashtra,Nashik,31,Female,Working,3,1,Medium
+Maharashtra,Mumbai,34,Female,School,1,1,Low
+Maharashtra,Pune,30,Male,Working,4,4,High
+Maharashtra,Aurangabad,28,Female,School,1,3,High
+Maharashtra,Mumbai,20,Male,School,1,2,Medium
+Maharashtra,Pune,24,Female,Graduate,2,4,High
+Maharashtra,Nashik,33,Female,Working,3,5,High
+Maharashtra,Mumbai,36,Male,School,6,1,High
+Maharashtra,Aurangabad,19,Female,Working,2,1,Low
+Maharashtra,Pune,24,Male,Graduate,8,2,High
+Maharashtra,Pune,39,Female,Working,7,1,High
+Maharashtra,Mumbai,37,Male,School,8,3,High
+Maharashtra,Aurangabad,35,Female,Working,8,1,High
+Maharashtra,Pune,35,Female,School,8,4,High
+Maharashtra,Pune,23,Male,Working,5,2,Medium
+Maharashtra,Pune,35,Female,Graduate,6,1,High
+Maharashtra,Pune,24,Female,Graduate,2,3,High
+Maharashtra,Mumbai,22,Female,Working,6,5,High
+Maharashtra,Nashik,28,Male,School,2,2,Medium
+Odisha,Bhubaneswar,40,Male,Graduate,7,3,High
+Odisha,Bhubaneswar,38,Female,Graduate,8,3,High
+Odisha,Cuttack,30,Female,Working,8,4,High
+Odisha,Cuttack,16,Female,School,3,2,Medium
+Odisha,Rourkela,31,Female,School,1,3,High
+Odisha,Bhubaneswar,17,Female,Graduate,8,1,High
+Odisha,Bhubaneswar,36,Male,Graduate,3,1,Medium
+Odisha,Sambalpur,31,Male,School,8,1,High
+Odisha,Bhubaneswar,34,Male,Graduate,7,3,High
+Odisha,Cuttack,36,Male,School,2,2,Medium
+Odisha,Berhampur,40,Male,School,4,2,Medium
+Odisha,Rourkela,32,Female,Graduate,6,4,High
+Odisha,Sambalpur,32,Female,School,1,1,Low
+Odisha,Rourkela,26,Female,Graduate,5,3,High
+Odisha,Rourkela,30,Female,School,5,3,High
+Odisha,Berhampur,38,Male,Graduate,4,4,High
+Odisha,Berhampur,28,Female,Graduate,4,2,Medium
+Odisha,Sambalpur,33,Female,School,3,1,Medium
+Odisha,Bhubaneswar,32,Male,School,6,2,High
+Odisha,Berhampur,35,Male,School,5,1,Medium
+Odisha,Cuttack,18,Female,Graduate,8,1,High
+Odisha,Bhubaneswar,25,Male,Graduate,2,1,Low
+Odisha,Bhubaneswar,39,Male,Graduate,4,2,Medium
+Odisha,Berhampur,27,Female,School,4,3,High
+Odisha,Rourkela,23,Male,School,8,4,High
+Odisha,Bhubaneswar,26,Male,School,1,4,High
+Odisha,Berhampur,29,Male,Graduate,8,3,High
+Odisha,Bhubaneswar,18,Male,Working,5,4,High
+Odisha,Berhampur,19,Female,School,8,2,High
+Odisha,Sambalpur,18,Female,Working,6,4,High
+Odisha,Rourkela,38,Female,Graduate,5,3,High
+Odisha,Bhubaneswar,29,Male,School,5,2,Medium
+Odisha,Cuttack,25,Female,Working,7,3,High
+Odisha,Bhubaneswar,15,Female,Graduate,1,1,Low
+Odisha,Cuttack,32,Female,Graduate,7,4,High
+Odisha,Bhubaneswar,36,Male,Working,3,4,High
+Odisha,Bhubaneswar,25,Male,School,8,4,High
+Odisha,Berhampur,40,Male,Working,8,4,High
+Odisha,Cuttack,27,Female,School,1,3,Medium
+Odisha,Rourkela,22,Male,Graduate,1,2,Medium
+Odisha,Sambalpur,16,Male,Graduate,4,2,Medium
+Odisha,Berhampur,18,Male,School,6,2,High
+Odisha,Sambalpur,16,Male,School,2,2,Medium
+Odisha,Rourkela,19,Male,School,2,1,Low
+Odisha,Bhubaneswar,31,Male,Working,8,2,High
+Odisha,Cuttack,38,Male,Graduate,8,3,High
+Odisha,Berhampur,23,Female,School,1,4,High
+Odisha,Sambalpur,18,Female,Working,1,3,Medium
+Odisha,Bhubaneswar,15,Female,Working,3,4,High
+Odisha,Sambalpur,24,Male,Working,2,2,Medium
+Punjab,Amritsar,40,Female,Working,8,3,High
+Punjab,Jalandhar,39,Male,Graduate,2,3,High
+Punjab,Amritsar,19,Female,Graduate,8,2,High
+Punjab,Jalandhar,26,Male,Working,5,4,High
+Punjab,Amritsar,27,Female,Working,3,1,Medium
+Punjab,Bathinda,35,Male,School,6,2,High
+Punjab,Amritsar,16,Female,Graduate,5,1,Medium
+Punjab,Jalandhar,28,Male,School,7,1,High
+Punjab,Bathinda,27,Male,Working,2,2,Medium
+Punjab,Patiala,37,Female,School,1,2,Medium
+Punjab,Amritsar,19,Female,Working,3,1,Medium
+Punjab,Bathinda,21,Male,School,3,4,High
+Punjab,Ludhiana,29,Female,School,4,1,Medium
+Punjab,Amritsar,27,Male,School,2,1,Low
+Punjab,Patiala,25,Male,Working,6,2,High
+Punjab,Amritsar,37,Male,Graduate,3,5,High
+Punjab,Amritsar,17,Female,School,5,3,High
+Punjab,Jalandhar,27,Female,Graduate,6,2,High
+Punjab,Ludhiana,33,Female,School,4,4,High
+Punjab,Patiala,35,Female,School,8,3,High
+Punjab,Jalandhar,25,Male,School,2,1,Low
+Punjab,Jalandhar,34,Female,Graduate,3,1,Medium
+Punjab,Ludhiana,37,Female,Graduate,7,1,High
+Punjab,Ludhiana,38,Female,School,7,4,High
+Punjab,Ludhiana,31,Male,School,4,1,Medium
+Punjab,Ludhiana,31,Female,School,5,1,Medium
+Punjab,Ludhiana,19,Male,Graduate,6,4,High
+Punjab,Ludhiana,21,Male,School,6,1,High
+Punjab,Patiala,15,Male,School,1,1,Low
+Punjab,Bathinda,22,Male,School,1,2,Medium
+Punjab,Jalandhar,23,Female,Graduate,1,4,High
+Punjab,Patiala,24,Male,School,7,4,High
+Punjab,Patiala,27,Female,Graduate,5,3,High
+Punjab,Jalandhar,36,Male,Graduate,3,4,High
+Punjab,Ludhiana,31,Female,Graduate,6,3,High
+Punjab,Bathinda,33,Male,Working,3,4,High
+Punjab,Patiala,36,Male,Graduate,7,2,High
+Punjab,Jalandhar,18,Female,Working,8,4,High
+Punjab,Ludhiana,37,Female,School,5,3,High
+Punjab,Bathinda,17,Female,Graduate,6,2,High
+Punjab,Bathinda,17,Male,Working,8,4,High
+Punjab,Patiala,24,Female,Graduate,8,2,High
+Punjab,Jalandhar,27,Female,School,4,1,Medium
+Punjab,Amritsar,23,Female,School,3,4,High
+Punjab,Bathinda,17,Male,Graduate,2,2,Medium
+Punjab,Ludhiana,36,Male,Graduate,3,1,Medium
+Punjab,Patiala,16,Female,School,4,5,High
+Punjab,Amritsar,31,Female,School,5,1,Medium
+Punjab,Amritsar,38,Female,School,7,3,High
+Punjab,Bathinda,29,Female,School,8,2,High
+Rajasthan,Kota,26,Male,Working,5,1,Medium
+Rajasthan,Kota,17,Male,Graduate,1,4,High
+Rajasthan,Ajmer,34,Male,Graduate,5,4,High
+Rajasthan,Jodhpur,18,Female,Graduate,2,3,High
+Rajasthan,Udaipur,26,Male,Working,1,2,Medium
+Rajasthan,Jodhpur,31,Female,Working,6,2,High
+Rajasthan,Jodhpur,40,Male,Graduate,6,2,High
+Rajasthan,Ajmer,31,Male,School,7,3,High
+Rajasthan,Jodhpur,32,Male,School,5,3,Medium
+Rajasthan,Jodhpur,35,Female,School,8,4,High
+Rajasthan,Ajmer,40,Female,Graduate,2,4,High
+Rajasthan,Jodhpur,22,Female,Graduate,4,3,High
+Rajasthan,Ajmer,33,Male,Working,4,3,High
+Rajasthan,Udaipur,33,Male,Working,5,4,High
+Rajasthan,Kota,24,Female,Working,2,2,Medium
+Rajasthan,Ajmer,32,Male,Graduate,3,4,High
+Rajasthan,Jaipur,30,Female,Working,3,3,Medium
+Rajasthan,Kota,30,Female,School,1,5,High
+Rajasthan,Jaipur,29,Male,Graduate,2,4,High
+Rajasthan,Udaipur,32,Male,School,6,3,High
+Rajasthan,Jaipur,15,Female,Graduate,6,2,High
+Rajasthan,Jaipur,39,Female,School,3,2,Medium
+Rajasthan,Kota,40,Female,Working,6,3,High
+Rajasthan,Jodhpur,32,Male,Working,2,2,Medium
+Rajasthan,Jodhpur,26,Female,Working,1,2,Medium
+Rajasthan,Jaipur,35,Male,Working,2,3,Medium
+Rajasthan,Jodhpur,29,Female,Working,8,1,High
+Rajasthan,Jaipur,36,Male,Working,1,2,Medium
+Rajasthan,Jaipur,39,Female,School,6,1,High
+Rajasthan,Kota,27,Male,School,5,4,High
+Rajasthan,Jaipur,29,Female,School,7,2,High
+Rajasthan,Jodhpur,34,Female,School,3,3,Medium
+Rajasthan,Kota,26,Male,Working,4,4,High
+Rajasthan,Ajmer,24,Male,Working,8,1,High
+Rajasthan,Udaipur,38,Female,Graduate,8,3,High
+Rajasthan,Jodhpur,27,Female,School,7,3,High
+Rajasthan,Jaipur,40,Male,Working,4,3,Medium
+Rajasthan,Udaipur,29,Female,Working,3,4,High
+Rajasthan,Kota,27,Male,Graduate,7,2,High
+Rajasthan,Udaipur,15,Female,Working,3,2,Medium
+Rajasthan,Kota,34,Male,Graduate,7,1,High
+Rajasthan,Kota,38,Male,School,5,3,Medium
+Rajasthan,Kota,33,Male,Working,3,3,High
+Rajasthan,Kota,23,Male,Working,2,4,High
+Rajasthan,Udaipur,34,Female,Working,2,4,High
+Rajasthan,Jodhpur,20,Female,Graduate,3,2,Medium
+Rajasthan,Ajmer,17,Female,Graduate,2,1,Low
+Rajasthan,Jodhpur,18,Male,Graduate,1,2,Medium
+Rajasthan,Kota,18,Female,School,4,4,High
+Rajasthan,Jaipur,37,Female,School,4,4,High
+Tamil Nadu,Coimbatore,40,Female,Working,1,1,Low
+Tamil Nadu,Madurai,28,Male,Working,5,3,Medium
+Tamil Nadu,Salem,21,Female,School,2,4,High
+Tamil Nadu,Salem,35,Female,Working,5,4,High
+Tamil Nadu,Salem,37,Female,Graduate,4,3,Medium
+Tamil Nadu,Madurai,18,Male,Working,4,1,Medium
+Tamil Nadu,Coimbatore,31,Female,Graduate,6,3,High
+Tamil Nadu,Madurai,31,Male,School,1,4,High
+Tamil Nadu,Madurai,15,Male,Graduate,8,4,High
+Tamil Nadu,Madurai,34,Female,Graduate,6,1,High
+Tamil Nadu,Coimbatore,39,Female,School,5,1,Medium
+Tamil Nadu,Salem,31,Male,Working,5,2,Medium
+Tamil Nadu,Tiruchirappalli,20,Male,Graduate,2,2,Medium
+Tamil Nadu,Coimbatore,31,Female,Working,1,5,High
+Tamil Nadu,Coimbatore,40,Female,Graduate,3,4,High
+Tamil Nadu,Coimbatore,15,Female,School,1,1,Low
+Tamil Nadu,Coimbatore,22,Male,School,5,3,High
+Tamil Nadu,Chennai,27,Female,Graduate,3,4,High
+Tamil Nadu,Chennai,17,Female,School,2,2,Medium
+Tamil Nadu,Tiruchirappalli,28,Male,School,2,4,High
+Tamil Nadu,Coimbatore,36,Male,Graduate,7,1,High
+Tamil Nadu,Madurai,32,Male,Working,2,3,Medium
+Tamil Nadu,Salem,24,Male,Working,4,2,Medium
+Tamil Nadu,Madurai,39,Female,Graduate,5,3,High
+Tamil Nadu,Coimbatore,25,Male,Graduate,5,2,Medium
+Tamil Nadu,Chennai,40,Male,Graduate,5,1,Medium
+Tamil Nadu,Chennai,23,Male,School,8,3,High
+Tamil Nadu,Salem,17,Male,School,4,2,Medium
+Tamil Nadu,Chennai,34,Female,School,8,1,High
+Tamil Nadu,Tiruchirappalli,30,Male,Graduate,4,1,Medium
+Tamil Nadu,Chennai,25,Male,Graduate,4,3,Medium
+Tamil Nadu,Tiruchirappalli,25,Female,School,8,4,High
+Tamil Nadu,Salem,34,Female,School,3,2,Medium
+Tamil Nadu,Tiruchirappalli,39,Male,School,2,2,Medium
+Tamil Nadu,Madurai,38,Male,School,4,4,High
+Tamil Nadu,Coimbatore,30,Female,School,4,5,High
+Tamil Nadu,Tiruchirappalli,21,Female,School,5,3,High
+Tamil Nadu,Tiruchirappalli,17,Female,Working,1,4,High
+Tamil Nadu,Salem,34,Male,Graduate,2,4,High
+Tamil Nadu,Coimbatore,31,Male,School,1,4,High
+Tamil Nadu,Madurai,30,Male,Working,3,1,Medium
+Tamil Nadu,Chennai,38,Female,Graduate,3,1,Medium
+Tamil Nadu,Coimbatore,29,Female,Working,1,3,High
+Tamil Nadu,Salem,21,Female,Graduate,8,2,High
+Tamil Nadu,Salem,18,Male,School,8,1,High
+Tamil Nadu,Coimbatore,22,Female,Graduate,3,4,High
+Tamil Nadu,Coimbatore,20,Female,School,3,2,Medium
+Tamil Nadu,Tiruchirappalli,32,Female,Graduate,1,4,High
+Tamil Nadu,Chennai,29,Female,Working,6,1,High
+Tamil Nadu,Chennai,40,Male,Working,5,1,Medium
+Telangana,Khammam,18,Male,Working,7,4,High
+Telangana,Karimnagar,26,Male,Working,1,1,Low
+Telangana,Khammam,20,Female,Working,5,3,High
+Telangana,Hyderabad,26,Female,Graduate,5,3,High
+Telangana,Karimnagar,33,Male,School,1,1,Low
+Telangana,Warangal,24,Male,Working,3,4,High
+Telangana,Hyderabad,19,Male,Graduate,6,2,High
+Telangana,Khammam,36,Female,Working,3,4,High
+Telangana,Warangal,30,Female,Working,3,4,High
+Telangana,Warangal,15,Male,School,6,3,High
+Telangana,Khammam,18,Male,Working,5,4,High
+Telangana,Warangal,17,Female,Graduate,6,3,High
+Telangana,Warangal,34,Female,Graduate,3,3,High
+Telangana,Hyderabad,15,Male,Graduate,1,3,Medium
+Telangana,Khammam,35,Male,Graduate,5,4,High
+Telangana,Khammam,38,Male,Graduate,8,4,High
+Telangana,Nizamabad,40,Female,School,2,2,Medium
+Telangana,Hyderabad,34,Male,Working,8,1,High
+Telangana,Khammam,34,Male,School,5,4,High
+Telangana,Nizamabad,33,Male,Graduate,7,2,High
+Telangana,Hyderabad,36,Male,School,7,2,High
+Telangana,Hyderabad,27,Female,School,2,2,Medium
+Telangana,Khammam,18,Male,Working,5,3,Medium
+Telangana,Karimnagar,15,Female,School,6,3,High
+Telangana,Warangal,40,Male,Graduate,8,4,High
+Telangana,Nizamabad,21,Male,Working,4,4,High
+Telangana,Karimnagar,24,Male,Working,3,4,High
+Telangana,Nizamabad,40,Female,Working,4,1,Medium
+Telangana,Karimnagar,20,Male,Graduate,1,4,High
+Telangana,Warangal,32,Male,Working,8,3,High
+Telangana,Warangal,38,Female,Graduate,5,5,High
+Telangana,Karimnagar,40,Female,Working,7,3,High
+Telangana,Warangal,39,Female,Graduate,6,4,High
+Telangana,Karimnagar,21,Female,Graduate,7,2,High
+Telangana,Hyderabad,15,Female,Working,6,3,High
+Telangana,Khammam,21,Male,Graduate,1,4,High
+Telangana,Karimnagar,17,Male,School,3,4,High
+Telangana,Hyderabad,23,Female,Working,1,3,High
+Telangana,Karimnagar,20,Male,Graduate,7,2,High
+Telangana,Karimnagar,18,Male,School,6,1,High
+Telangana,Warangal,21,Male,Working,5,1,Medium
+Telangana,Warangal,38,Male,School,1,1,Low
+Telangana,Warangal,33,Male,School,8,1,High
+Telangana,Nizamabad,36,Male,School,4,3,High
+Telangana,Karimnagar,23,Male,Working,2,1,Low
+Telangana,Karimnagar,18,Male,School,6,1,High
+Telangana,Karimnagar,26,Male,Working,6,1,High
+Telangana,Warangal,16,Female,School,2,2,Medium
+Telangana,Karimnagar,22,Female,Graduate,2,3,High
+Telangana,Karimnagar,17,Male,School,2,4,High
+Uttar Pradesh,Kanpur,40,Female,Working,1,3,Medium
+Uttar Pradesh,Kanpur,39,Male,Graduate,5,3,High
+Uttar Pradesh,Kanpur,33,Male,Graduate,2,3,Medium
+Uttar Pradesh,Agra,17,Male,Working,5,3,High
+Uttar Pradesh,Varanasi,27,Female,School,5,3,High
+Uttar Pradesh,Lucknow,32,Female,School,5,4,High
+Uttar Pradesh,Lucknow,15,Female,School,5,2,Medium
+Uttar Pradesh,Kanpur,27,Male,School,3,1,Medium
+Uttar Pradesh,Agra,40,Male,Working,8,3,High
+Uttar Pradesh,Meerut,28,Female,School,7,1,High
+Uttar Pradesh,Meerut,23,Female,Working,4,4,High
+Uttar Pradesh,Varanasi,28,Female,School,7,1,High
+Uttar Pradesh,Meerut,21,Female,Working,4,4,High
+Uttar Pradesh,Varanasi,28,Female,School,5,4,High
+Uttar Pradesh,Meerut,25,Male,School,2,1,Low
+Uttar Pradesh,Meerut,26,Female,Working,4,2,Medium
+Uttar Pradesh,Lucknow,29,Female,Graduate,7,3,High
+Uttar Pradesh,Kanpur,33,Male,Working,5,2,Medium
+Uttar Pradesh,Meerut,30,Male,Graduate,6,2,High
+Uttar Pradesh,Varanasi,34,Male,Graduate,6,4,High
+Uttar Pradesh,Varanasi,25,Female,Working,3,2,Medium
+Uttar Pradesh,Kanpur,16,Male,School,6,1,High
+Uttar Pradesh,Meerut,27,Male,Graduate,3,2,Medium
+Uttar Pradesh,Meerut,26,Female,School,3,2,Medium
+Uttar Pradesh,Varanasi,35,Male,Working,4,4,High
+Uttar Pradesh,Lucknow,34,Female,Working,5,1,Medium
+Uttar Pradesh,Agra,20,Female,Graduate,2,1,Low
+Uttar Pradesh,Meerut,32,Female,School,8,3,High
+Uttar Pradesh,Lucknow,22,Male,School,8,3,High
+Uttar Pradesh,Meerut,16,Female,Graduate,1,2,Medium
+Uttar Pradesh,Varanasi,19,Female,Graduate,6,3,High
+Uttar Pradesh,Varanasi,34,Male,School,4,4,High
+Uttar Pradesh,Varanasi,39,Female,School,6,2,High
+Uttar Pradesh,Varanasi,21,Female,School,1,4,High
+Uttar Pradesh,Lucknow,15,Male,School,8,4,High
+Uttar Pradesh,Varanasi,33,Male,Graduate,3,1,Medium
+Uttar Pradesh,Kanpur,18,Male,School,8,2,High
+Uttar Pradesh,Kanpur,31,Male,School,4,4,High
+Uttar Pradesh,Meerut,29,Female,Graduate,1,1,Low
+Uttar Pradesh,Varanasi,39,Female,Working,6,2,High
+Uttar Pradesh,Kanpur,37,Male,Graduate,5,2,Medium
+Uttar Pradesh,Agra,31,Male,School,4,2,Medium
+Uttar Pradesh,Meerut,21,Female,Working,3,4,High
+Uttar Pradesh,Varanasi,28,Male,School,5,1,Medium
+Uttar Pradesh,Meerut,32,Male,School,8,2,High
+Uttar Pradesh,Lucknow,40,Female,Graduate,7,3,High
+Uttar Pradesh,Varanasi,30,Female,School,3,1,Medium
+Uttar Pradesh,Kanpur,39,Female,Working,1,4,High
+Uttar Pradesh,Agra,28,Male,Graduate,5,4,High
+Uttar Pradesh,Lucknow,39,Male,Graduate,3,5,High
+West Bengal,Siliguri,21,Female,Graduate,7,2,High
+West Bengal,Durgapur,40,Male,Working,7,2,High
+West Bengal,Siliguri,25,Male,School,4,2,Medium
+West Bengal,Siliguri,35,Female,Graduate,6,3,High
+West Bengal,Siliguri,18,Female,School,7,3,High
+West Bengal,Asansol,37,Female,School,6,2,High
+West Bengal,Howrah,20,Male,Graduate,3,2,Medium
+West Bengal,Howrah,38,Male,Working,6,4,High
+West Bengal,Kolkata,29,Male,Graduate,7,3,High
+West Bengal,Kolkata,33,Male,Graduate,5,4,High
+West Bengal,Kolkata,18,Male,Working,6,2,High
+West Bengal,Kolkata,15,Female,Working,7,3,High
+West Bengal,Durgapur,37,Female,Graduate,8,2,High
+West Bengal,Durgapur,21,Male,Working,8,4,High
+West Bengal,Kolkata,29,Female,Working,6,2,High
+West Bengal,Howrah,27,Male,Graduate,5,2,Medium
+West Bengal,Asansol,28,Female,School,7,2,High
+West Bengal,Asansol,25,Male,Working,2,3,High
+West Bengal,Durgapur,34,Female,Graduate,1,2,Medium
+West Bengal,Siliguri,22,Male,Working,7,4,High
+West Bengal,Kolkata,29,Male,Working,8,1,High
+West Bengal,Durgapur,15,Female,School,6,1,High
+West Bengal,Durgapur,27,Female,Working,4,3,Medium
+West Bengal,Howrah,32,Male,School,7,5,High
+West Bengal,Asansol,17,Female,Graduate,4,3,High
+West Bengal,Asansol,17,Female,School,7,2,High
+West Bengal,Durgapur,24,Female,Working,3,2,Medium
+West Bengal,Kolkata,20,Male,Graduate,6,2,High
+West Bengal,Siliguri,22,Male,School,1,3,Medium
+West Bengal,Kolkata,25,Male,Graduate,3,3,High
+West Bengal,Kolkata,22,Female,Graduate,3,2,Medium
+West Bengal,Asansol,34,Female,School,2,1,Low
+West Bengal,Siliguri,27,Female,School,1,2,Medium
+West Bengal,Asansol,25,Female,School,4,1,Medium
+West Bengal,Durgapur,15,Male,School,7,1,High
+West Bengal,Durgapur,30,Female,Working,4,1,Medium
+West Bengal,Howrah,23,Female,School,6,2,High
+West Bengal,Durgapur,35,Male,School,2,2,Medium
+West Bengal,Kolkata,31,Male,School,3,1,Medium
+West Bengal,Asansol,15,Male,Graduate,6,5,High
+West Bengal,Asansol,17,Male,Graduate,3,1,Medium
+West Bengal,Durgapur,24,Female,School,8,4,High
+West Bengal,Durgapur,25,Female,Working,6,3,High
+West Bengal,Kolkata,35,Male,Graduate,7,1,High
+West Bengal,Howrah,38,Male,School,4,2,Medium
+West Bengal,Kolkata,36,Female,Working,2,2,Medium
+West Bengal,Siliguri,30,Male,Graduate,4,1,Medium
+West Bengal,Kolkata,21,Female,School,3,1,Medium
+West Bengal,Siliguri,34,Female,Graduate,4,3,High
+West Bengal,Howrah,38,Male,School,5,4,High
