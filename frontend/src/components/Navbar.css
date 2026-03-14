@@ -5,7 +5,6 @@
   background: linear-gradient(90deg, rgba(20, 20, 40, 0.8), rgba(30, 30, 70, 0.6));
   padding: 15px 0px;
   color: white;
-  position: sticky;
   top: 0;
   z-index: 1000;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
