@@ -209,7 +209,7 @@ const Questionnaire = () => {
             </button>
             <br></br>
             <button
-              onClick={() => (window.location.href = "/areavisual")}
+              onClick={() => (window.location.href = "/futureprediction")}
               style={{ marginLeft: "10px" }}
               className="btn-future"
             >
