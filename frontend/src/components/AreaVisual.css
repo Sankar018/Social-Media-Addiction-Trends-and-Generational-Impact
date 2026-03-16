@@ -137,27 +137,6 @@
   color: #e74c3c;
 }
 
-.area-back {
-  margin-top: 25px;
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-}
-
-.area-back button {
-  background-color: #c2e2fa;
-  color: #333;
-  padding: 10px 22px;
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  font-size: 1rem;
-  transition: background-color 0.3s ease;
-}
-
-.area-back button:hover {
-  background-color: #b7a3e3;
-}
 
 .prompt-message {
   text-align: center;

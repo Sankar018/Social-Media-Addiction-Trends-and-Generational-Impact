@@ -29,29 +29,34 @@ const teamMembers = [
     { id: 2, name: 'Mili Parua', role: 'BWU/BTA/22/131', avatar: '/mili.jpg' },
     { id: 3, name: 'Sayantan Ghosh', role: 'BWU/BTA/22/121', avatar: '/sanu.jpeg' },
 ];
+
 // -------------------
 
 // --- Services Component ---
 const ServicesSection = () => {
     return (
-        <section className="services-section">
+        <section id="services-section" className="services-section">
+
             <div className="services-header">
                 <h2 className="section-title">Our Core Services</h2>
-                <p className="section-subtitle">A powerful, ML-driven solution for digital well-being.</p>
-                
+                <p className="section-subtitle">
+                    A powerful, ML-driven solution for digital well-being.
+                </p>
             </div>
             
             <div className="services-grid">
                 {servicesData.map((service, index) => (
-                    // service-card uses a CSS class 'fade-in' for animation
                     <div className={`service-card fade-in delay-${index + 1}`} key={service.title}>
                         <div className="service-icon">{service.icon}</div>
                         <h3>{service.title}</h3>
                         <p>{service.description}</p>
-                        <Link to={service.link} className="service-link">Learn More &rarr;</Link>
+                        <Link to={service.link} className="service-link">
+                            Learn More →
+                        </Link>
                     </div>
                 ))}
             </div>
+
         </section>
     );
 };
@@ -59,10 +64,13 @@ const ServicesSection = () => {
 // --- Members Component ---
 const MembersSection = () => {
     return (
-        <section className="members-section">
+        <section id="members-section" className="members-section">
+
             <div className="members-header">
                 <h2 className="section-title">Meet Our Team</h2>
-                <p className="section-subtitle">The dedicated minds behind Social Media Madness.</p>
+                <p className="section-subtitle">
+                    The dedicated minds behind Social Media Madness.
+                </p>
             </div>
 
             <div className="members-grid">
@@ -77,76 +85,135 @@ const MembersSection = () => {
 
                         <h4>{member.name}</h4>
                         <p className="member-role">{member.role}</p>
+
                     </div>
                 ))}
             </div>
+
         </section>
     );
 };
 
 
-
-// --- Header Component (Kept as is) ---
+// --- Header Component ---
 const Header = () => {
+
+    const scrollToSection = (id) => {
+
+        const section = document.getElementById(id);
+
+        if(section){
+            section.scrollIntoView({
+                behavior: "smooth"
+            });
+        }
+
+    };
+
     const navLinks = [
-        { name: 'About', path: '/about' },
-        { name: 'Services', path: '/services' },
-        { name: 'Contact', path: '/contact' },
-        { name: 'Community', path: '/community' },
+        { name: 'About', target: 'hero-section' },
+        { name: 'Services', target: 'services-section' },
+        { name: 'Contact', target: 'members-section' },
     ];
 
     return (
+
         <header className="header">
-            <div className="logo"><Link to="/">.SMS</Link></div>
+
+            <div className="logo">
+                <Link to="/">.SMS</Link>
+            </div>
+
             <nav className="nav">
+
                 <ul className="nav-list">
+
                     {navLinks.map((link) => (
+
                         <li key={link.name} className="nav-item">
-                            <Link to={link.path} className="nav-link">{link.name}</Link>
+
+                            <span
+                                className="nav-link"
+                                onClick={() => scrollToSection(link.target)}
+                                style={{cursor:"pointer"}}
+                            >
+                                {link.name}
+                            </span>
+
                         </li>
+
                     ))}
+
                 </ul>
-                <a href='/questionnaire'><button className="sign-up-button">Get started</button></a>
+
+                <a href='/questionnaire'>
+                    <button className="sign-up-button">
+                        Get started
+                    </button>
+                </a>
+
             </nav>
+
         </header>
+
     );
 };
 
+
 // --- Main Landing Page Component ---
 const LandingPage = () => {
+
     return (
+
         <div className='landing-page-container'>
+
             <Header/>
-            {/* Hero Section (Existing) */}
-            <div className="hero-section">
+
+            {/* Hero Section */}
+            <div id="hero-section" className="hero-section">
+
                 <div className="top-right-bg-shape"></div>
+
                 <div className="content-wrapper">
+
                     <div className="hero-text">
+
                         <h1 className="hero-title">
                             Social Media <span className="dark-madness">Sickness</span>
                         </h1>
+
                         <p className="hero-subtitle">
-                            “Predicting Social Media Addiction Trends and Generational Impact”, focuses on designing a Machine Learning (ML)–based web application that predicts a user’s addiction level based on behavioural inputs such as screen time, app usage frequency, engagement patterns, and night-time usage. Additionally, the system forecasts future generational impact, showing how addiction may increase over time within specific regions.
+                            “Predicting Social Media Addiction Trends and Generational Impact” focuses on designing a Machine Learning (ML)–based web application that predicts a user’s addiction level based on behavioural inputs such as screen time, app usage frequency, engagement patterns, and night-time usage.
                         </p>
-                        <Link to="/questionnaire" className="cta-button">Get started!</Link>
+
+                        <Link to="/questionnaire" className="cta-button">
+                            Get started!
+                        </Link>
+
                     </div>
+
                     <div className="hero-graphic">
+
                         <img
                             src="/Social-Media-Addiction.jpg"
                             alt="Social media addiction illustration"
                             className="hero-image"
                         />
+
                     </div>
+
                 </div>
+
             </div>
 
-            {/* NEW SERVICES SECTION */}
+            {/* Services Section */}
             <ServicesSection />
 
-            {/* NEW MEMBERS SECTION */}
+            {/* Members Section */}
             <MembersSection />
 
         </div>
+
     );
 };
 

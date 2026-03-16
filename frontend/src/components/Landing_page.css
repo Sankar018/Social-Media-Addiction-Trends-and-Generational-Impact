@@ -6,6 +6,7 @@ body {
     font-family: 'Inter', sans-serif;
     overflow-x: hidden; 
     background-color: #f7f9fc; 
+    -webkit-font-smoothing: antialiased; /* Smoother text on Android/iOS */
 }
 
 .landing-page-container {
@@ -20,7 +21,7 @@ body {
 }
 
 
-/* --- Header Styles (Existing) --- */
+/* --- Header Styles --- */
 .header {
     display: flex;
     justify-content: space-between;
@@ -73,7 +74,7 @@ body {
 }
 
 
-/* --- Hero Section Layout & Content (Existing) --- */
+/* --- Hero Section Layout & Content --- */
 .hero-section {
     position: relative;
     display: flex;
@@ -153,7 +154,7 @@ body {
     display: block; 
 }
 
-/* --- COMPLEX BACKGROUND SHAPE (Existing) --- */
+/* --- COMPLEX BACKGROUND SHAPE --- */
 .top-right-bg-shape {
     position: absolute;
     top: 0;
@@ -172,7 +173,7 @@ body {
 
 .services-section {
     padding: 80px 50px;
-    background-color: #f7f9fc; /* Light background for separation */
+    background-color: #f7f9fc;
     text-align: center;
 }
 
@@ -204,6 +205,8 @@ body {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
     border: 1px solid #eee;
     transition: transform 0.3s, box-shadow 0.3s;
+    opacity: 0;
+    animation: fadeIn 0.8s ease-out forwards;
 }
 
 .service-card:hover {
@@ -259,11 +262,14 @@ body {
     background-color: #f7f9fc;
     border: 1px solid #e1e1e1;
     transition: all 0.3s;
+    opacity: 0;
+    animation: zoomIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
 }
 
 .member-card:hover {
     background-color: #e6f0ff;
 }
+
 .member-avatar {
     width: 110px;
     height: 110px;
@@ -301,48 +307,17 @@ body {
 }
 
 
-/* ###################################################### */
-/* --- ATTRACTIVE CSS ANIMATIONS --- */
-/* ###################################################### */
-
-/* --- Keyframes for a smooth fade-in and subtle lift --- */
+/* --- ANIMATIONS --- */
 @keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
 }
 
-/* --- Keyframes for a zoom-in/scale effect --- */
 @keyframes zoomIn {
-    from {
-        opacity: 0;
-        transform: scale(0.9);
-    }
-    to {
-        opacity: 1;
-        transform: scale(1);
-    }
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
 }
 
-/* --- Apply fade-in to Service Cards --- */
-.service-card {
-    opacity: 0; /* Hide initially */
-    animation: fadeIn 0.8s ease-out forwards;
-}
-
-/* --- Apply zoom-in to Member Cards --- */
-.member-card {
-    opacity: 0; /* Hide initially */
-    animation: zoomIn 0.8s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards; /* Bouncy effect */
-}
-
-
-/* --- Animation Delays for a Cascading Effect --- */
 .delay-1 { animation-delay: 0.1s; }
 .delay-2 { animation-delay: 0.25s; }
 .delay-3 { animation-delay: 0.4s; }
@@ -350,7 +325,11 @@ body {
 .delay-5 { animation-delay: 0.7s; }
 
 
-/* --- Responsiveness (Updated for new sections) --- */
+/* ###################################################### */
+/* --- RESPONSIVE OPTIMIZATIONS (ANDROID & MOBILE) --- */
+/* ###################################################### */
+
+/* Tablets and Mobile Phones */
 @media (max-width: 992px) {
     .header {
         padding: 15px 20px;
@@ -359,10 +338,12 @@ body {
     .content-wrapper {
         flex-direction: column; 
         text-align: center;
+        gap: 30px;
     }
     
     .hero-text {
         max-width: 100%;
+        order: 2; /* Text below image on mobile */
     }
 
     .hero-title {
@@ -370,24 +351,63 @@ body {
     }
 
     .hero-graphic {
-        order: -1; 
+        order: 1; /* Image on top */
         justify-content: center; 
-        margin-bottom: 30px;
         margin-left: 0;
+    }
+
+    .hero-image {
+        max-width: 80%;
     }
 
     .top-right-bg-shape {
         width: 100%;
-        height: 450px;
+        height: 400px;
         border-bottom-left-radius: 0; 
+        border-bottom-right-radius: 50% 20%;
     }
 
-    /* New Section Adjustments */
-    .services-section, .members-section {
+    .services-section, .members-section, .page-content {
         padding: 60px 20px;
     }
 
+    .services-grid {
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+
+    .members-grid {
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    }
+}
+
+/* Specific Android/Small Screen Fixes */
+@media (max-width: 600px) {
+    .header {
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .nav-list {
+        gap: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .sign-up-button {
+        margin-left: 0;
+        width: 100%;
+        max-width: 250px;
+    }
+
+    .hero-title {
+        font-size: 2.2em;
+    }
+
+    .section-title {
+        font-size: 1.8em;
+    }
+
     .services-grid, .members-grid {
-        grid-template-columns: 1fr; /* Stack on small screens */
+        grid-template-columns: 1fr; /* Strict vertical list for phone screens */
     }
 }

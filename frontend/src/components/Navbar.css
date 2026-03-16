@@ -1,54 +1,121 @@
+/* Navbar.css */
+:root {
+  --bg-dark: #061d18;      /* Deep Emerald Black */
+  --accent-gold: #c4fb6d;  /* Electric Lime/Gold */
+  --text-light: #f1f5f9;
+  --glass-emerald: rgba(6, 29, 24, 0.85);
+}
+
 .navbar {
-  display: flex;
-  /* justify-content: space-between; */
-  align-items: center;
-  background: linear-gradient(90deg, rgba(20, 20, 40, 0.8), rgba(30, 30, 70, 0.6));
-  padding: 15px 0px;
-  color: white;
+  position: fixed;
   top: 0;
-  z-index: 1000;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   width: 100%;
-  backdrop-filter: blur(8px);
+  padding: 25px 0;
+  z-index: 1000;
+  transition: all 0.5s cubic-bezier(0.2, 1, 0.3, 1);
 }
 
-.navbar-logo h2 {
-  margin: 20px;
-   font-size: 1.5rem;
-  letter-spacing: 1px;
-  color: #a8c0ff;
+/* State when scrolled */
+.navbar.scrolled {
+  padding: 15px 0;
+  background: var(--glass-emerald);
+  backdrop-filter: blur(15px);
+  border-bottom: 1px solid rgba(196, 251, 109, 0.2);
 }
 
-.navbar-links {
-  list-style: none;
+.nav-content {
+  max-width: 1300px;
+  margin: 0 auto;
   display: flex;
-  gap: 25px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px;
 }
 
-.navbar-links li a {
-  color: white;
+/* Logo with a pulse effect */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-dot {
+  width: 12px;
+  height: 12px;
+  background: var(--accent-gold);
+  border-radius: 50%;
+  box-shadow: 0 0 15px var(--accent-gold);
+}
+
+.logo h2 {
+  color: var(--text-light);
+  font-weight: 700;
+  letter-spacing: -1px;
+  margin: 0;
+}
+
+.logo h2 span {
+  color: var(--accent-gold);
+  font-weight: 300;
+  margin-left: 2px;
+}
+
+/* Links with an "Overline" effect */
+.nav-menu {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.link {
+  color: whitesmoke;
   text-decoration: none;
+  font-size: 0.9rem;
   font-weight: 500;
-  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  position: relative;
   transition: color 0.3s ease;
 }
 
-.navbar-links li a:hover {
-  color: #a8c0ff;
-  text-shadow: 0 0 5px rgba(168, 192, 255, 0.6);
+.link:hover {
+  color: var(--accent-gold);
 }
 
-/* ✅ Responsive for small screens */
-@media (max-width: 768px) {
-  .navbar {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 15px 20px;
-  }
+.link::before {
+  content: '';
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--accent-gold);
+  transition: all 0.3s ease;
+  transform: translateX(-50%);
+}
 
-  .navbar-links {
-    flex-direction: column;
-    gap: 10px;
-    margin-top: 10px;
-  }
+.link:hover::before {
+  width: 100%;
+}
+
+/* Unique Neon Border Button */
+.nav-btn {
+  background: transparent;
+  color: var(--accent-gold);
+  border: 1px solid var(--accent-gold);
+  padding: 10px 25px;
+  border-radius: 4px;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.nav-btn:hover {
+  background: var(--accent-gold);
+  color: var(--bg-dark);
+  box-shadow: 0 0 20px rgba(196, 251, 109, 0.4);
 }

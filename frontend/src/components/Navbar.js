@@ -1,18 +1,31 @@
-import React from "react";
-import "./Navbar.css"; // we'll create this next
+import React, { useState, useEffect } from "react";
+import "./Navbar.css";
 
 const Navbar = () => {
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => setIsScrolled(window.scrollY > 20);
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   return (
-    <nav className="navbar">
-      <div className="navbar-logo">
-        <h2>Addiction Predictor</h2>
+    <nav className={`navbar ${isScrolled ? "scrolled" : ""}`}>
+      <div className="nav-content">
+        <div className="logo">
+          <div className="logo-dot"></div>
+          <h2>Addiction<span>Predictor</span></h2>
+        </div>
+        
+        <div className="nav-menu">
+          <a href="/" className="link">Home</a>
+          <a href="/questionnaire" className="link">Predict Addiction</a>
+          <a href="/dashboard" className="link">Details Report</a>
+          <a href="/areavisual" className="link">Your Area</a>
+          <a href="/areavisual" className="link">Future Trends</a>
+        </div>
       </div>
-      <ul className="navbar-links">
-        <li><a href="/">Home</a></li>
-        <li><a href="#about">About</a></li>
-        {/* <li><a href="#test">XXX</a></li> */}
-        <li><a href="#contact">Contact</a></li>
-      </ul>
     </nav>
   );
 };

@@ -67,23 +67,23 @@ const mediumRiskTips = [
 ];
 
 const highRiskTips = [
-"Implement strict screen-time limits for social media platforms.",
-"Encourage daily digital detox periods.",
-"Promote counseling or mental wellness sessions.",
-"Use app blockers during study or work hours.",
-"Encourage participation in community activities.",
-"Limit phone usage before bedtime.",
-"Create structured daily routines with limited screen time."
+"Try to limit social media use to specific hours in a day.",
+"Turn off notifications from social media apps.",
+"Take regular breaks from your phone during study or work time.",
+"Spend more time doing offline activities like sports or hobbies.",
+"Avoid using your phone before sleeping.",
+"Use screen-time apps to control how long you use social media.",
+"Try a small digital detox day once every week."
 ];
 
 const severeRiskTips = [
-"Seek professional counseling or psychological support.",
-"Implement strict monitoring of social media usage.",
-"Reduce usage gradually with a scheduled digital detox plan.",
-"Encourage strong family supervision and support.",
-"Replace screen time with structured daily activities.",
-"Join support groups addressing digital addiction.",
-"Focus on mental wellness programs and stress management."
+"Start reducing social media time little by little every day.",
+"Ask family members to help monitor your screen time.",
+"Try to stay away from your phone during important activities.",
+"Replace social media time with exercise or outdoor activities.",
+"Take a few hours of complete digital detox every day.",
+"If social media affects your mood or sleep, consider talking to a counselor.",
+"Spend more time with friends and family instead of online platforms."
 ];
 
 /* ===== Random Recommendation Selector ===== */
@@ -377,23 +377,39 @@ return (
 
     </table>
 
-    <div className="insight">
+    <div className={`insight-container risk-${recommendation.level.split(' ')[0].toLowerCase()}`}>
+      <div className="insight-header">
+        <div className="ai-icon">
+          <span>✨</span>
+        </div>
+        <div className="header-text">
+          <h3>AI Prevention Strategies</h3>
+          <div className="risk-badge">
+            {recommendation.level} Analysis
+          </div>
+        </div>
+      </div>
 
-      <h3>AI Prevention Strategies</h3>
+      <div className="forecast-summary">
+        <p>
+          In <span className="highlight">{city}</span>, addiction levels show an 
+          <span className={`trend-tag ${trend.toLowerCase()}`}> {trend.toLowerCase()} </span> 
+          trend, projected to reach <b>{endVal.toFixed(1)}%</b> by <b>{futureData.at(-1).Year}</b>.
+        </p>
+      </div>
 
-      <p>
-      In <b>{city}</b>, addiction levels show an <b>{trend.toLowerCase()}</b> trend
-      and may reach <b>{endVal.toFixed(1)}%</b> by <b>{futureData.at(-1).Year}</b>.
-      </p>
-
-      <p><b>Risk Level:</b> {recommendation.level}</p>
-
-      <ul>
-      {recommendation.tips.map((tip,index)=>(
-        <li key={index}>{tip}</li>
-      ))}
-      </ul>
-
+      <div className="tips-grid">
+        {recommendation.tips.map((tip, index) => (
+          <div className="tip-card" key={index}>
+            <div className="tip-number">{index + 1}</div>
+            <p>{tip}</p>
+          </div>
+        ))}
+      </div>
+      
+      <div className="ai-footer">
+        <small>Action plan generated based on local {city} growth trends.</small>
+      </div>
     </div>
 
     </>

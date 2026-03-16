@@ -193,15 +193,6 @@ const AreaVisual = () => {
                     />
                 )}
             </div>
-
-            <div className="area-back">
-                <button onClick={() => window.location.href = "/dashboard"}>
-                    📊 View Detailed Report
-                </button>
-                <button onClick={() => window.location.href = "/futureprediction"}>
-                    🔮 Future Addiction Forecast
-                </button>
-            </div>
             
         </div>
     );

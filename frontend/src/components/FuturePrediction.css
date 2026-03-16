@@ -204,28 +204,108 @@ tbody tr:hover
 
 /* ===== INSIGHT ===== */
 
-.insight{
-
-margin-top:30px;
-padding:20px;
-
-border-radius:12px;
-
-background:
-linear-gradient(135deg,#eef2ff,#f0fdf4);
-
-border:1px solid #e5e7eb;
+/* Container styling */
+.insight-container {
+  margin-top: 40px;
+  padding: 25px;
+  border-radius: 20px;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+  border: 1px solid #eef2f6;
+  text-align: left;
 }
 
-.insight h3{
-margin-bottom:10px;
-color:#111827;
+/* Header with AI Icon */
+.insight-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
 }
 
-.insight p{
-color:#374151;
-font-size:14px;
-line-height:1.6;
+.ai-icon {
+  background: linear-gradient(135deg, #6366f1, #a855f7);
+  width: 45px;
+  height: 45px;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+}
+
+.risk-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-top: 5px;
+}
+
+/* Dynamic Risk Colors */
+.risk-low .risk-badge { background: #dcfce7; color: #166534; }
+.risk-moderate .risk-badge { background: #fef3c7; color: #92400e; }
+.risk-high .risk-badge { background: #fee2e2; color: #991b1b; }
+.risk-severe .risk-badge { background: #7f1d1d; color: #ffffff; }
+
+/* Forecast Summary Text */
+.forecast-summary {
+  background: #f8fafc;
+  padding: 15px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  border-left: 4px solid #6365f1;
+}
+
+.highlight { font-weight: 800; color: #1e293b; }
+.trend-tag.increasing { color: #ef4444; font-weight: 700; }
+
+/* Tips Grid */
+.tips-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 15px;
+}
+
+.tip-card {
+  background: #fff;
+  border: 2px solid #f1f5f9;
+  padding: 15px;
+  border-radius: 15px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  transition: transform 0.2s ease;
+}
+
+.tip-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.tip-number {
+  background: #f1f5f9;
+  color: #64748b;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 0.75rem;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.ai-footer {
+  margin-top: 20px;
+  border-top: 1px solid #f1f5f9;
+  padding-top: 10px;
+  color: #94a3b8e7;
+  font-style: italic;
 }
 
 /* ===== MOBILE ===== */

@@ -15,9 +15,6 @@ const Dashboard = () => {
         allowFullScreen={true}
       ></iframe>
 
-      <div className="dashboard-buttons">
-        <button onClick={() => (window.location.href = "/areavisual")}>📊 Compare to My Area</button>
-      </div>
     </div>
   );
 };
