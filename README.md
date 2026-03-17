@@ -85,22 +85,18 @@ This project focuses on understanding the impact of social media usage by combin
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/social-media-addiction.git
-cd social-media-addiction
+- git clone https://github.com/your-username/social-media-addiction.git
+- cd social-media-addiction
 
 ### 2. Run Backend
-cd backend
-pip install -r requirements.txt
-python app.py
+- cd backend
+- pip install -r requirements.txt
+- python app.py
 
 ### 3. Run Frontend
-cd frontend
-npm install
-npm start
-
-### 4. Generate Future Forecast
-cd ml
-python forecast_script.py
+- cd frontend
+- npm install
+- npm start
 
 ## 📈 Output Highlights
 
