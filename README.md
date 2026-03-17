@@ -107,23 +107,23 @@ This project focuses on understanding the impact of social media usage by combin
 
 ## 📚 Applications
 
-Digital wellness awareness
-Behavioral research
-Educational projects
-Social trend analysis
+- Digital wellness awareness
+- Behavioral research
+- Educational projects
+- Social trend analysis
 
 ## 🔮 Future Enhancements
 
-Deep learning models (LSTM, GRU)
-Real-time data integration
-Advanced recommendation system
-Mobile application
+- Deep learning models (LSTM, GRU)
+- Real-time data integration
+- Advanced recommendation system
+- Mobile application
 
 ## 👨‍💻 Team
 
-Sankar Bhunia
-Mili Parua
-Sayantan Ghosh
+- Sankar Bhunia
+- Mili Parua
+- Sayantan Ghosh
 
 ## 📜 License
 
