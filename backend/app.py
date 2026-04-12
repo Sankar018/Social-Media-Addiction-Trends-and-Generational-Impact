@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["https://your-project.vercel.app"])
 
 # --- Load ML model ---
 with open("addiction_prediction_model.pkl", "rb") as file:
