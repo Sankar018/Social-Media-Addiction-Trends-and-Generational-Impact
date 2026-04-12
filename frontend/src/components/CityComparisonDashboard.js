@@ -111,7 +111,7 @@ const CityComparisonDashboard = ({ city, state, userData }) => {
   useEffect(() => {
     if (!city || !state || !userData) return;
 
-    fetch("http://127.0.0.1:5000/api/get-city-data", {
+    fetch("https://social-media-addiction-trends-and-dyza.onrender.com/api/get-city-data", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

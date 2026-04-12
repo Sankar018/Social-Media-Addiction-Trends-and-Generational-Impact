@@ -132,7 +132,7 @@ const [city, setCity] = useState("");
 const [futureData, setFutureData] = useState([]);
 const [loading, setLoading] = useState(false);
 
-const BACKEND_URL = "http://localhost:5000/api/future-forecast";
+const BACKEND_URL = "https://social-media-addiction-trends-and-dyza.onrender.com/api/future-forecast";
 
 const getAddictionLevel = (score) => {
 if (score < 40) return { label: "Low", color: "#22c55e" };

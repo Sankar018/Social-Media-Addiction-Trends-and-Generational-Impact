@@ -36,8 +36,8 @@ const AreaVisual = () => {
     const [userData, setUserData] = useState(null); 
     const [fetchError, setFetchError] = useState(null); 
 
-    const BACKEND_URL_COMPARE = "http://localhost:5000/api/generate-csv";
-    const BACKEND_URL_GET_USER = "http://localhost:5000/api/get-user-prediction";
+    const BACKEND_URL_COMPARE = "https://social-media-addiction-trends-and-dyza.onrender.com/api/generate-csv";
+    const BACKEND_URL_GET_USER = "https://social-media-addiction-trends-and-dyza.onrender.com/api/get-user-prediction";
 
     // 1. Fetch user data on component mount
     useEffect(() => {
