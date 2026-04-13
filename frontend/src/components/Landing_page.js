@@ -8,19 +8,18 @@ const servicesData = [
         icon: '📊', 
         title: 'Addiction Prediction', 
         description: 'Uses a Machine Learning model to accurately predict a user’s current level of social media addiction based on in-app behavior.',
-        link: '/questionnaire'
+    
     },
     { 
         icon: '📈', 
         title: 'Generational Impact Trends', 
         description: 'Forecasts how addiction trends are likely to evolve in the future for different generational and regional cohorts.',
-        link: '/futureprediction'
+        
     },
     { 
         icon: '💡', 
         title: 'Personalized Recommendations', 
         description: 'Provides tailored advice and digital well-being strategies to help users mitigate their predicted addiction risks.',
-        link: '/advice'
     },
 ];
 
@@ -50,9 +49,6 @@ const ServicesSection = () => {
                         <div className="service-icon">{service.icon}</div>
                         <h3>{service.title}</h3>
                         <p>{service.description}</p>
-                        <Link to={service.link} className="service-link">
-                            Learn More →
-                        </Link>
                     </div>
                 ))}
             </div>
