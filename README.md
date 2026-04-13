@@ -57,7 +57,7 @@ This project focuses on understanding the impact of social media usage by combin
 ### 💻 Frontend
 - React.js  
 - Chart.js / PowerBI 
-- CSS  
+- css
 
 ### 🔙 Backend
 - Flask (Python)  
